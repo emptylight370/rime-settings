@@ -1,0 +1,36 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.16.3
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Thu Dec 26 14:05:06 2024"
+  rime_version: 1.11.2
+patch:
+  show_notifications: false
+  style/candidate_list_layout: linear
+  style/horizontal: true
+  style/inline_preedit: true
+  app_options/+:
+    cmd.exe:
+      ascii_mode: true
+    conhost.exe:
+      ascii_mode: true
+    windowsterminal.exe:
+      ascii_mode: true
+    wt.exe:
+      ascii_mode: true
+    pwsh.exe:
+      ascii_mode: true
+    powershell.exe:
+      ascii_mode: true
+    starward.exe:
+      ascii_mode: true
+    bh3.exe:
+      ascii_mode: true
+    starrail.exe:
+      ascii_mode: true
+    code.exe:
+      ascii_mode: true
+    cypher.exe:
+      ascii_mode: true
+    dopus.exe:
+      ascii_mode: true

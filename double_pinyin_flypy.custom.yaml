@@ -1,0 +1,19 @@
+patch:
+  menu/page_size: 9
+  # 语言模型
+  "grammar/language": amz-v3n2m1-zh-hans
+  "grammar/collocation_max_length": 5
+  "grammar/collocation_min_length": 2
+  # translator 内加载
+  "translator/contextual_suggestions": true
+  "translator/max_homophones": 7
+  "translator/max_homographs": 7
+  punctuator:
+    full_shape:
+      __include: default:/punctuator/full_shape  # 从 default.yaml 导入配置
+    half_shape:
+      __include: default:/punctuator/half_shape  # 从 default.yaml 导入配置
+    symbols:
+      __include: symbols_caps_v:/symbols         # 从 symbols_caps_v.yaml 导入配置
+  recognizer/patterns/punct: "^V([0-9]|10|[A-Za-z]+)$"    # 响应 symbols_caps_v.yaml 的 symbols
+  speller/delimiter: " `'‘’"
