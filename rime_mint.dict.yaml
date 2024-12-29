@@ -15,7 +15,6 @@ import_tables:
   - dicts/arknights
   - dicts/honkai_3rd
   - dicts/honkai_starrail
-  - dicts/honkai_starrail_gonglve
   # 20240608 Emoji完全交友OpenCC，不再使用字典作为补充
   # - dicts/other_emoji            # Emoji(仅仅作为补充，实际使用一般是OpenCC生效)
 ...

@@ -31,9 +31,11 @@ sort: by_weight
 暴击	bao ji
 暴击率	bao ji lv
 暴击伤害	bao ji shang hai
+暴击衣	bao ji yi
 爆辣蓬蓬菇	bao la peng peng gu
 宝命长存的莳者	bao ming chang cun de shi zhe
 宝石蜥肉串食谱	bao shi xi rou chuan shi pu
+爆伤衣	bao shang yi
 被废弃与损害的	bei fei qi yu sun hai de
 背孤击虚	bei gu ji xu
 悲剧讲座	bei ju jiang zuo
@@ -50,11 +52,15 @@ sort: by_weight
 崩坏	beng huai
 崩坏星穹铁道	beng huai xing qiong tie dao
 迸裂晶格	beng lie jing ge
+比阳光更明亮	bi yang guang geng ming liang
+壁羽	bi yu
 变更通知	bian geng tong zhi
 边缘通路	bian yuan tong lu
 别让世界静下来	bie rang shi jie jing xia lai
 冰风暴成因	bing feng bao cheng yin
 病痛的折磨	bing tong de zhe mo
+冰伤球	bing shang qiu
+冰套	bing tao
 冰之芯	bing zhi xin
 铂金时代	bo jin shi dai
 博识学会	bo shi xue hui
@@ -76,11 +82,15 @@ sort: by_weight
 残响回廊	can xiang hui lang
 残页	can ye
 舱段	cang duan
+苍穹	cang qiong
+苍穹战线格拉默	cang qiong zhan xian ge la mo
 操行满分	cao xing man fen
 测不准匣	ce bu zhun xia
+差分机	cha fen ji
 长乐天	chang le tian
 怅然若失	chang ran ruo shi
 长右	chang you
+嘲讽	chao feng
 超静定场	chao jing ding chang
 潮流品牌郊外	chao liu pin pai jiao wai
 晨昏交界的翔鹰	chen hun jiao jie de xiang ying
@@ -101,13 +111,17 @@ sort: by_weight
 斥逐	chi zhu
 虫巢	chong chao
 重返幽冥	chong fan you ming
+充能	chong neng
+充能绳	chong neng sheng
 充能效率	chong neng xiao lv
 充能值	chong neng zhi
 虫网	chong wang
+重塑时光之忆	chong su shi guang zhi yi
 重新获取	chong xin huo qu
 储备度规	chu bei du gui
 触不可及	chu bu ke ji
 触电	chu dian
+纯粹思维的洗礼	chun cui si wei de xi li
 穿过风雪的旅人	chuan guo feng xue de lv ren
 垂髫之年	chui tiao zhi nian
 蠢动原核	chun dong yuan he
@@ -115,6 +129,7 @@ sort: by_weight
 春神和战争之神雅利洛	chun shen he zhan zheng zhi shen ya li luo
 春水初生	chun shui chu sheng
 纯真	chun zhen
+此身为剑	ci shen wei jian
 此时恰好	ci shi qia hao
 次元扑满	ci yuan pu man
 篡改的野心	cuan gai de ye xin
@@ -126,11 +141,13 @@ sort: by_weight
 存护筑材	cun hu zhu cai
 存在的黄昏	cun zai de huang hun
 错误道具	cuo wu dao ju
+大防御	da fang yu
 大寒潮	da han chao
 大矿区	da kuang qu
 大矿区排班表	da kuang qu pai ban biao
 大矿区生活守则	da kuang qu sheng huo shou ze
 大矿区铁道之夜	da kuang qu tie dao zhi ye
+大生命	da sheng ming
 大守护者	da shou hu zhe
 大宇宙炒饭	da yu zhou chao fan
 大愿般若船	da yuan bo re chuan
@@ -190,15 +207,22 @@ sort: by_weight
 法雨	fa yu
 翻倍	fan bei
 反抗组织	fan kang zu zhi
+烦恼着幸福着	fan nao zhe xing fu zhe
 反物质非逆方程	fan wu zhi fei ni fang cheng
 反物质力场生成器	fan wu zhi li chang sheng cheng qi
 蕃息	fan xi
+繁星	fan xing
 繁星璀璨的天才	fan xing cui can de tian cai
 繁星竞技场	fan xing jing ji chang
 泛银河商业公司	fan yin he shang ye gong si
+繁育	fan yu
 反震	fan zhen
 反重子	fan zhong zi
 防御力	fang yu li
+防御球	fang yu qiu
+防御绳	fang yu sheng
+防御鞋	fang yu xie
+防御衣	fang yu yi
 飞虹诛凿齿	fei hong zhu zao chi
 飞向明天	fei xiang ming tian
 焚化工	fen hua gong
@@ -219,10 +243,12 @@ sort: by_weight
 丰饶众生一法界心	feng rao zhong sheng yi fa jie xin
 风雪免疫	feng xue mian yi
 风雪之角	feng xue zhi jiao
+封印站	feng yin zhan
 风之旋	feng zhi xuan
 附加伤害	fu jia shang hai
 浮黎	fu li
 福灵胶	fu ling jiao
+负面伤害加成	fu mian shang hai jia cheng
 负面效果	fu mian xiao guo
 拂晓之前	fu xiao zhi qian
 复兴剿荡	fu xing jiao dang
@@ -239,6 +265,9 @@ sort: by_weight
 给新手检修员的留言	gei xin shou jian xiu yuan de liu yan
 根除恶孽	gen chu e nie
 攻击力	gong ji li
+攻击球	gong ji qiu
+攻击鞋	gong ji xie
+攻击衣	gong ji yi
 共晶反应	gong jing fan ying
 公司	gong si
 工造迴轮	gong zao hui lun
@@ -251,6 +280,7 @@ sort: by_weight
 古代引擎	gu dai yin qing
 古代转轴	gu dai zhuan zhou
 固定概率	gu ding gai lv
+孤独的疗愈	gu du de liao yu
 咕咕钟	gu gu zhong
 固溶强化	gu rong qiang hua
 固态净水	gu tai jing shui
@@ -278,7 +308,9 @@ sort: by_weight
 寒冬的战士们	han dong de zhan shi men
 寒铁的誓言	han tie de shi yan
 好看的垃圾	hao kan de la ji
+好戏开演	hao xi kai yan
 合成机	he cheng ji
+何物为真	he wu wei zhen
 黑面包汽水冰山	hei mian bao qi shui bing shan
 黑森林	hei sen lin
 黑塔	hei ta
@@ -286,6 +318,7 @@ sort: by_weight
 黑塔的手稿	hei ta de shou gao
 黑塔情诗	hei ta qing shi
 黑塔研究图鉴	hei ta yan jiu tu jian
+嘿我在这儿	hei wo zai zhe er
 恒冰	heng bing
 恒温晶壳	heng wen jing ke
 宏观偏析	hong guan pian xi
@@ -313,7 +346,9 @@ sort: by_weight
 回归	hui gui
 慧海度慈航	hui hai du ci hang
 回合	hui he
+回合数	hui he shu
 回馈庇护	hui kui bi hu
+毁烬焚骨的大公	hui jin fen gu de da gong
 毁灭	hui mie
 毁灭性吸积	hui mie xing xi ji
 毁灭异质	hui mie yi zhi
@@ -330,6 +365,7 @@ sort: by_weight
 回忆之蕾	hui yi zhi lei
 回应的兴奋	hui ying de xing fen
 回转	hui zhuan
+混沌回忆	hun dun hui yi
 混沌云芝	hun dun yun zhi
 混乱行至深处	hun luan xing zhi shen chu
 火帝动炉销剑戟	huo di dong lu xiao jian ji
@@ -351,11 +387,16 @@ sort: by_weight
 机壳中的宇宙	ji ke zhong de yu zhou
 吉姆罗杰面包味汽水	ji mu luo jie mian bao wei qi shui
 击破敌方目标弱点	ji po di fang mu biao ruo dian
+击破绳	ji po sheng
+击破套	ji po tao
+击破效率提升	ji po xiao lv ti sheng
 机械	ji xie
 机械聚落	ji xie ju luo
+机心戏梦的钟表匠	ji xin xi meng de zhong biao jiang
 记忆	ji yi
 记忆的质料	ji yi de zhi liao
 记一位星神的陨落	ji yi wei xing shen de yun luo
+记忆紊流	ji yi wen liu
 记忆中的模样	ji yi zhong de mu yang
 基于	ji yu
 姬子	ji zi
@@ -368,7 +409,9 @@ sort: by_weight
 家书	jia shu
 家族颂歌	jia zu song ge
 坚定	jian ding
+减抗	jian kang
 健康炒米	jian kang chao mi
+解控	jie kong
 缄默	jian mo
 践踏的意志	jian ta de yi zhi
 践踏者	jian ta zhe
@@ -389,6 +432,7 @@ sort: by_weight
 街头出身的拳王	jie tou chu shen de quan wang
 界域定锚	jie yu ding mao
 禁锢状态	jin gu zhuang tai
+惊魂夜	jing hun ye
 近况汇总	jin kuang hui zong
 金人司阍	jin ren si hun
 今日亦是和平的一日	jin ri yi shi he ping de yi ri
@@ -400,6 +444,7 @@ sort: by_weight
 景星助狩月	jing xing zhu shou yue
 精英敌人	jing ying di ren
 景元	jing yuan
+镜中故我	jing zhong gu wo
 久安长治	jiu an chang zhi
 九十九亿个名字	jiu shi jiu yi ge ming zi
 俱乐部券	ju le bu quan
@@ -449,6 +494,7 @@ sort: by_weight
 矿业机械订单列表	kuang ye ji xie ding dan lie biao
 奎木	kui mu
 垃圾	la ji
+拉条	la tiao
 朗道的选择	lang dao de xuan ze
 老矿头的宝贝	lao kuang tou de bao bei
 乐圮	le pi
@@ -498,6 +544,7 @@ sort: by_weight
 乱七八糟	luan qi ba zao
 掠夺的本能	lue duo de ben neng
 掠夺者	lue duo zhe
+轮次	lun ci
 沦浃肌髓	lun jia ji sui
 论剑	lun jian
 轮契	lun qi
@@ -518,8 +565,10 @@ sort: by_weight
 每次行动	mei ci xing dong
 梅登矿洞要塌了	mei deng kuang dong yao ta le
 美服	mei fu
+美梦小镇大冒险	mei meng xiao zhen da mao xian
+梦潜之径	meng qian zhi jing
 每日实训	mei ri shi xun
-没有注释	mei you zhu shi
+梦想之地匹诺康尼	meng xiang zhi di pi nuo kang ni
 迷彩油漆	mi cai you qi
 秘传	mi chuan
 弥合	mi he
@@ -532,6 +581,7 @@ sort: by_weight
 迷惘	mi wang
 灭罪累生善	mie zui lei sheng shan
 明澈琉璃身	ming che liu li shen
+铭记于心的约定	ming ji yu xin de yue ding
 鸣雷造物	ming lei zao wu
 鸣藕糕	ming ou gao
 命途	ming tu
@@ -574,6 +624,8 @@ sort: by_weight
 磐岩镇奇妙夜	pan yan zhen qi miao ye
 佩拉	pei la
 朋克洛德精神	peng ke luo de jing shen
+匹诺康尼	pi nuo kang ni
+片刻留在眼底	pian ke liu zai yan di
 偏振受体	pian zhen shou ti
 拼接而成的信件	pin jie er cheng de xin jian
 破坏性耀发	po huai xing yao fa
@@ -624,7 +676,9 @@ sort: by_weight
 弱点击破效率	ruo dian ji po xiao lv
 若罪若福	ruo zui ruo fu
 若罪若福施诸愿印	ruo zui ruo fu shi zhu yuan yin
+萨尔索图	sa er suo tu
 赛飞儿	sai fei er
+散步时间	san bu shi jian
 三余书肆	san yu shu si
 三月七	san yue qi
 三只小猪	san zhi xiao zhu
@@ -647,13 +701,19 @@ sort: by_weight
 生而服从	sheng er fu cong
 生活物资需求征集	sheng huo wu zi xu qiu zheng ji
 胜军	sheng jun
+生命百分比	sheng ming bai fen bi
 生命传输器	sheng ming chuan shu qi
 生命的翁瓦克	sheng ming de weng wa ke
+生命球	sheng ming qiu
+生命绳	sheng ming sheng
+生命鞋	sheng ming xie
+生命衣	sheng ming yi
 生命上限	sheng ming shang xian
 生命值回复量	sheng ming zhi hui fu liang
 生命之泉	sheng ming zhi quan
 生命之芽	sheng ming zhi ya
 生命值总量	sheng ming zhi zong liang
+圣颂之径	sheng song zhi jing
 士兵们默默无言	shi bing men mo mo wu yan
 十二猴子与怒汉	shi er hou zi yu nu han
 始发跃迁	shi fa yue qian
@@ -681,14 +741,17 @@ sort: by_weight
 属性伤害	shu xing shang hai
 戍御	shu yu
 赎珠阁	shu zhu ge
+霜风之径	shuang feng zhi jing
 霜晶造物	shuang jing zao wu
 水晶日报的送审样稿	shui jing ri bao de song shen yang gao
 说唱大战投票通道开启	shuo chang da zhan tou piao tong dao kai qi
 四号屠场	si hao tu chang
 四棱锥体	si leng zhui ti
+死水深潜的先驱	si shui shen qian de xian qu
 苏打豆汁儿	su da dou zhi er
 速度	su du
 速度提高	su du ti gao
+速度鞋	su du xie
 素裳	su shang
 随后	sui hou
 随机敌方	sui ji di fang
@@ -697,6 +760,7 @@ sort: by_weight
 她等待刀尖已经太久	ta deng dai dao jian yi jing tai jiu
 祂们	ta men
 他人即地狱	ta ren ji di yu
+她已闭上双眼	ta yi bi shang shuang yan
 太卜司	tai bu si
 探索模式	tan suo mo shi
 躺在铁锈中	tang zai tie xiu zhong
@@ -767,6 +831,7 @@ sort: by_weight
 微光原核	wei guang yuan he
 危害性余光	wei hai xing yu guang
 为何一切尚未消失	wei he yi qie shang wei xiao shi
+位面饰品	wei mian shi pin
 未能寄出的家书	wei neng ji chu de jia shu
 葳蕤繁祉	wei rui fan zhi
 葳蕤繁祉延彼遐龄	wei rui fan zhi yan bi xia ling
@@ -774,6 +839,7 @@ sort: by_weight
 唯有沉默	wei you chen mo
 温世齐	wen shi qi
 翁法罗斯	weng fa luo si
+翁瓦克	weng wa ke
 我的诞生	wo de dan sheng
 我方全体	wo fang quan ti
 我们是地火	wo men shi di huo
@@ -823,6 +889,7 @@ sort: by_weight
 香涎干酪	xiang xian gan lao
 小吃摊	xiao chi tan
 效果抵抗	xiao guo di kang
+效果命中	xiao guo ming zhong
 消耗能量	xiao hao neng liang
 小虎克的宝贝	xiao hu ke de bao bei
 魈魅寻踪	xiao mei xun zong
@@ -869,6 +936,7 @@ sort: by_weight
 行政区	xing zheng qu
 修复者	xiu fu zhe
 虚构史学家	xu gou shi xue jia
+虚构叙事	xu gou xu shi
 虚幻铸铁	xu huan zhu tie
 虚空黑曜	xu kong hei yao
 虚粒子	xu li zi
@@ -889,6 +957,7 @@ sort: by_weight
 巽风造物	xun feng zao wu
 巡猎	xun lie
 巡猎石	xun lie shi
+迅拳之径	xun quan zhi jing
 巡星之礼	xun xing zhi li
 寻药溯源	xun yao su yuan
 亚服	ya fu
@@ -914,9 +983,11 @@ sort: by_weight
 摇滚	yao gun
 曜青	yao qing
 药师	yao shi
+药使之径	yao shi zhi jing
 药王秘传	yao wang mi chuan
 药王秘传炼形者	yao wang mi chuan lian xing zhe
 野穗伴行的快枪手	ye sui ban xing de kuai qiang shou
+野烟之径	ye yan zhi jing
 一场术后对话	yi chang shu hou dui hua
 溢出	yi chu
 一次性动力臂	yi ci xing dong li bi
@@ -944,6 +1015,7 @@ sort: by_weight
 银河大乐透	yin he da le tou
 银河忽悠	yin he hu you
 银河商人	yin he shang ren
+银河沦陷日	yin he lun xian ri
 银河铁道之夜	yin he tie dao zhi ye
 银狼	yin lang
 因为我已触碰过天空	yin wei wo yi chu peng guo tian kong
@@ -972,7 +1044,9 @@ sort: by_weight
 有龙矫矫	you long jiao jiao
 有龙矫矫其渊渺渺	you long jiao jiao qi yuan miao miao
 游牧矿工	you mu kuang gong
+幽囚之径	you qiu zhi jing
 幽邃	you sui
+幽锁深牢的系囚	you suo shen lao de xi qiu
 愈合喷剂	yu he pen ji
 玉角盘虬	yu jiao pan qiu
 驭空	yu kong
@@ -1002,6 +1076,7 @@ sort: by_weight
 云树百丈蔽重楼	yun shu bai zhang bi chong lou
 陨铁	yun tie
 云无留迹的过客	yun wu liu ji de guo ke
+在火的远处	zai huo de yuan chu
 杂货小摊	za huo xiao tan
 再见黑塔	zai jian hei ta
 在蓝天下	zai lan tian xia
@@ -1026,6 +1101,7 @@ sort: by_weight
 支离破碎的日记	zhi li po sui de ri ji
 治疗	zhi liao
 治疗量	zhi liao liang
+治疗量加成	zhi liao liang jia cheng
 治疗目标	zhi liao mu biao
 致炉心基地全体	zhi lu xin ji di quan ti
 致命伤害	zhi ming shang hai
@@ -1034,15 +1110,19 @@ sort: by_weight
 智识树皮	zhi shi shu pi
 智识之钥	zhi shi zhi yao
 植物和菌类	zhi wu he jun lei
+只需等待	zhi xu deng dai
 治愈星球	zhi yu xing qiu
 支援舱段	zhi yuan cang duan
+织造命运之线	zhi zao ming yun zhi xian
 蜘蛛	zhi zhu
 制作手调咖啡	zhi zuo shou tiao ka fei
+钟表匠	zhong biao jiang
 中规中矩	zhong gui zhong ju
 终结技	zhong jie ji
 众生安眠	zhong sheng an mian
 种子	zhong zi
 重子	zhong zi
+主词条	zhu ci tiao
 筑城者	zhu cheng zhe
 筑城者的贝洛伯格	zhu cheng zhe de bei luo bo ge
 诸法无我	zhu fa wu wo
@@ -1055,6 +1135,7 @@ sort: by_weight
 逐星之矢	zhu xing zhi shi
 专注	zhuan zhu
 状态	zhuang tai
+追击伤害加成	zhui ji shang hai jia cheng
 追加攻击	zhui jia gong ji
 捉迷藏	zhuo mi cang
 灼烧	zhuo shao
@@ -1063,7 +1144,9 @@ sort: by_weight
 自动口琴茫茫白夜	zi dong kou qin mang mang bai ye
 自灭者的火种	zi mie zhe de huo zhong
 自欺咖啡馆	zi qi ka fei guan
+自塑尘脂	zi su chen zhi
 祖辈的钻头	zu bei de zuan tou
 最后的大矿区铁道之夜	zui hou de da kuang qu tie dao zhi ye
+最后的赢家	zui hou de ying jia
 尊长	zun zhang
 作者序	zuo zhe xu
