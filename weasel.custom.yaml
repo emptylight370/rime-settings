@@ -34,3 +34,11 @@ patch:
       ascii_mode: true
     dopus.exe:
       ascii_mode: true
+    tabby.exe:
+      ascii_mode: true
+    explorer.exe:
+      ascii_mode: true
+    taskmgr.exe:
+      ascii_mode: true
+    quicker.exe:
+      ascii_mode: true

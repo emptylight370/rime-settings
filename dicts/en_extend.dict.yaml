@@ -6,40 +6,41 @@
 ---
 name: en_extend
 version: "2024.12"
-sort: original
+sort: by_weight
 ...
 
 # Coding
+ALU	alu	80
+ARP	arp	80
+bit	bit	40
+bit/s	bits	40
+CRC	crc	80
+DMA	dma	80
+FCB	fcb	80
+GB	gb	80
+Gbit	gbit	80
+Gbit/s	gbits	80
+GHz	ghz	80
+Git	git	80
+Hash	hash	80
+Hz	hz	40
+ICMPv6	icmp v liu	80
+ICMPv4	icmp v si	80
+IPv6	ip v liu	80
+IPv4	ip v si	80
 I/O	io	80
-v6	v liu	30
-v4	v si	30
-ALU	alu	30
-ARP	arp	30
-bit	bit	20
-bit/s	bits	20
-CRC	crc	30
-PCB	pcb	30
-GB	gb	30
-KB	kb	30
-Gbit	gbit	30
-Gbit/s	gbits	30
-GHz	ghz	30
-Git	git	30
-Hash	hash	30
-Hz	hz	20
-ICMPv6	icmp v liu	30
-ICMPv4	icmp v si	30
-IPv6	ip v liu	30
-IPv4	ip v si	30
-MAC	mac	30
-MB	mb	20
-Mbit	mbit	30
-Mbit/s	mbits	30
-MHz	mhz	30
-NAT	nat	30
-OSPF ospf	30
-PCB	pcb	30
-FCB	fcb	30
-TCP	tcp	30
-TCP/IP	tcpip	30
-WSDL	wsdl	30
+KB	kb	80
+MAC	mac	80
+MB	mb	40
+Mbit	mbit	80
+Mbit/s	mbits	80
+MHz	mhz	80
+NAT	nat	80
+OpenCV  opencv  80
+OSPF ospf	80
+PCB	pcb	80
+TCP	tcp	80
+TCP/IP	tcpip	80
+v6	v liu	80
+v4	v si	80
+WSDL	wsdl	80
