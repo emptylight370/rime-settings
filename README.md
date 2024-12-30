@@ -4,6 +4,8 @@
 
 配置过程和解析请看：[Website](https://blog.emptylight.cn/post/rime-input-method-configuration-z1snn)(addr:cn)或[GitHub Page](https://emptylight370.github.io/post/rime-input-method-configuration-z1snn)(addr:global)(in chinese)
 
+Mirrors: [GitHub](https://github.com/emptylight370/rime-settings) or [Gitee](https://gitee.com/emptylight370/rime-settings)
+
 ## 词典
 
 自行导入了明日方舟、崩坏三、崩坏星穹铁道的词库。这些可以直接下载使用，自测没问题。并且我会不定期补充一些词条，同时也欢迎pr补充词库词条。
