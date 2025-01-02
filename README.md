@@ -1,6 +1,8 @@
 # Rime Settings
 
-基于薄荷的配置，导入部分雾凇的预设，结合起来使用。
+基于[薄荷](https://github.com/Mintimate/oh-my-rime)的配置，导入部分[雾凇](https://github.com/iDvel/rime-ice)的预设，结合起来使用。
+
+本人主用小鹤双拼，不用小鹤音形，同时维护全拼和全拼带小鹤混输的方案。其余方案因为不使用不做修改。
 
 配置过程和解析请看：[Website](https://blog.emptylight.cn/post/rime-input-method-configuration-z1snn)(addr:cn)或[GitHub Page](https://emptylight370.github.io/post/rime-input-method-configuration-z1snn)(addr:global)(in chinese)
 
@@ -25,6 +27,14 @@ Mirrors: [GitHub](https://github.com/emptylight370/rime-settings) or [Gitee](htt
 使用`Ctrl`来切换输入中英文输入，`shift`禁用。
 
 # 导入
+
+## 概括
+
+词库可以直接导入，注意导入方法。
+
+自定义配置自行与本地配置合并，不建议直接套用。可参考语法自行配置。
+
+## 说明
 
 可以将custom的文件按需复制到自己的文件中，不要直接替换，也不要直接整个复制。里面的配置是特化的，大体上只适合我自己使用。
 
