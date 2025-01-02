@@ -6,7 +6,7 @@
 ---
 name: en_extend
 version: "2024.12"
-sort: by_weight
+sort: original
 ...
 
 # Coding
@@ -29,6 +29,7 @@ ICMPv4	icmp v si	80
 IPv6	ip v liu	80
 IPv4	ip v si	80
 I/O	io	80
+KaTeX	katex	80
 KB	kb	80
 MAC	mac	80
 MB	mb	40
