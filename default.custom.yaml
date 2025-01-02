@@ -50,3 +50,4 @@ patch:
     - {accept: KP_Subtract, send: minus,    when: composing}
     - {accept: KP_Divide,   send: slash,    when: composing}
   punctuator/full_shape/'`': [ '`', '·' ]
+  punctuator/half_shape/'`': [ '`', '·' ]
