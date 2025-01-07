@@ -1,5 +1,5 @@
 ---
-name: melt_eng         # 注意name和文件名一致
+name: melt_eng.custom         # 注意name和文件名一致
 version: "2024.02.11"
 sort: by_weight
 use_preset_vocabulary: true

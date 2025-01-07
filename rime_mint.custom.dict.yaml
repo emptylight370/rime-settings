@@ -1,5 +1,5 @@
 ---
-name: rime_mint                  # 注意name和文件名一致
+name: rime_mint.custom                  # 注意name和文件名一致
 version: "2024.12.28"
 sort: by_weight
 # 此处为 输入法所用到的词库，既补充拓展词库的地方
