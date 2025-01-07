@@ -34,3 +34,7 @@ patch:
   recognizer/patterns/punct: "^V([0-9]|10|[A-Za-z]+)$"    # 响应 symbols_caps_v.yaml 的 symbols
   speller/delimiter: " `'‘’"
   speller/alphabet: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA
+  key_binder/=:
+    import_preset: default
+  translator/dictionary: rime_mint.custom
+  melt_eng/dictionary: melt_eng.custom

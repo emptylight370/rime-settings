@@ -9,6 +9,7 @@ patch:
   style/candidate_list_layout: linear
   style/horizontal: true
   style/inline_preedit: true
+  style/hover_type: semi_hilite
   app_options/+:
     cmd.exe:
       ascii_mode: true
@@ -41,4 +42,10 @@ patch:
     taskmgr.exe:
       ascii_mode: true
     quicker.exe:
+      ascii_mode: true
+    camtasiastudio.exe:
+      ascii_mode: true
+    camtasiarecorder.exe:
+      ascii_mode: true
+    mpv.exe:
       ascii_mode: true

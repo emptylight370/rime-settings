@@ -33,3 +33,7 @@ patch:
       __include: symbols_v:/symbols         # 从 symbols_v.yaml 导入配置
   recognizer/patterns/punct: "^v([0-9]|10|[A-Za-z]+)$"    # 响应 symbols_v.yaml 的 symbols
   speller/delimiter: " `'‘’"
+  key_binder/=:
+    import_preset: default
+  translator/dictionary: rime_mint.custom
+  melt_eng/dictionary: melt_eng.custom

@@ -17,7 +17,7 @@ patch:
     Control_R: commit_code
   key_binder/select_first_character: "minus"
   key_binder/select_last_character: "equal"
-  key_binder/bindings:
+  key_binder/bindings/=:
     # Tab / Shift+Tab 切换光标至下/上一个拼音
     - { when: composing, accept: Shift+Tab, send: Shift+Left }
     - { when: composing, accept: Tab, send: Shift+Right }
