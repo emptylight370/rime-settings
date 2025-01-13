@@ -36,4 +36,4 @@ patch:
   key_binder/=:
     import_preset: default
   translator/dictionary: rime_mint.custom
-  melt_eng/dictionary: melt_eng.custom
+  # melt_eng/dictionary: melt_eng.custom

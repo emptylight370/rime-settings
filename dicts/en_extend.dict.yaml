@@ -6,42 +6,36 @@
 ---
 name: en_extend
 version: "2024.12"
-sort: original
+sort: by_weight
 ...
 
 # Coding
-ALU	alu	80
-ARP	arp	80
-bit	bit	40
-bit/s	bits	40
-CRC	crc	80
-DMA	dma	80
-FCB	fcb	80
-GB	gb	80
-Gbit	gbit	80
-Gbit/s	gbits	80
-GHz	ghz	80
-Git	git	80
-Hash	hash	80
-Hz	hz	40
-ICMPv6	icmp v liu	80
-ICMPv4	icmp v si	80
-IPv6	ip v liu	80
-IPv4	ip v si	80
-I/O	io	80
-KaTeX	katex	80
-KB	kb	80
-MAC	mac	80
-MB	mb	40
-Mbit	mbit	80
-Mbit/s	mbits	80
-MHz	mhz	80
-NAT	nat	80
-OpenCV	opencv	80
-OSPF	ospf	80
-PCB	pcb	80
-TCP	tcp	80
-TCP/IP	tcpip	80
-v6	v liu	80
-v4	v si	80
-WSDL	wsdl	80
+ALU	alu
+ARP	arp
+bit	bit
+bit/s	bits
+CRC	crc
+DMA	dma
+FCB	fcb
+GB	gb
+Gbit	gbit
+Gbit/s	gbits
+GHz	ghz
+Git	git
+Hash	hash
+Hz	hz
+I/O	io
+KaTeX	katex
+KB	kb
+MAC	mac
+MB	mb
+Mbit	mbit
+Mbit/s	mbits
+MHz	mhz
+NAT	nat
+OpenCV	opencv
+OSPF	ospf
+PCB	pcb
+TCP	tcp
+TCP/IP	tcpip
+WSDL	wsdl
