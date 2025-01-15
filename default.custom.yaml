@@ -18,9 +18,9 @@ patch:
   key_binder/select_first_character: "minus"
   key_binder/select_last_character: "equal"
   key_binder/bindings/=:
-    # Tab / Shift+Tab 切换光标至下/上一个拼音
-    - { when: composing, accept: Shift+Tab, send: Shift+Left }
-    - { when: composing, accept: Tab, send: Shift+Right }
+    # Tab / Shift+Tab 切换光标至下/上一个候选项
+    - { when: composing, accept: Shift+Tab, send: Up }
+    - { when: composing, accept: Tab, send: Down }
     # Option/Alt + ←/→ 切换光标至下/上一个拼音
     - { when: composing, accept: Alt+Left, send: Shift+Left }
     - { when: composing, accept: Alt+Right, send: Shift+Right }
