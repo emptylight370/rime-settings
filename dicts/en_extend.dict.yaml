@@ -13,8 +13,10 @@ sort: by_weight
 ALU	alu
 ARP	arp
 bit	bit
+BitComet	bitcomet
 bit/s	bits
 CRC	crc
+DLSS	dlss
 DMA	dma
 FCB	fcb
 GB	gb
@@ -36,6 +38,8 @@ NAT	nat
 OpenCV	opencv
 OSPF	ospf
 PCB	pcb
+SASS	sass
+SCSS	scss
 TCP	tcp
 TCP/IP	tcpip
 WSDL	wsdl
