@@ -10,12 +10,15 @@ sort: by_weight
 ...
 
 # Coding
+AList	alist
 ALU	alu
 ARP	arp
 bit	bit
 BitComet	bitcomet
 bit/s	bits
+Cloudreve	cloudreve
 CRC	crc
+DLAA	dlaa
 DLSS	dlss
 DMA	dma
 FCB	fcb
@@ -29,6 +32,8 @@ Hz	hz
 I/O	io
 KaTeX	katex
 KB	kb
+MAA	maa
+MaaAssistantArknights	maa
 MAC	mac
 MB	mb
 Mbit	mbit
