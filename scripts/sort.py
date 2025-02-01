@@ -18,8 +18,7 @@ def sort_rime_dict_yaml(input_path, output_path):
         stripped_line = line.strip()
         if stripped_line == '...':
             in_entries = True
-            metadata.append(line)
-            continue
+            continue  # 跳过 ... 标记，不加入 metadata 列表
         if not in_entries:
             metadata.append(line)
         else:
