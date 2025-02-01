@@ -1,45 +1,58 @@
 def sort_rime_dict_yaml(input_path, output_path):
     """
-    对Rime输入法的YAML格式词库文件按拼音进行排序。
+    对Rime输入法的YAML格式词库文件按拼音进行排序，并保留词频和注释行。
     
     :param input_path: 原始词库文件路径
     :param output_path: 排序后的输出文件路径
     """
     with open(input_path, 'r', encoding='utf-8') as file:
         lines = file.readlines()
-
-    # 分离元数据和词条部分
+    
+    # 分离元数据、词条部分和注释
     metadata = []
     entries = []
+    comments = []
     in_entries = False
-
+    
     for line in lines:
-        if line.strip() == '...':
+        stripped_line = line.strip()
+        if stripped_line == '...':
             in_entries = True
             metadata.append(line)
             continue
         if not in_entries:
             metadata.append(line)
         else:
-            entries.append(line.strip())
-
+            if not stripped_line or stripped_line.startswith('#'):
+                # 保留注释行
+                comments.append(line)
+            else:
+                entries.append(line.strip())
+    
     # 解析词条部分并排序
     def parse_entry(entry):
         parts = entry.split('\t')
         word = parts[0]
-        pinyin = parts[1].split(',')[0]  # 如果有多个拼音，只取第一个作为排序依据
-        return {'word': word, 'pinyin': pinyin}
-
-    parsed_entries = [parse_entry(e) for e in entries if '\t' in e]  # 确保是有效的词条行
+        pinyin = parts[1]  # 只有一个拼音
+        freq = parts[2] if len(parts) > 2 else None  # 如果有词频则保留
+        return {'word': word, 'pinyin': pinyin, 'freq': freq, 'original': entry}
+    
+    parsed_entries = [parse_entry(e) for e in entries if '\t' in e]
     sorted_entries = sorted(parsed_entries, key=lambda x: x['pinyin'])
-
-    # 准备新的词条内容
-    sorted_entries_content = [f"{entry['word']}\t{entry['pinyin']}" for entry in sorted_entries]
+    sorted_entries_content = [entry['original'] for entry in sorted_entries]
 
     # 写入新的文件
     with open(output_path, 'w', encoding='utf-8') as output_file:
-        output_file.writelines(metadata)  # 写入元数据
+        # 写入元数据
+        output_file.writelines(metadata)
+        output_file.write('...\n')  # 添加结束符
         output_file.write('\n')  # 添加一个空行分隔元数据和词条
+        
+        # 写入注释行
+        for comment in comments:
+            output_file.write(comment)
+        
+        # 写入排序后的词条
         for entry in sorted_entries_content:
             output_file.write(entry + '\n')
 
