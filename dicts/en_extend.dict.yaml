@@ -12,6 +12,7 @@ sort: by_weight
 # Coding
 AList	alist
 ALU	alu
+Arcaea	arcaea
 ARP	arp
 bit	bit
 BitComet	bitcomet
@@ -27,11 +28,16 @@ Gbit	gbit
 Gbit/s	gbits
 GHz	ghz
 Git	git
+GitHub issues	githubissues
 Hash	hash
 Hz	hz
 I/O	io
+js	js
+JS	js
+JavaScript	js
 KaTeX	katex
 KB	kb
+lowiro	lowiro
 MAA	maa
 MaaAssistantArknights	maa
 MAC	mac
@@ -43,8 +49,14 @@ NAT	nat
 OpenCV	opencv
 OSPF	ospf
 PCB	pcb
+pr	pr
+pull request	pr
+Pull Request	pr
 SASS	sass
 SCSS	scss
 TCP	tcp
 TCP/IP	tcpip
+ts	ts
+TS	ts
+TypeScript	ts
 WSDL	wsdl
