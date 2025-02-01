@@ -49,3 +49,5 @@ patch:
       ascii_mode: true
     mpv.exe:
       ascii_mode: true
+    StardewModdingAPI.exe:
+      ascii_mode: true
