@@ -38,6 +38,7 @@ Aedes Elysiae	ai li mi xie
 白露	bai lu
 白矢决射御	bai shi jue she yu
 百无聊赖	bai wu liao lai
+白昼	bai zhou
 白昼时空	bai zhou shi kong
 宝饵堂	bao er tang
 暴风之眼	bao feng zhi yan
@@ -113,6 +114,7 @@ Aedes Elysiae	ai li mi xie
 测不准匣	ce bu zhun xia
 差分机	cha fen ji
 差分宇宙	cha fen yu zhou
+差分宇宙：千面英雄	cha fen yu zhou qian mian ying xiong
 差分宇宙·人间喜剧	cha fen yu zhou ren jian xi ju
 超验之镜	chai yan zhi jing
 长乐天	chang le tian
@@ -171,7 +173,6 @@ Aedes Elysiae	ai li mi xie
 蠢动原核	chun dong yuan he
 纯美骑士团	chun mei qi shi tuan
 纯美之袍	chun mei zhi pao
-春神和战争之神雅利洛	chun shen he zhan zheng zhi shen ya li luo
 春水初生	chun shui chu sheng
 纯真	chun zhen
 磁流解阀	ci liu jie fa
@@ -221,6 +222,7 @@ Aedes Elysiae	ai li mi xie
 到不了的彼岸	dao bu liao de bi an
 盗匪荒漠的废土客	dao fei huang mo de fei tu ke
 稻花	dao hua
+盗火行者	dao huo xing zhe
 盗贼公国塔利亚	dao zei gong guo ta li ya
 等价交换	deng jia jiao huan
 等量	deng liang
@@ -424,6 +426,7 @@ Aedes Elysiae	ai li mi xie
 黑塔债券	hei ta zhai quan
 黑天鹅	hei tian e
 嘿，我在这儿	hei wo zai zhe er
+黑夜	hei ye
 黑夜如影随形	hei ye ru ying sui xing
 恒冰	heng bing
 恒温晶壳	heng wen jing ke
@@ -620,13 +623,13 @@ Aedes Elysiae	ai li mi xie
 开拓者	kai tuo zhe
 开拓者笔记	kai tuo zhe bi ji
 开拓者·存护	kai tuo zhe cun hu
-开拓者的信条	kai tuo zhe de xin tiao
-二，即使面对惊涛骇浪，列车组应一致同向。	kai tuo zhe de xin tiao er
-六，即使局面纷乱无章，仍应看向前方、碾碎乱象。	kai tuo zhe de xin tiao liu
-三，即使身处进退存亡，仍应与不义相抗。	kai tuo zhe de xin tiao san
-四，即使遭到世人遗忘，仍不计事后短长。	kai tuo zhe de xin tiao si
-五，即使银河暮色苍茫，仍应将长夜照亮。	kai tuo zhe de xin tiao wu
-一，即使命途兴衰消长，开拓者应自有主张。	kai tuo zhe de xin tiao yi
+开拓者的信条	kai tuo zhe de xin tiao	99
+二，即使面对惊涛骇浪，列车组应一致同向。	kai tuo zhe de xin tiao er	97
+六，即使局面纷乱无章，仍应看向前方、碾碎乱象。	kai tuo zhe de xin tiao liu	93
+三，即使身处进退存亡，仍应与不义相抗。	kai tuo zhe de xin tiao san	96
+四，即使遭到世人遗忘，仍不计事后短长。	kai tuo zhe de xin tiao si	95
+五，即使银河暮色苍茫，仍应将长夜照亮。	kai tuo zhe de xin tiao wu	94
+一，即使命途兴衰消长，开拓者应自有主张。	kai tuo zhe de xin tiao yi	98
 开拓者·毁灭	kai tuo zhe hui mie
 开拓者·记忆	kai tuo zhe ji yi
 开拓者·同谐	kai tuo zhe tong xie
