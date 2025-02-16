@@ -45,7 +45,8 @@ def sort_rime_dict_yaml(input_path, output_path):
         # 写入元数据
         output_file.writelines(metadata)
         output_file.write('...\n')  # 添加结束符
-        output_file.write('\n')  # 添加一个空行分隔元数据和词条
+        # 原本有空行就不要再加了
+        # output_file.write('\n')  # 添加一个空行分隔元数据和词条
         
         # 写入注释行
         for comment in comments:
