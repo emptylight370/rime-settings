@@ -25,8 +25,8 @@ patch:
     - { when: composing, accept: Alt+Left, send: Shift+Left }
     - { when: composing, accept: Alt+Right, send: Shift+Right }
     # 翻页 , .
-    - { when: paging, accept: comma, send: Left }
-    - { when: has_menu, accept: period, send: Right }
+    - { when: paging, accept: comma, send: Up }
+    - { when: has_menu, accept: period, send: Down }
     # 翻页 [ ]  ⚠️ 开启时请修改上面以词定字的快捷键
     - { when: paging, accept: bracketleft, send: Page_Up }
     - { when: has_menu, accept: bracketright, send: Page_Down }
