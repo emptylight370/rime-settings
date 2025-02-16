@@ -83,6 +83,7 @@ sort: original
 爱因上下	ai yin shang xia
 爱因上中	ai yin shang zhong
 爱因斯坦	ai yin si tan
+爱因斯坦环磁机	ai yin si tan huan ci ji
 爱因斯坦两件套	ai yin si tan liang jian tao
 爱因斯坦三件套	ai yin si tan san jian tao
 爱因斯坦上	ai yin si tan shang
@@ -224,6 +225,7 @@ sort: original
 白核	bai he
 白虎听风	bai hu ting feng
 白教父	bai jiao fu
+百里窗	bai li chuang
 白练	bai lian
 白练爆裂形态	bai lian bao lie xing tai
 百鸟	bai niao
@@ -463,6 +465,7 @@ sort: original
 布洛妮娅准许	bu luo ni ya zhun xu
 不灭城堡	bu mie cheng bao
 不屈	bu qu
+不识时务	bu shi shi wu
 部署任务	bu shu ren wu
 不完全燃烧	bu wan quan ran shao
 不详之影	bu xiang zhi ying
@@ -474,6 +477,7 @@ sort: original
 裁决之雷	cai jue zhi lei
 材料	cai liao
 材料收集	cai liao shou ji
+裁梦者	cai meng zhe
 采蘑菇的小姑娘	cai mo gu de xiao gu niang
 蔡天仪	cai tian yi
 蔡天仪两件套	cai tian yi liang jian tao
@@ -567,6 +571,8 @@ sort: original
 常磐森林	chang pan sen lin
 常磐神社	chang pan shen she
 常磐树丛	chang pan shu cong
+长夜将明	chang ye jiang ming
+超导金属氢	chao dao jin shu qing
 超导效应	chao dao xiao ying
 超电磁手炮	chao dian ci shou pao
 超感直觉	chao gan zhi jue
@@ -629,6 +635,7 @@ sort: original
 赤月天罚	chi yue tian fa
 充电宝	chong dian bao
 重逢小店	chong feng xiao dian
+重构模具	chong gou mu ju
 重构模具攻	chong gou mu ju gong
 重构射线	chong gou she xian
 冲击共振	chong ji gong zhen
@@ -791,7 +798,7 @@ sort: original
 德古拉中下	de gu la zhong xia
 德丽傻	de li sha
 德丽莎	de li sha
-德丽莎阿波卡利斯	de li sha a bo ka li si
+德丽莎·阿波卡利斯	de li sha a bo ka li si
 德莉莎暴食	de li sha bao shi
 德丽莎的去向	de li sha de qu xiang
 德丽莎观星	de li sha guan xing
@@ -883,6 +890,7 @@ sort: original
 顶级评价	ding ji ping jia
 定量补给	ding liang bu gei
 定时炸弹	ding shi zha dan
+咚！炽愿吉星	dong chi yuan ji xing
 咚咚咚暴击	dong dong dong bao ji
 动力机械	dong li ji xie
 冻气斩	dong qi zhan
@@ -892,7 +900,10 @@ sort: original
 冻牙	dong ya
 冬之公主	dong zhi gong zhu
 兜穿	dou chuan
+斗转星移	dou zhuan xing yi
 都柏林漫步	du bo lin man bu
+度法衡诗	du fa heng shi
+独角戏	du jiao xi
 督军级崩坏兽	du jun ji beng huai shou
 渎神	du shen
 督学表彰	du xue biao zhang
@@ -1005,6 +1016,7 @@ sort: original
 绯樱之劫	fei ying zhi jie
 绯樱之末	fei ying zhi mo
 绯樱之殇	fei ying zhi shang
+飞游星	fei you xing
 绯狱丸	fei yu wan
 绯玉丸	fei yu wan
 绯玉丸礼服	fei yu wan li fu
@@ -1136,6 +1148,8 @@ sort: original
 个性装饰	ge xing zhuang shi
 格子增加	ge zi zeng jia
 根本停不下来	gen ben ting bu xia lai
+根源棱镜	gen yuan leng jing
+根源棱镜直升券	gen yuan leng jing zhi sheng quan
 攻城方	gong cheng fang
 公告	gong gao
 公会任务	gong hui ren wu
@@ -1240,6 +1254,8 @@ sort: original
 鬼圣雪	gui sheng xue
 鬼圣战	gui sheng zhan
 鬼武	gui wu
+诡戏	gui xi
+诡戏千役	gui xi qian yi
 国记相册	guo ji xiang ce
 国记战争指令	guo ji zhan zheng zhi ling
 国记争夺	guo ji zheng duo
@@ -1260,6 +1276,7 @@ sort: original
 海盗巢穴	hai dao chao xue
 海盗联邦	hai dao lian bang
 海岛联邦主城	hai dao lian bang zhu cheng
+海的深渊	hai de shen yuan
 海拉喷流	hai la pen liu
 海姆达尔	hai mu da er
 嗨，想我了吗♪	hai xiang wo le ma
@@ -1377,6 +1394,7 @@ sort: original
 红包大作战	hong bao da zuo zhan
 红蛋	hong dan
 红盾	hong dun
+红繁香满	hong fan xiang man
 红红开	hong hong kai
 洪荒之力觉醒	hong huang zhi li jue xing
 红教父	hong jiao fu
@@ -1410,6 +1428,7 @@ sort: original
 红云	hong yun
 红中	hong zhong
 红中下	hong zhong xia
+吼吼休假券	hou hou xiu jia quan
 吼辣	hou la
 吼辣宝藏	hou la bao zang
 吼辣墙贴	hou la qiang tie
@@ -1667,6 +1686,8 @@ sort: original
 基因收割者	ji yin shou ge zhe
 基因限制	ji yin xian zhi
 疾影刃	ji ying ren
+吉云绛天	ji yun jiang tian
+吉云绛天：梦遂愿	ji yun jiang tian meng sui yuan
 姬子	ji zi
 姬子阿姨	ji zi a yi
 姬子补习	ji zi bu xi
@@ -1702,6 +1723,8 @@ sort: original
 伽利略下	jia li lue xia
 伽利略中	jia li lue zhong
 伽利略中下	jia li lue zhong xia
+假面愚者	jia mian yu zhe
+「假面愚者」桑博	jia mian yu zhe sang bo
 迦尼萨	jia ni sa
 加农炮	jia nong pao
 袈裟斩	jia sha zhan
@@ -1838,6 +1861,8 @@ sort: original
 经验活动	jing yan huo dong
 精英工坊	jing ying gong fang
 精英杀手	jing ying sha shou
+晶元数据流	jing yuan shu ju liu
+晶元稳定器	jing yuan wen ding qi
 精致宿舍	jing zhi su she
 精致甜点	jing zhi tian dian
 精准	jing zhun
@@ -2003,6 +2028,7 @@ sort: original
 科拉莉	ke la li
 科拉莉·6626·普朗克	ke la li liu liu er liu pu lang ke
 科拉莉·6626·普朗克	ke la li pu lang ke
+克莱茵	ke lai yin
 克列欧博克拉	ke lie ou bo ke la
 克列欧博克拉两件套	ke lie ou bo ke la liang jian tao
 克列欧博克拉三件套	ke lie ou bo ke la san jian tao
@@ -2103,6 +2129,9 @@ sort: original
 琅环仙阁	lang huan xian ge
 琅环香几	lang huan xiang ji
 琅环圆凳	lang huan yuan deng
+琅丘	lang qiu
+琅丘·百年前	lang qiu bai nian qian
+琅丘城区	lang qiu cheng qu
 浪子	lang zi
 老哥稳	lao ge wen
 老练战士	lao lian zhan shi
@@ -2245,6 +2274,7 @@ sort: original
 量子波动	liang zi bo dong
 量子共振	liang zi gong zhen
 量子罐头	liang zi guan tou
+量子护盾	liang zi hu dun
 量子毁灭者	liang zi hui mie zhe
 量子猎手	liang zi lie shou
 量子奇点	liang zi qi dian
@@ -2253,10 +2283,12 @@ sort: original
 量子生还	liang zi sheng huan
 量子属性	liang zi shu xing
 量子锁定	liang zi suo ding
+量子坍缩	liang zi tan suo
 量子学徒	liang zi xue tu
 量子学者	liang zi xue zhe
 量子圆舞曲	liang zi yuan wu qu
 量子之海	liang zi zhi hai
+獠猎丰攻勋章	liao lie feng gong xun zhang
 缭乱刃	liao luan ren
 聊天	liao tian
 燎阳	liao yang
@@ -2362,6 +2394,7 @@ sort: original
 轮回猎杀者	lun hui lie sha zhe
 轮神白	lun shen bai
 轮神炽	lun shen chi
+轮相	lun xiang
 罗伯特皮里	luo bo te pi li
 罗伯特皮里两件套	luo bo te pi li liang jian tao
 罗伯特皮里三件套	luo bo te pi li san jian tao
@@ -2497,6 +2530,7 @@ sort: original
 梦魇	meng yan
 梦魇挑战	meng yan tiao zhan
 梦魇执行官	meng yan zhi xing guan
+梦游鱼	meng you yu
 迷迭香	mi die xiang
 米开	mi kai
 米开朗基罗	mi kai lang ji luo
@@ -2518,6 +2552,7 @@ sort: original
 米开下	mi kai xia
 米开中	mi kai zhong
 米开中下	mi kai zhong xia
+谧澜轻摇	mi lan qing yao
 米两件套	mi liang jian tao
 迷路的少女篇	mi lu de shao nv pian
 米梅的试炼	mi mei de shi lian
@@ -2599,6 +2634,7 @@ sort: original
 莫中	mo zhong
 莫中下	mo zhong xia
 暮色夜曲	mu se ye qu
+暮夜暧语	mu ye ai yu
 母猪框	mu zhu kuang
 母猪章	mu zhu zhang
 纳刀逆刃	na dao ni ren
@@ -2608,6 +2644,7 @@ sort: original
 难度升降	nan du sheng jiang
 南瓜	nan gua
 能级	neng ji
+能级渐复	neng ji jian fu
 能量补给	neng liang bu gei
 能量补给改	neng liang bu gei gai
 能量重构	neng liang chong gou
@@ -2660,6 +2697,7 @@ sort: original
 逆天者	ni tian zhe
 你以为是在收菜么	ni yi wei shi zai shou cai me
 逆羽打	ni yu da
+年糕	nian gao
 年糕小豆汤	nian gao xiao dou tang
 凝视深渊	ning shi shen yuan
 牛顿	niu dun
@@ -2859,9 +2897,10 @@ sort: original
 奇行种	qi xing zhong
 琪芽	qi ya
 琪亚娜	qi ya na
+琪亚娜，出击！	qi ya na chu ji
 琪亚娜端午	qi ya na duan wu
 琪亚娜歌姬	qi ya na ge ji
-琪亚娜卡斯兰娜	qi ya na ka si lan na
+琪亚娜·卡斯兰娜	qi ya na ka si lan na
 琪亚娜礼物	qi ya na li wu
 琪亚娜沙滩上	qi ya na sha tan shang
 琪亚娜生日	qi ya na sheng ri
@@ -2990,6 +3029,9 @@ sort: original
 肉球坐垫	rou qiu zuo dian
 入侵	ru qin
 入住配置	ru zhu pei zhi
+瑞鼓丰年纪念绶带	rui gu feng nian ji nian shou dai
+瑞木	rui mu
+瑞木高塔	rui mu gao ta
 弱点看破	ruo dian kan po
 萨迦尼	sa jia ni
 萨满机甲	sa man ji jia
@@ -3031,6 +3073,7 @@ sort: original
 三星	san xing
 三亿泰坦的机战梦想	san yi tai tan de ji zhan meng xiang
 三原积木	san yuan ji mu
+桑博	sang bo
 丧钟	sang zhong
 色彩大师	se cai da shi
 瑟莉姆	se li mu
@@ -3216,7 +3259,8 @@ sort: original
 神之键的低语	shen zhi jian de di yu
 神州平板	shen zhou ping ban
 深紫骑士	shen zi qi shi
-生变之理	sheng bian zhi li
+升变增幅	sheng bian zeng fu
+升变之理	sheng bian zhi li
 生存斗争	sheng cun dou zheng
 圣诞	sheng dan
 圣诞壁炉	sheng dan bi lu
@@ -3346,6 +3390,7 @@ sort: original
 使命值	shi ming zhi
 实名注册	shi ming zhu ce
 实时天气系统	shi shi tian qi xi tong
+十术战争	shi shu zhan zheng
 时隙护盾	shi xi hu dun
 失心	shi xin
 噬星者	shi xing zhe
@@ -3461,6 +3506,7 @@ sort: original
 四档咸鱼	si dang xian yu
 四方太刀	si fang tai dao
 死生之律者	si sheng zhi lv zhe
+巳巳吼运勋章	si si hou yun xun zhang
 斯坦因之门的抉择	si tan yin zhi men de jue ze
 思维奔流	si wei ben liu
 四星	si xing
@@ -3513,6 +3559,7 @@ sort: original
 索尔	suo er
 索尔之锤	suo er zhi chui
 缩退效应	suo tui xiao ying
+娑影琉光	suo ying liu guang
 她们终究会知道真相	ta men zhong jiu hui zhi dao zhen xiang
 踏青	ta qing
 塌缩态	ta suo tai
@@ -3623,6 +3670,7 @@ sort: original
 天赋点	tian fu dian
 天赋库	tian fu ku
 天赋综述	tian fu zong shu
+天光驰彻	tian guang chi che
 天候	tian hou
 天火	tian huo
 天火大剑	tian huo da jian
@@ -3719,6 +3767,7 @@ sort: original
 推送	tui song
 吞噬火炮	tun shi huo pao
 吞噬之键	tun shi zhi jian
+拓境战幕	tuo jing zhan mu
 瓦尔特	wa er te
 瓦尔特·杨	wa er te yang
 歪曲	wai qu
@@ -3769,6 +3818,7 @@ sort: original
 亡环上的坏死	wang huan shang de huai si
 往世乐土	wang shi le tu
 往世星海	wang shi xing hai
+汪汪巡查官	wang wang xun cha guan
 亡者深空	wang zhe shen kong
 王者盛宴	wang zhe sheng yan
 王之财宝	wang zhi cai bao
@@ -3877,6 +3927,8 @@ sort: original
 无瑕	wu xia
 无瑕花簇	wu xia hua cu
 无瑕花种	wu xia hua zhong
+无瑕之眷	wu xia zhi juan
+无瑕之眷·册礼	wu xia zhi juan ce li
 无瑕之人	wu xia zhi ren
 无限	wu xian
 无限保级	wu xian bao ji
@@ -3952,6 +4004,7 @@ sort: original
 吸能太刀	xi neng tai dao
 息壤	xi rang
 西式餐桌	xi shi can zhuo
+稀世的名导演	xi shi de ming dao yan
 吸收屏障	xi shou ping zhang
 吸血鬼伯爵夫人	xi xue gui bo jue fu ren
 吸血鬼亲王	xi xue gui qin wang
@@ -4000,6 +4053,7 @@ sort: original
 香蕉刀	xiang jiao dao
 香蕉皮	xiang jiao pi
 香烤小羊排	xiang kao xiao yang pai
+享乐狂宴·邀影	xiang le kuang yan yao ying
 想起的约定是修罗场	xiang qi de yue ding shi xiu luo chang
 向天举起叛逆之剑	xiang tian ju qi pan ni zhi jian
 相位穿梭	xiang wei chuan suo
@@ -4045,6 +4099,7 @@ sort: original
 小左	xiao zuo
 邪神异教徒	xie shen yi jiao tu
 携手同心	xie shou tong xin
+协调攻击	xie tiao gong ji
 谐调共振	xie tiao gong zhen
 协同者	xie tong zhe
 邪武	xie wu
@@ -4057,6 +4112,7 @@ sort: original
 新春饺子	xin chun jiao zi
 新春烤乳猪	xin chun kao ru zhu
 新春立柱	xin chun li zhu
+新春聊天室	xin chun liao tian shi
 新春美味料理	xin chun mei wei liao li
 新春墙纸	xin chun qiang zhi
 新春膳房	xin chun shan fang
@@ -4105,6 +4161,7 @@ sort: original
 型号	xing hao
 猩红波动	xing hong bo dong
 星环	xing huan
+星环爆发	xing huan bao fa
 星环能量	xing huan neng liang
 星环食	xing huan shi
 星环漩涡	xing huan xuan wo
@@ -4128,6 +4185,7 @@ sort: original
 杏玛尔中	xing ma er zhong
 杏玛尔中下	xing ma er zhong xia
 星芒沙滩球	xing mang sha tan qiu
+星梦回环绶带	xing meng hui huan shou dai
 杏三件套	xing san jian tao
 杏上	xing shang
 杏上下	xing shang xia
@@ -4150,10 +4208,12 @@ sort: original
 星云守护	xing yun shou hu
 幸运兔耳	xing yun tu er
 星之环	xing zhi huan
+星之环分野	xing zhi huan fen ye
 星之环能量	xing zhi huan neng liang
 杏中	xing zhong
 杏中下	xing zhong xia
 凶星	xiong xing
+休伯利安11号	xiu bo li an shi yi hao
 修罗	xiu luo
 咻咻咻回避	xiu xiu xiu hui bi
 袖珍型晶元黑盒	xiu zhen xing jing yuan hei he
@@ -4181,6 +4241,7 @@ sort: original
 虚影裂魂	xu ying lie hun
 许愿冰锥	xu yuan bing zhui
 许愿池	xu yuan chi
+叙愿今宵	xu yuan jin xiao
 须佐之男	xu zuo zhi nan
 旋风斩	xuan feng zhan
 悬赏开启	xuan shang kai qi
@@ -4242,6 +4303,7 @@ sort: original
 血见愁	xue jian chou
 雪景墙纸	xue jing qiang zhi
 雪狼小队	xue lang xiao dui
+血染赤匣	xue ran chi xia
 雪绒花	xue rong hua
 雪色地砖	xue se di zhuan
 血色玫瑰	xue se mei gui
@@ -4271,7 +4333,11 @@ sort: original
 血咒	xue zhou
 血族契约	xue zu qi yue
 寻宝挑战	xun bao tiao zhan
+循迹追猎	xun ji zhui lie
 巡警无人机	xun jing wu ren ji
+寻梦者	xun meng zhe
+寻梦者系统	xun meng zhe xi tong
+寻梦之旅	xun meng zhi lv
 迅羽	xun yu
 勋章	xun zhang
 勋章馆	xun zhang guan
@@ -4446,6 +4512,7 @@ sort: original
 伊什塔尔	yi shen ta er
 异世界启程	yi shi jie qi cheng
 伊斯卡达尔	yi si ka da er
+伊斯坎达尔	yi si kan da er
 以太结晶	yi tai jie jing
 以太燃素	yi tai ran su
 以太碎片	yi tai sui pian
@@ -4516,6 +4583,7 @@ sort: original
 影银战	ying yin zhan
 樱犹	ying you
 影游月	ying you yue
+影灾	ying zai
 影战今	ying zhan jin
 樱之结界	ying zhi jie jie
 影之诀	ying zhi jue
@@ -4560,6 +4628,7 @@ sort: original
 尤克特拉希尔的倾倒	you ke te la xi er de qing dao
 幽兰黛尔	you lan dai er
 游乐场之夜	you le chang zhi ye
+游乐之星勋章	you le zhi xing xun zhang
 幽灵修道院	you ling xiu dao yuan
 尤弥尔之腕	you mi er zhi wan
 幽冥眷属	you ming juan shu
@@ -4699,7 +4768,10 @@ sort: original
 月下	yue xia
 月下初拥	yue xia chu yong
 月下誓约	yue xia shi yue
+月下誓约·予爱以心	yue xia shi yue yu ai yi xin
 月游山	yue you shan
+月之恒	yue zhi heng
+月之恒·初	yue zhi heng chu
 陨火流星	yun huo liu xing
 陨落冲击	yun luo chong ji
 陨落聚爆	yun luo ju bao
@@ -4815,6 +4887,7 @@ sort: original
 直江兼续中下	zhi jiang jian xu zhong xia
 滞空动量	zhi kong dong liang
 制冷冰箱	zhi leng bing xiang
+挚翎瞰世	zhi ling kan shi
 指令狂乱	zhi ling kuang luan
 指令猎杀	zhi ling lie sha
 指令同步	zhi ling tong bu
@@ -4835,6 +4908,7 @@ sort: original
 纸箱圆桌	zhi xiang yuan zhuo
 纸箱桌	zhi xiang zhuo
 指引	zhi yin
+织羽梦旌	zhi yu meng jing
 支援	zhi yuan
 制造	zhi zao
 仲裁者	zhong cai zhe
