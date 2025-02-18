@@ -8,6 +8,10 @@ patch:
   schema_list:
     - {schema: double_pinyin_flypy}
     - {schema: rime_mint_flypy}
+  switcher/hotkeys:
+    # - Control+Shift+grave
+    # F4 和 JetBrains 的快捷键冲突
+    - F4
   menu/page_size: 9
   ascii_composer/switch_key:
     Caps_Lock: commit_code
