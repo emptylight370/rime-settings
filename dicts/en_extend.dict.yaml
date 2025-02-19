@@ -52,6 +52,8 @@ NAT	nat
 OpenCV	opencv
 OSPF	ospf
 PCB	pcb
+PCDN	pcdn
+pip	pip
 pr	pr
 pull request	pr
 Pull Request	pr
