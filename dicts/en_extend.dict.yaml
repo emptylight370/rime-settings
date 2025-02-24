@@ -53,10 +53,12 @@ OpenCV	opencv
 OSPF	ospf
 PCB	pcb
 PCDN	pcdn
+Phigros	phigros
 pip	pip
 pr	pr
 pull request	pr
 Pull Request	pr
+Rizline	rizline
 SASS	sass
 SCSS	scss
 TCP	tcp
@@ -64,6 +66,9 @@ TCP/IP	tcpip
 ts	ts
 TS	ts
 TypeScript	ts
+UE	ue
+Unreal Engine	ue
+Unreal Engine	unrealengine
 Visual Studio	vsstudio
 Visual Studio	vstudio
 WSDL	wsdl
