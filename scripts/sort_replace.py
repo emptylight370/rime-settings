@@ -1,6 +1,7 @@
+import shutil
 import sys
 
-def sort_rime_dict_yaml(file_path, backup_path):
+def sort_rime_dict_yaml(file_path):
     """
     对Rime输入法的YAML格式词库文件按拼音进行排序，并保留词频和注释行。
 
@@ -9,8 +10,6 @@ def sort_rime_dict_yaml(file_path, backup_path):
     """
     with open(file_path, 'r', encoding='utf-8') as file:
         lines = file.readlines()
-    with open(backup_path, 'w', encoding='utf-8') as file:
-        file.writelines(lines)
 
     # 分离元数据、词条部分和注释
     metadata = []
@@ -70,4 +69,5 @@ if __name__ == '__main__':
         input_file = input("将文件拖入到此处:")  # 替换为你的输入文件路径
         backup_file = input_file + ".bak"
 
-    sort_rime_dict_yaml(input_file, backup_file)
+    shutil.copy(input_file, backup_file)
+    sort_rime_dict_yaml(input_file)

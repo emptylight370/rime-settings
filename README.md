@@ -4,7 +4,7 @@
 
 本人主用小鹤双拼，不用小鹤音形，同时维护全拼和全拼带小鹤混输的方案。其余方案因为不使用不做修改。
 
-配置过程和解析请看：[Website](https://blog.emptylight.cn/post/rime-input-method-configuration-z1snn)(addr:cn)或[GitHub Page](https://emptylight370.github.io/post/rime-input-method-configuration-z1snn)(addr:global)(in chinese)
+配置过程和解析请看：[Website](https://blog.emptylight.cn/post/rime-input-method-configuration-z1snn)(addr:cn)或[GitHub Page](https://emptylight370.github.io/post/rime-input-method-configuration-z1snn)(addr:global but in chinese)
 
 Mirrors: [GitHub](https://github.com/emptylight370/rime-settings) or [Gitee](https://gitee.com/emptylight370/rime-settings)
 
@@ -18,13 +18,15 @@ Mirrors: [GitHub](https://github.com/emptylight370/rime-settings) or [Gitee](htt
 
 ## 快捷键
 
-使用了雾凇的`v`和`V`快捷键来替代薄荷的`/`快捷键。
+使用了雾凇的<kbd>v</kbd>和<kbd>V</kbd>快捷键来替代薄荷的<kbd>/</kbd>快捷键。
 
 使用了雾凇的部分快捷键，使用`-=`定字，使用`[]`翻页，使用`,.`翻页。
 
-原本想用`'`分字，但是测试发现无效。
+原本想用`'`分字，但是测试发现无效。不过配置记得好像没有删除，这部分自行斟酌。
 
-使用`Ctrl`来切换输入中英文输入，`shift`禁用。
+使用<kbd>Ctrl</kbd>来切换输入中英文输入，<kbd>shift</kbd>禁用。
+
+**注意**：Weasel在0.16.3beta里面尝试添加了<kbd>Ctrl</kbd>+<kbd>Space</kbd>支持，不确定效果如何。应该是随着0.16.4发布的，现在可通过preRelease试用。
 
 # 导入
 
@@ -44,8 +46,10 @@ Mirrors: [GitHub](https://github.com/emptylight370/rime-settings) or [Gitee](htt
 
 # 脚本设置
 
-目前添加了一个用于排序拼音词库的脚本，要求词库必须是YAML格式的词库，其中注释会在排序后统一添加到最开始的地方。这个脚本有两个版本，一个是会生成新的文件，另一个是替换原本的文件。值得注意的是，如果词条中间没有使用\t分隔会直接被丢弃。这个不在设计中，但是原因不明。
+目前添加了一个用于排序拼音词库的脚本，要求词库必须是YAML格式的词库，其中注释会在排序后统一添加到最开始的地方。这个脚本有两个版本，一个是会生成新的文件，另一个是替换原本的文件。值得注意的是，如果词条中间没有使用`\t`分隔会直接被丢弃。这个不在设计中，但是原因不明。
 
 在元数据结束前所有内容会认为是元数据的一部分，会保持原样。即在`...`前的所有内容。
+
+才发现脚本对中英文词库基本上算是通用的，那么应该不存在兼容性问题，用英文扩展词库试了好像不存在什么问题。（话说是不是只有薄荷有英文扩展词库啊）
 
 本地使用Python3.12，未特别安装依赖库。感谢通义。
