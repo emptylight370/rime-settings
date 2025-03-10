@@ -2,10 +2,11 @@
 # encoding: utf-8
 #
 # https://pinyin.sogou.com/dict/detail/index/131843
+# https://zh.moegirl.org.cn/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F/%E5%B9%B2%E5%91%98%E5%9B%BE%E9%89%B4
 # 明日方舟词条
 ---
 name: arknights
-version: "2024.12"
+version: "2025.03"
 sort: original
 ...
 
