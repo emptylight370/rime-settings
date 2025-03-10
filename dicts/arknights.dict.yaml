@@ -270,6 +270,7 @@ sort: original
 冰原之雪	bing yuan zhi xue
 病症	bing zheng
 秉烛	bing zhu
+波卜	bo bo
 波登可	bo deng ke
 钵海收割者	bo hai shou ge zhe
 博览者的狂语	bo lan zhe de kuang yu
@@ -333,6 +334,7 @@ sort: original
 不做约定	bu zuo yue ding
 彩瓷茶器	cai ci cha qi
 彩瓷花瓶	cai ci hua ping
+裁度	cai duo
 采访环节	cai fang huan jie
 采购凭证	cai gou ping zheng
 采购中心	cai gou zhong xin
@@ -372,6 +374,7 @@ sort: original
 苍苔	cang tai
 草垛上的风笛声	cao duo shang de feng di sheng
 操作暗箱	cao zuo an xiang
+Castle-3	castle
 侧面作战	ce mian zuo zhan
 测试用动力装甲	ce shi yong dong li zhuang jia
 策展人会客厅	ce zhan ren hui ke ting
@@ -494,6 +497,7 @@ sort: original
 宠物营养罐头	chong wu ying yang guan tou
 冲盈	chong ying
 铳与秩序	chong yu zhi xu
+重岳	chong yue
 重整导能	chong zheng dao neng
 重整导能组件	chong zheng dao neng zu jian
 重装	chong zhuang
@@ -712,6 +716,7 @@ sort: original
 灯下黑	deng xia hei
 地堡防线	di bao fang xian
 敌飙	di biao
+涤尘芙蓉	di chen fu rong
 地底的灼痕	di di de zhuo hen
 第二经济改革法	di er jing ji gai ge fa
 敌方人员运送	di fang ren yuan yun song
@@ -791,6 +796,7 @@ sort: original
 杜林族	du lin zu
 镀膜	du mo
 镀膜装置导能阀	du mo zhuang zhi dao neng fa
+渡桥	du qiao
 都市风壁障	du shi feng bi zhang
 都市怪谈	du shi guai tan
 毒雾控制	du wu kong zhi
@@ -944,6 +950,7 @@ sort: original
 绯红刺刀	fei hong ci dao
 绯红歌伶	fei hong ge ling
 废旧通道	fei jiu tong dao
+菲莱	fei lai
 菲林	fei lin
 废弃矿区	fei qi kuang qu
 废弃时钟表盘	fei qi shi zhong biao pan
@@ -1020,6 +1027,7 @@ sort: original
 风中旗帜	feng zhong qi zhi
 封阻加固装置	feng zu jia gu zhuang zhi
 封阻物	feng zu wu
+Friston-3	friston
 腐败萃聚使徒	fu bai cui ju shi tu
 腐败骑士	fu bai qi shi
 腐败之种	fu bai zhi zhong
@@ -1318,6 +1326,7 @@ sort: original
 鬼人化	gui ren hua
 桂时逢月	gui shi feng yue
 鬼使神差	gui shi shen chai
+瑰盐	gui yan
 诡异剪刀	gui yi jian dao
 诡意行商	gui yi xing shang
 鬼影如潮	gui ying ru chao
@@ -1350,6 +1359,7 @@ sort: original
 海猫	hai mao
 海猫络合物	hai mao luo he wu
 海沫	hai mo
+海霓	hai ni
 海神的代谢	hai shen de dai xie
 海神的信者	hai shen de xin zhe
 海蚀	hai shi
@@ -1431,6 +1441,7 @@ sort: original
 恒久法则	heng jiu fa ze
 衡虑	heng lv
 横扫架势	heng sao jia shi
+衡沙	heng sha
 红刀哥	hong dao ge
 红点	hong dian
 红豆	hong dou
@@ -1559,6 +1570,7 @@ sort: original
 恍悟	huang wu
 荒芜广场	huang wu guang chang
 荒芜回响	huang wu hui xiang
+荒芜拉普兰德	huang wu la pu lan de
 荒芜行动	huang wu xing dong
 荒芜行动物资补给	huang wu xing dong wu zi bu gei
 荒野军校生	huang ye jun xiao sheng
@@ -1625,6 +1637,8 @@ sort: original
 火力侦察	huo li zhen cha
 火龙	huo long
 火龙的红玉	huo long de hong yu
+火龙S黑角	huo long hei jiao
+火龙S黑角	huo long s hei jiao
 活玫瑰	huo mei gui
 活木甲	huo mu jia
 火山	huo shan
@@ -2091,6 +2105,7 @@ sort: original
 开牌制胜	kai pai zhi sheng
 开炮	kai pao
 开启阀门	kai qi fa men
+凯瑟琳	kai se lin
 开市大吉	kai shi da ji
 开斯特之霜	kai si te zhi shuang
 凯旋号角	kai xuan hao jiao
@@ -2244,6 +2259,7 @@ sort: original
 莱恩哈特	lai en ha te
 来路	lai lu
 莱娜	lai na
+莱欧斯	lai ou si
 莱塔尼亚	lai ta ni ya
 莱塔尼亚叛兵	lai ta ni ya pan bing
 莱塔尼亚叛兵组长	lai ta ni ya pan bing zu zhang
@@ -2263,6 +2279,7 @@ sort: original
 蓝卡坞安全衣	lan ka wu an quan yi
 蓝色丝巾	lan se si jin
 烂醉铁锤	lan zui tie chui
+Lancet-2	lancet
 浪潮	lang chao
 狼魂	lang hun
 狼群	lang qun
@@ -2323,6 +2340,7 @@ sort: original
 礼仪广场	li yi guang chang
 礼遇	li yu
 历战高塔术师	li zhan gao ta shu shi
+历阵锐枪芬	li zhen rui qiang fen
 理智	li zhi
 理智固剂	li zhi gu ji
 力之锯	li zhi ju
@@ -2490,6 +2508,7 @@ sort: original
 罗德岛迎春红包	luo de dao ying chun hong bao
 罗德岛战术电台	luo de dao zhan shu dian tai
 落地斩	luo di zhan
+逻各斯	luo ge si
 落后兵	luo hou bing
 洛洛	luo luo
 落魄骑士	luo po qi shi
@@ -2503,6 +2522,7 @@ sort: original
 绿叶菜罐头	lv ye cai guan tou
 绿野幻梦	lv ye huan meng
 绿洲惊雷	lv zhou jing lei
+掠风	lve feng
 麻痹	ma bi
 麻痹弹	ma bi dan
 玛恩纳	ma en na
@@ -2515,6 +2535,7 @@ sort: original
 玛莉娅	ma li ya
 玛莉娅临光	ma li ya lin guang
 玛丽有只毛绒绒	ma li you zhi mao rong rong
+玛露西尔	ma lu xi er
 麻木前行	ma mu qian xing
 麻木与庸俗	ma mu yu yong su
 马特奥的近卫	ma te ao de jin wei
@@ -2652,6 +2673,7 @@ sort: original
 魔术师	mo shu shi
 莫斯提马	mo si ti ma
 模特之夜	mo te zhi ye
+魔王	mo wang
 末药	mo yao
 模组数据块	mo zu shu ju kuai
 模组数据整合块	mo zu shu ju zheng he kuai
@@ -2671,6 +2693,7 @@ sort: original
 沐雨迎霜	mu yu ying shuang
 木制瑞印	mu zhi rui yin
 木制镇纸	mu zhi zhen zhi
+娜仁图亚	na ren tu ya
 娜塔莉娅	na ta li ya
 奶油冰淇淋	nai you bing qi lin
 奶油夹心饼干	nai you jia xin bing gan
@@ -2692,6 +2715,7 @@ sort: original
 能天使	neng tian shi
 能源设备	neng yuan she bei
 泥尘零落	ni chen ling luo
+妮芙	ni fu
 逆光阴影	ni guang yin ying
 霓虹之夜	ni hong zhi ye
 泥泞道路	ni ning dao lu
@@ -2782,6 +2806,7 @@ sort: original
 喷涌而出	pen yong er chu
 烹泉	peng quan
 膨胀	peng zhang
+PhonoR-0	phonor
 皮肤	pi fu
 披荆斩棘	pi jing zhan ji
 皮洛萨	pi luo sa
@@ -2844,6 +2869,7 @@ sort: original
 起盾回击	qi dun hui ji
 企鹅物流	qi e wu liu
 企鹅物流据点	qi e wu liu ju dian
+齐尔查克	qi er cha ke
 起风	qi feng
 奇工妙想	qi gong miao xiang
 启航	qi hang
@@ -2857,6 +2883,8 @@ sort: original
 齐来崇拜	qi lai chong bai
 绮良	qi liang
 麒麟	qi lin
+麒麟R夜刀	qi lin r ye dao
+麒麟R夜刀	qi lin ye dao
 欺凌者	qi ling zhe
 气流	qi liu
 歧路	qi lu
@@ -2980,6 +3008,7 @@ sort: original
 青枳	qing zhi
 轻装旅行	qing zhuang lv xing
 穹顶之上	qiong ding zhi shang
+仇白	qiu bai
 求敌得敌	qiu di de di
 秋高气爽	qiu gao qi shuang
 球球果汁	qiu qiu guo zhi
@@ -3046,6 +3075,7 @@ sort: original
 热血年华	re xue nian hua
 热灼梦	re zhuo meng
 仁慈之触	ren ci zhi chu
+忍冬	ren dong
 人工降雪	ren gong jiang xue
 人工制冷	ren gong zhi leng
 刃鬼	ren gui
@@ -3202,10 +3232,12 @@ sort: original
 森空岛	sen kong dao
 森林里的麻烦家伙	sen lin li de ma fan jia huo
 森蚺	sen ran
+森西	sen xi
 沙堡建筑者	sha bao jian zhu zhe
 沙暴扩散	sha bao kuo san
 沙堡设计师	sha bao she ji shi
 沙暴守卫	sha bao shou wei
+莎草	sha cao
 沙尘暴	sha chen bao
 沙地兽	sha di shou
 沙地兽穴	sha di shou xue
@@ -3349,6 +3381,7 @@ sort: original
 渗透作战	shen tou zuo zhan
 深夏的守夜人	shen xia de shou ye ren
 身先士卒	shen xian shi zu
+深巡	shen xun
 深洋主宰刻像	shen yang zhu zai ke xiang
 神音海螺	shen yin hai luo
 声波记录扩音器	sheng bo ji lu kuo yin qi
@@ -3726,6 +3759,7 @@ sort: original
 特工组长	te gong zu zhang
 特级材料提货券	te ji cai liao ti huo quan
 特级馥郁咖啡豆	te ji fu yu ka fei dou
+特克诺	te ke nuo
 特雷西斯	te lei xi si
 特蕾西娅	te lei xi ya
 特里蒙城防军	te li meng cheng fang jun
@@ -3753,6 +3787,7 @@ sort: original
 特种战演习	te zhong zhan yan xi
 疼痛增幅	teng tong zeng fu
 藤蔓炮手	teng wan pao shou
+THRM-EX	thrmex
 替补演员	ti bu yan yuan
 提纯源岩	ti chun yuan yan
 提丰	ti feng
@@ -3961,10 +3996,12 @@ sort: original
 危楼渐溃	wei lou jian kui
 未履之责	wei lv zhi ze
 维娜	wei na
+维娜·维多利亚	wei na wei duo li ya
 未破之局	wei po zhi ju
 围墙守卫	wei qiang shou wei
 危如累卵	wei ru lei luan
 威塞克斯的信件	wei sai ke si de xin jian
+维什戴尔	wei shen dai er
 未声张的怒火	wei sheng zhang de nu huo
 微缩舞台模型	wei suo wu tai mo xing
 未完成的告别	wei wan cheng de gao bie
@@ -4032,6 +4069,7 @@ sort: original
 污点证人	wu dian zheng ren
 无调性	wu diao xing
 无度	wu du
+乌尔比安	wu er bi an
 无法停止	wu fa ting zhi
 无锋	wu feng
 无辜的血肉	wu gu de xue rou
@@ -4164,6 +4202,7 @@ sort: original
 锡兰的私人信件	xi lan de si ren xin jian
 西蒙	xi meng
 夕墨	xi mo
+锡人	xi ren
 息事宁人	xi shi ning ren
 汐斯塔	xi si ta
 汐斯塔的黑曜石	xi si ta de hei yao shi
@@ -4349,6 +4388,7 @@ sort: original
 星橼林	xing yuan lin
 幸运硬币	xing yun ying bi
 兴致盎然	xing zhi ang ran
+行箸	xing zhu
 行走于大地之上	xing zou yu da di zhi shang
 星座守护	xing zuo shou hu
 凶豕兽	xiong shi shou
@@ -4444,6 +4484,7 @@ sort: original
 巡检作业	xun jian zuo ye
 迅捷处理	xun jie chu li
 迅捷打击	xun jie da ji
+寻澜	xun lan
 训练室	xun lian shi
 训练用残暴钳兽	xun lian yong can bao qian shou
 训练用钳兽	xun lian yong qian shou
@@ -4724,6 +4765,7 @@ sort: original
 因陀罗	yin tuo luo
 隐现	yin xian
 银心湖列车	yin xin hu lie che
+引星棘刺	yin xing ji ci
 隐形弩手	yin xing nu shou
 隐形弩手组长	yin xing nu shou zu zhang
 隐形术师	yin xing shu shi
@@ -4933,6 +4975,7 @@ sort: original
 跃跃	yue yue
 云霭荫佑	yun ai yin you
 运动战演习	yun dong zhan yan xi
+云迹	yun ji
 云间清醒梦	yun jian qing xing meng
 陨星	yun xing
 晕眩	yun xuan
@@ -5197,6 +5240,7 @@ sort: original
 祝福的歌谣	zhu fu de ge yao
 逐腐兽	zhu fu shou
 主观想象	zhu guan xiang xiang
+烛煌	zhu huang
 主教的研究	zhu jiao de yan jiu
 主接纳罪人	zhu jie na zui ren
 烛骑士薇薇安娜	zhu qi shi wei wei an na

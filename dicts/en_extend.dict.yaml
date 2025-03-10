@@ -5,8 +5,8 @@
 # 建议自定义短语或者词语追加在这里
 ---
 name: en_extend
-version: "2024.12"
-sort: by_weight
+version: "2025.03"
+sort: original
 ...
 
 # Coding
@@ -16,16 +16,19 @@ Arcaea	arcaea
 ARP	arp
 bit	bit
 BitComet	bitcomet
+BitLocker	bitlocker
 bit/s	bits
 Chromium	chromium
 Ciallo～(∠・ω< )⌒☆	ciallo
 Ciallo～(∠・ω< )⌒★	ciallo
 ちゃろー～(∠・ω< )⌒★	ciallo
 Cloudreve	cloudreve
+conda	conda
 CRC	crc
 DLAA	dlaa
 DLSS	dlss
 DMA	dma
+Edge	edge
 FCB	fcb
 GB	gb
 Gbit	gbit
@@ -36,6 +39,7 @@ GitHub issues	githubissues
 Hash	hash
 Hz	hz
 I/O	io
+JavaScript	javascript
 js	js
 JS	js
 JavaScript	js
@@ -49,6 +53,9 @@ MB	mb
 Mbit	mbit
 Mbit/s	mbits
 MHz	mhz
+Microsoft Edge	microsoftedge
+Miniconda	miniconda
+Microsoft Edge	msedge
 NAT	nat
 OpenCV	opencv
 OSPF	ospf
@@ -62,6 +69,7 @@ Pull Request	pr
 Rizline	rizline
 SASS	sass
 SCSS	scss
+Selenium	selenium
 TCP	tcp
 TCP/IP	tcpip
 ts	ts
