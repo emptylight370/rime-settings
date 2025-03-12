@@ -3,7 +3,7 @@
 #
 # https://pinyin.sogou.com/dict/detail/index/130141
 # https://lobotomycorp.fandom.com/zh/wiki/%E8%84%91%E5%8F%B6%E5%85%AC%E5%8F%B8_Wiki
-# 建议自定义短语或者词语追加在这里
+# 脑叶公司词条扩展，以后会添加图书馆和巴士的词条
 ---
 name: lobotomy
 version: "2025.03"
@@ -11,96 +11,254 @@ sort: original
 ...
 
 爱娜温	ai na wen
+ALEPH	aleph
+安保部	an bao bu
+Asiyah	asiyah
+Atziluth	atziluth
+白色伤害	bai se shang hai
 白雪公主的苹果	bai xue gong zhu de ping guo
 白夜	bai ye
 被遗弃的杀人魔	bei yi qi de sha ren mo
+本能	ben neng
+本能工作	ben neng gong zuo
 碧蓝新星	bi lan xin xing
+臂章	bi zhang
 别碰我	bie peng wo
+Binah	binah
 冰雪女皇	bing xue nv huang
+Birah	birah
 波迪	bo di
+部门	bu men
+部门常驻奖励	bu men chang zhu jiang li
+部长	bu zhang
+惨白	can bai
+惨白的考验	can bai de kao yan
 "CENSORED"	censored
+常驻加成	chang zhu jia cheng
+常驻奖励	chang zhu jiang li
+常驻员工	chang zhu yuan gong
 沉默乐团	chen mo yue tuan
+惩戒部	cheng jie bu
 惩戒鸟	cheng jie niao
+成长速度	cheng zhang su du
+Chesed	chesed
+处决弹	chu jue dan
 穿刺乐园	chuan ci le yuan
+创造之美	chuang zao zhi mei
 次元衍射变体	ci yuan yan she bian ti
 大鸟	da niao
+第二型再生反应堆	di er xing zai sheng fan ying dui
 癫狂研究员的笔记本	dian kuang yan jiu yuan de bi ji ben
+靛蓝色	dian lan se
+靛蓝色的考验	dian lan se de kao yan
+洞察	dong cha
+洞察工作	dong cha gong zuo
+E.G.O	ego
+E.G.O饰品	ego shi pin
+E.G.O修复	ego xiu fu
+E.G.O装备	ego zhuang bei
+二次提取	er ci ti qu
+反精神立场盾	fan jing shen li chang dun
+反侵蚀立场盾	fan qin shi li chang dun
+反物理立场盾	fan wu li li chang dun
 粉红小分队	fen hong xiao fen dui
 蜂后	feng hou
 风云法师	feng yun fa shi
+福利部	fu li bu
+改良再生反应堆	gai liang zai sheng fan ying dui
 歌唱机	ge chang ji
+Geburah	geburah
+G.O可视化	go ke shi hua
+攻击速度	gong ji su du
+工作成功率	gong zuo cheng gong lv
+沟通	gou tong
+沟通工作	gou tong gong zuo
+构筑部	gou zhu bu
 古老的信念和承诺	gu lao de xin nian he cheng nuo
+HE	he
+核心抑制	he xin yi zhi
+核心抑制条件	he xin yi zhi tiao jian
 黑天鹅之梦	hei tian e zhi meng
+Hod	hod
+Hokma	hokma
+红色伤害	hong se shang hai
 红舞鞋	hong wu xie
+后巷	hou xiang
+琥珀色	hu po se
+琥珀色的考验	hu po se de kao yan
+黄昏	huang hun
 黄泉列车	huang quan lie che
+恢复效率	hui fu xiao lv
 回溯之钟	hui su zhi zhong
 棘刺公交	ji ci gong jiao
+记录部	ji lu bu
 寄生树	ji sheng shu
+加强训练工作	jia qiang xun lian gong zuo
 焦化少女	jiao hua shao nv
 教学兔兔"Dummy"	jiao xue tu tu dummy
+谨慎	jin shen
+晋升员工	jin sheng yuan gong
 今天也很害羞	jin tian ye hen hai xiu
 精灵盛宴	jing ling sheng yan
+精神伤害	jing shen shang hai
+精神污染中和气体	jing shen wu ran zhong he qi ti
+精神值	jing shen zhi
+精神治疗弹	jing shen zhi liao dan
+精英	jing ying
 巨树汁液	ju shu zhi ye
 绝望骑士	jue wang qi shi
+K公司	k gong si
+开放进度	kai fang jin du
+考验	kao yan
+科技	ke ji
 渴望之心	ke wang zhi xin
+Kether	kether
+恐慌	kong huang
+恐慌员工	kong huang yuan gong
+恐惧伤害	kong ju shang hai
 空虚之梦	kong xu zhi meng
+控制部	kong zhi bu
 快乐泰迪	kuai le tai di
 老妇人	lao fu ren
 蕾蒂希娅	lei di xi ya
+黎明	li ming
+联合指挥	lian he zhi hui
+LOB点数	lob dian shu
 陆生鮟鱇	lu sheng an kang
 裸巢	luo chao
+绿色	lv se
+绿色的考验	lv se de kao yan
+Malkuth	malkuth
 美女和野兽	mei nv he ye shou
 梦中的洋流	meng zhong de yang liu
 面壁女	mian bi nv
 魔弹射手	mo dan she shou
+脑啡肽	nao fei tai
 脑叶公司	nao ye gong si
+Netzach	netzach
 你必须要幸福	ni bi xu yao xing fu
+逆卡巴拉能量	ni ka ba la neng liang
+逆卡巴拉能量干扰立场	ni ka ba la neng liang gan rao li chang
+逆卡巴拉能量熔毁	ni ka ba la neng liang rong hui
+逆卡巴拉能量熔毁倒计时	ni ka ba la neng liang rong hui dao ji shi
+逆卡巴拉能量熔毁警报	ni ka ba la neng liang rong hui jing bao
+逆卡巴拉能量熔毁指数表	ni ka ba la neng liang rong hui zhi shu biao
 你是个秃子	ni shi ge tu zi
+PE-BOX	pebox
+培训部	pei xun bu
 破裂盔甲	po lie kui jia
+普及培训手册	pu ji pei xun shou ce
+强化雇用程序	qiang hua gu yong cheng xu
+强化肉体，精神治疗弹	qiang hua rou ti jing shen zhi liao dan
+侵蚀伤害	qin shi shang hai
+情报部	qing bao bu
+清道夫	qing dao fu
+R公司	r gong si
 热心的樵夫	re xin de qiao fu
 人皮启示录	ren pi qi shi lu
+任务	ren wu
+熔毁	rong hui
+熔毁倒计时	rong hui dao ji shi
+熔毁等级	rong hui deng ji
+熔毁警报	rong hui jing bao
+熔毁指数表	rong hui zhi shu biao
 溶解之爱	rong jie zhi ai
+肉体治疗弹	rou ti zhi liao dan
 3月27日的避难所	san yue er shi qi ri de bi nan suo
+Sephirah	sephirah
+上层	shang ceng
+伤害抗性	shang hai kang xing
+伤害值	shang hai zhi
 深黯“军团”	shen an jun tuan
 审判鸟	shen pan niao
+生命值	sheng ming zhi
+饰品	shi pin
+饰品分化	shi pin fen hua
+守护之美	shou hu zhi mei
+首脑	shou nao
+收容单元	shou rong dan yuan
+收尾人	shou wei ren
 "CENSORED"	shu ju shan chu
+死亡	si wang
+损伤规格化	sun shang gui ge hua
 索求智慧的稻草人	suo qiu zhi hui de dao cao ren
 贪婪女王	tan lan nv wang
 特蕾西娅	te lei xi ya
+TETH	teth
 天启鸟	tian qi niao
+Tiphereth	tiphereth
+统御之美	tong yu zhi mei
+头衔	tou xian
+TT2协议	tt er xie yi
+兔子	tu zi
+兔子雇佣兵	tu zi gu yong bing
 亡蝶葬仪	wang die zang yi
+WAW	waw
 韦尔奇乐牌汽水	wei er qi le pai qi shui
 微光手镯	wei guang shou zhuo
 微笑的尸山	wei xiao de shi shan
+文职	wen zhi
+文职加成	wen zhi jia cheng
 我们可以改变一切	wo men ke yi gai bian yi qie
+物理伤害	wu li shang hai
 无名怪婴	wu ming guai ying
+武器伤害	wu qi shang hai
+午夜	wu ye
+下层	xia ceng
+陷入恐慌	xian ru kong huang
 小帮手	xiao bang shou
 小红帽雇佣兵	xiao hong mao gu yong bing
 小王子	xiao wang zi
+性格	xing ge
 行为矫正仪	xing wei jiao zheng yi
 幸灾乐祸	xing zai le huo
 雪橇鲁道夫	xue qiao lu dao fu
 血肉偶像	xue rou ou xiang
+血色	xue se
+血色的考验	xue se de kao yan
 血浴缸	xue yu gang
+压迫	ya po
+压迫工作	ya po gong zuo
+研发部	yan fa bu
 炎雀	yan que
 阳	yang
+Yesod	yesod
 1.76兆赫	yi dian qi liu zhao he
+移动速度	yi dong su du
 异世的肖像	yi shi de xiao xiang
 “一无所有”	yi wu suo you
 异想体	yi xiang ti
+异想体应对手册	yi xiang ti ying dui shou ce
 疫医	yi yi
+抑制核心	yi zhi he xin
 一罪与百善	yi zui yu bai shan
 阴	yin
 银河之子	yin he zhi zi
 荧光手镯	ying guang shou zhuo
 樱下墓	ying xia mu
+勇气	yong qi
 又大又可能很坏的狼	you da you ke neng hen huai de lang
 宇宙碎片	yu zhou sui pian
+员工	yuan gong
 月光女神	yue guang nv shen
 月计	yue ji
 月亮计划	yue liang ji hua
 月日的避难所	yue ri de bi nan suo
+再生反应堆	zai sheng fan ying dui
 憎恶女王	zeng wu nv wang
+召集令	zhao ji ling
+爪牙	zhao ya
+镇压	zhen ya
+正午	zheng wu
+正义	zheng yi
+职称	zhi cheng
 蜘蛛巢	zhi zhu chao
+中层	zhong ceng
 终末鸟	zhong mo niao
+中央本部	zhong yang ben bu
+主管	zhu guan
 转性魔镜	zhuan xing mo jing
+子弹	zi dan
+紫罗兰	zi luo lan
+紫罗兰的考验	zi luo lan de kao yan
+自律	zi lv

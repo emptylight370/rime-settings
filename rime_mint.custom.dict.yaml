@@ -15,6 +15,7 @@ import_tables:
   - dicts/arknights              # 明日方舟扩展
   - dicts/honkai_3rd             # 崩坏三扩展
   - dicts/honkai_starrail        # 崩坏星穹铁道扩展
-  # 20240608 Emoji完全交友OpenCC，不再使用字典作为补充
+  - dicts/lobotomy               # 脑叶公司扩展
+  # 20240608 Emoji完全交由OpenCC，不再使用字典作为补充
   # - dicts/other_emoji            # Emoji(仅仅作为补充，实际使用一般是OpenCC生效)
 ...
