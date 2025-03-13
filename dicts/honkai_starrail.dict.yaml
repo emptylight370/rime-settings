@@ -5,7 +5,7 @@
 # 建议自定义短语或者词语追加在这里
 ---
 name: honkai_starrail
-version: "2025.02"
+version: "2025.03"
 sort: original
 ...
 
@@ -28,7 +28,6 @@ Aedes Elysiae	ai li mi xie
 艾丝妲	ai si da
 艾丝妲与商业精英	ai si da yu shang ye jing ying
 黯淡黑曜	an dan hei yao
-安排	an pai
 安全载荷	an quan zai he
 暗帷月华	an wei yue hua
 奥博洛斯	ao bo luo si
@@ -69,7 +68,6 @@ Aedes Elysiae	ai li mi xie
 背生击死	bei sheng ji si
 被涂污的信天翁	bei tu wu de xin tian weng
 被装在套子里的人	bei zhuang zai tao zi li de ren
-迸发	beng fa
 崩坏	beng huai
 崩坏：星穹铁道	beng huai xing qiong tie dao
 迸裂晶格	beng lie jing ge
@@ -93,7 +91,6 @@ Aedes Elysiae	ai li mi xie
 博士之袍	bo shi zhi pao
 博识尊	bo shi zun
 波提欧	bo ti ou
-补偿	bu chang
 不寒而栗	bu han er li
 不可知域	bu ke zhi yu
 不可制造偶像	bu ke zhi zao ou xiang
@@ -144,7 +141,6 @@ Aedes Elysiae	ai li mi xie
 超静定场	chao jing ding chang
 潮流品牌郊外	chao liu pin pai jiao wai
 潮汐的馈赠	chao xi de kui zeng
-车厢	che xiang
 晨昏交界的翔鹰	chen hun jiao jie de xiang ying
 「晨昏之眼」艾格勒	chen hun zhi yan ai ge le
 沉浸器	chen jin qi
@@ -157,7 +153,6 @@ Aedes Elysiae	ai li mi xie
 惩戒粮食	cheng jie liang shi
 惩戒能量	cheng jie neng liang
 承露天人	cheng lu tian ren
-承受	cheng shou
 成员火热募集中	cheng yuan huo re mu ji zhong
 齿狼	chi lang
 斥力桥	chi li qiao
@@ -165,7 +160,6 @@ Aedes Elysiae	ai li mi xie
 持明族	chi ming zu
 炽情之灵	chi qing zhi ling
 炽燃徘徊者	chi ran pai huai zhe
-持续	chi xu
 持续伤害	chi xu shang hai
 持续时间	chi xu shi jian
 持续状态	chi xu zhuang tai
@@ -184,7 +178,6 @@ Aedes Elysiae	ai li mi xie
 重循苦旅的司铎	chong xun ku lv de si duo
 储备度规	chu bei du gui
 触不可及	chu bu ke ji
-触电	chu dian
 穿过风雪的旅人	chuan guo feng xue de lv ren
 传统项目部	chuan tong xiang mu bu
 创世涡心	chuang shi wo xin
@@ -194,7 +187,6 @@ Aedes Elysiae	ai li mi xie
 纯美骑士团	chun mei qi shi tuan
 纯美之袍	chun mei zhi pao
 春水初生	chun shui chu sheng
-纯真	chun zhen
 磁流解阀	ci liu jie fa
 此身为剑	ci shen wei jian
 此时恰好	ci shi qia hao
@@ -227,7 +219,6 @@ Aedes Elysiae	ai li mi xie
 大衍万象	da yan wan xiang
 大宇宙炒饭	da yu zhou chao fan
 大愿般若船	da yuan bo re chuan
-代码	dai ma
 蛋白米	dan bai mi
 单场战斗	dan chang zhan dou
 丹鼎司	dan ding si
@@ -247,8 +238,6 @@ Aedes Elysiae	ai li mi xie
 盗火行者	dao huo xing zhe
 盗贼公国塔利亚	dao zei gong guo ta li ya
 等价交换	deng jia jiao huan
-等量	deng liang
-等同于	deng tong yu
 灯昼龙鱼	deng zhou long yu
 第八条也是最后一条	di ba tiao ye shi zui hou yi tiao
 帝车超光所向捷	di che chao guang suo xiang jie
@@ -266,16 +255,13 @@ Aedes Elysiae	ai li mi xie
 第IX机关	di jiu ji guan
 嫡灭笞罚	di mie chi fa
 谛听	di ting
-抵消	di xiao
 帝星君临制穹桑	di xing jun lin zhi qiong sang
 地炎	di yan
 递增性末日	di zeng xing mo ri
 点个关注吧!	dian ge guan zhu ba
-奠基	dian ji
 电射牛斗	dian she niu dou
 电视购物频道	dian shi gou wu pin dao
 迭代机甲	die dai ji jia
-叠加	die jia
 蝶立锋锷	die li feng e
 叠影	die ying
 叠影器	die ying qi
@@ -284,7 +270,6 @@ Aedes Elysiae	ai li mi xie
 冻结状态	dong jie zhuang tai
 冬去煦至	dong qu xu zhi
 动态线稿	dong tai xian gao
-动物	dong wu
 动物凶猛	dong wu xiong meng
 蠹役饥肠	du yi ji chang
 躲不过十五	duo bu guo shi wu
@@ -292,7 +277,6 @@ Aedes Elysiae	ai li mi xie
 多愁善感	duo chou shan gan
 躲得过初一	duo de guo chu yi
 多流汗，少流泪	duo liu han shao liu lei
-额外	e wai
 额外回复	e wai hui fu
 额外回合	e wai hui he
 额外轮次	e wai lun ci
@@ -301,7 +285,6 @@ Aedes Elysiae	ai li mi xie
 发条兵人	fa tiao bing ren
 发条苹果	fa tiao ping guo
 法雨	fa yu
-翻倍	fan bei
 翻飞试炼	fan fei shi lian
 翻飞之币	fan fei zhi bi
 「翻飞之币」扎格列斯	fan fei zhi bi zha ge lie si
@@ -320,10 +303,8 @@ Aedes Elysiae	ai li mi xie
 反重子	fan zhong zi
 燔灼之形	fan zhuo zhi xing
 返祖实验	fan zu shi yan
-方程	fang cheng
 方程覆写	fang cheng fu xie
 芳华待灼	fang hua dai zhuo
-访客	fang ke
 访客认证	fang ke ren zheng
 防御力	fang yu li
 防御球	fang yu qiu
@@ -385,7 +366,6 @@ Aedes Elysiae	ai li mi xie
 歌德宾馆的夜与雾	ge de bin guan de ye yu wu
 歌德宾馆下午茶餐单	ge de bin guan xia wu cha can dan
 各抒己见	ge shu ji jian
-各自	ge zi
 给新手检修员的留言	gei xin shou jian xiu yuan de liu yan
 根除恶孽	gen chu e nie
 攻击力	gong ji li
@@ -393,7 +373,6 @@ Aedes Elysiae	ai li mi xie
 攻击鞋	gong ji xie
 攻击衣	gong ji yi
 共晶反应	gong jing fan ying
-公司	gong si
 工造迴轮	gong zao hui lun
 工造浑心	gong zao hun xin
 工造机杼	gong zao ji zhu
@@ -417,7 +396,6 @@ Aedes Elysiae	ai li mi xie
 棺的回响	guan de hui xiang
 冠军晚餐	guan jun wan can
 冠军晚餐猫的摇篮	guan jun wan can mao de yao lan
-关于	guan yu
 关于宠物小麻的日记	guan yu chong wu xiao ma de ri ji
 关于梦境分析	guan yu meng jing fen xi
 罐装快乐水	guan zhuang kuai le shui
@@ -426,7 +404,6 @@ Aedes Elysiae	ai li mi xie
 光锥	guang zhui
 光锥呈现	guang zhui cheng xian
 轨道红移	gui dao hong yi
-轨迹	gui ji
 诡计之泰坦	gui ji zhi tai tan
 桂乃芬	gui nai fen
 规则	gui ze
@@ -482,7 +459,6 @@ Aedes Elysiae	ai li mi xie
 花火	hua huo
 化外民也能学会	hua wai min ye neng xue hui
 怀炎	huai yan
-怀疑	huai yi
 怀疑的四重根	huai yi de si chong gen
 幻光之形	huan guang zhi xing
 换境桂冠	huan jing gui guan
@@ -504,15 +480,11 @@ Aedes Elysiae	ai li mi xie
 回到大地的飞行	hui dao da di de fei xing
 回到未来	hui dao wei lai
 回灯塔去	hui deng ta qu
-恢复	hui fu
 回光效应	hui guang xiao ying
-回归	hui gui
 慧海度慈航	hui hai du ci hang
-回合	hui he
 回合数	hui he shu
 毁烬焚骨的大公	hui jin fen gu de da gong
 回馈庇护	hui kui bi hu
-毁灭	hui mie
 毁灭的开端	hui mie de kai duan
 毁灭性吸积	hui mie xing xi ji
 毁灭异质	hui mie yi zhi
@@ -522,14 +494,11 @@ Aedes Elysiae	ai li mi xie
 毁灭之影	hui mie zhi ying
 毁灭主	hui mie zhu
 回生	hui sheng
-回味	hui wei
 回响共鸣	hui xiang gong ming
 回响构音	hui xiang gou yin
 回响交错	hui xiang jiao cuo
 回响推演	hui xiang tui yan
-会心	hui xin
 迴星港	hui xing gang
-灰熊	hui xiong
 回忆之蕾	hui yi zhi lei
 回应的兴奋	hui ying de xing fen
 回转	hui zhuan
@@ -569,7 +538,6 @@ Aedes Elysiae	ai li mi xie
 机巧梦宵长	ji qiao meng xiao chang
 机巧鸟	ji qiao niao
 技术研发部	ji shu yan fa bu
-机械	ji xie
 机械贵族	ji xie gui zu
 机械聚落	ji xie ju luo
 机心戏梦的钟表匠	ji xin xi meng de zhong biao jiang
@@ -582,7 +550,6 @@ Aedes Elysiae	ai li mi xie
 记忆之蕾	ji yi zhi lei
 记忆中的模样	ji yi zhong de mu yang
 记忆主	ji yi zhu
-基于	ji yu
 姬子	ji zi
 激奏雷电的乐队	ji zou lei dian de yue dui
 基座舱段	ji zuo cang duan
@@ -593,12 +560,9 @@ Aedes Elysiae	ai li mi xie
 假面愚者	jia mian yu zhe
 加权奇物	jia quan qi wu
 加权奇物覆写	jia quan qi wu fu xie
-家人	jia ren
-家书	jia shu
 家族	jia zu
 家族颂歌	jia zu song ge
 坚城不倒	jian cheng bu dao
-坚定	jian ding
 减抗	jian kang
 健康炒米	jian kang chao mi
 缄默	jian mo
@@ -610,9 +574,7 @@ Aedes Elysiae	ai li mi xie
 降维骰子	jiang wei tou zi
 椒丘	jiao qiu
 教她做人	jiao ta zuo ren
-交通	jiao tong
 焦炙之形	jiao zhi zhi xing
-解除	jie chu
 接渡使	jie du shi
 解控	jie kong
 戒律性闪变	jie lv xing shan bian
@@ -621,7 +583,6 @@ Aedes Elysiae	ai li mi xie
 杰帕德	jie pa de
 杰帕德朗道	jie pa de lang dao
 接受治疗	jie shou zhi liao
-结算	jie suan
 街头笔友	jie tou bi you
 街头出身的拳王	jie tou chu shen de quan wang
 界域定锚	jie yu ding mao
@@ -630,7 +591,6 @@ Aedes Elysiae	ai li mi xie
 近况汇总	jin kuang hui zong
 金人司阍	jin ren si hun
 今日亦是和平的一日	jin ri yi shi he ping de yi ri
-金属	jin shu
 今宵之形	jin xiao zhi xing
 金血祝颂	jin xue zhu song
 惊魂夜	jing hun ye
@@ -654,7 +614,6 @@ Aedes Elysiae	ai li mi xie
 决策智能	jue ce zhi neng
 决绝的痛恨	jue jue de tong hen
 绝灭大君	jue mie da jun
-角色	jue se
 决心如汗珠般闪耀	jue xin ru han zhu ban shan yao
 均衡	jun heng
 均衡等级	jun heng deng ji
@@ -727,7 +686,6 @@ Aedes Elysiae	ai li mi xie
 奎木	kui mu
 拉帝奥	la di ao
 拉帝奥教授	la di ao jiao shou
-垃圾	la ji
 拉条	la tiao
 揽镜人	lan jing ren
 朗道的选择	lang dao de xuan ze
@@ -774,7 +732,6 @@ Aedes Elysiae	ai li mi xie
 灵感回路	ling gan hui lu
 灵感之钥	ling gan zhi yao
 领航员	ling hang yuan
-零件	ling jian
 玲可	ling ke
 凌乱草图	ling luan cao tu
 灵砂	ling sha
@@ -892,7 +849,7 @@ Aedes Elysiae	ai li mi xie
 貘馍卷	mo mo juan
 末那芽苗	mo na ya miao
 模拟宇宙	mo ni yu zhou
-漠涅塔	mo nie ta
+墨涅塔	mo nie ta
 末日幻影	mo ri huan ying
 末日狂欢	mo ri kuang huan
 末日兽	mo ri shou
@@ -1051,7 +1008,6 @@ Aedes Elysiae	ai li mi xie
 赡养人类	shan yang ren lei
 闪耀的偏方三八面骰	shan yao de pian fang san ba mian tou
 上层区	shang ceng qu
-伤害	shang hai
 伤害降低	shang hai jiang di
 哨戒	shao jie
 哨戒卫星	shao jie wei xing
@@ -1094,7 +1050,6 @@ Aedes Elysiae	ai li mi xie
 识海迷坠的学者	shi hai mi zhui de xue zhe
 事件视界	shi jian shi jie
 时节不居	shi jie bu ju
-失控	shi kong
 时空棱镜	shi kong leng jing
 史瓦罗	shi wa luo
 诗仙机器人	shi xian ji qi ren
@@ -1118,7 +1073,6 @@ Aedes Elysiae	ai li mi xie
 树苗长高舞	shu miao zhang gao wu
 戍卫风雪的铁卫	shu wei feng xue de tie wei
 戍卫官	shu wei guan
-属性	shu xing
 属性伤害	shu xing shang hai
 戍御	shu yu
 数值映射	shu zhi ying she
@@ -1137,13 +1091,11 @@ Aedes Elysiae	ai li mi xie
 死亡之泰坦	si wang zhi tai tan
 思绪末屑	si xu mo xie
 苏打豆汁儿	su da dou zhi er
-速度	su du
 速度提高	su du ti gao
 速度鞋	su du xie
 素裳	su shang
 溯忆	su yi
 隧洞遗器	sui dong yi qi
-随后	sui hou
 随机敌方	sui ji di fang
 随机属性	sui ji shu xing
 碎星芳饵	sui xing fang er
@@ -1180,7 +1132,6 @@ Aedes Elysiae	ai li mi xie
 提供治疗后	ti gong zhi liao hou
 缇里西庇俄丝	ti li xi bi e si
 缇宁	ti ning
-体验	ti yan
 体验的富翁	ti yan de fu weng
 天棓步危	tian bei bu wei
 天舶司	tian bo si
@@ -1313,7 +1264,6 @@ Aedes Elysiae	ai li mi xie
 无中生友指南	wu zhong sheng you zhi nan
 稀薄以太	xi bo yi tai
 希儿	xi er
-熄火	xi huo
 希拉的人物剧本	xi la de ren wu ju ben
 昔涟	xi lian
 希露瓦	xi lu wa
@@ -1324,7 +1274,6 @@ Aedes Elysiae	ai li mi xie
 遐蝶	xia die
 弦歌之径	xian ge zhi jing
 仙女木	xian nv mu
-陷入	xian ru
 陷入无法战斗状态	xian ru wu fa zhan dou zhuang tai
 衔药龙女	xian yao long nv
 弦音之形	xian yin zhi xing
@@ -1468,7 +1417,6 @@ Aedes Elysiae	ai li mi xie
 雅努斯迷津	ya nu si mi jin
 雅努斯密径	ya nu si mi jing
 延彼遐龄	yan bi xia ling
-延长	yan chang
 延长记号	yan chang ji hao
 炎华造物	yan hua zao wu
 炎华之形	yan hua zhi xing
@@ -1501,7 +1449,6 @@ Aedes Elysiae	ai li mi xie
 野焰之径	ye yan zhi jing
 一杯酩酊的时代	yi bei ming ding de shi dai
 一场术后对话	yi chang shu hou dui hua
-溢出	yi chu
 一次性动力臂	yi ci xing dong li bi
 一次性动力炮	yi ci xing dong li pao
 一次性防护壁	yi ci xing fang hu bi

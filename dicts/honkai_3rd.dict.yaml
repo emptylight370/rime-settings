@@ -5,7 +5,7 @@
 # 建议自定义短语或者词语追加在这里
 ---
 name: honkai_3rd
-version: "2025.02"
+version: "2025.03"
 sort: original
 ...
 
@@ -260,14 +260,12 @@ sort: original
 斑点椅	ban dian yi
 板鸭	ban ya
 瓣樱不沾	ban ying bu zhan
-班长	ban zhang
 伴着爆炸声翩翩起舞	ban zhe bao zha sheng pian pian qi wu
 半枝莲	ban zhi lian
 绑定手机	bang ding shou ji
 绑定邮箱	bang ding you xiang
 包菜	bao cai
 包菜头	bao cai tou
-保存	bao cun
 爆发斩击	bao fa zhan ji
 爆反装甲	bao fan zhuang jia
 暴风雪	bao feng xue
@@ -277,11 +275,7 @@ sort: original
 爆裂	bao lie
 暴烈冲击	bao lie chong ji
 暴率提升	bao lv ti sheng
-暴怒	bao nu
-爆破	bao po
 爆破精通	bao po jing tong
-爆燃	bao ran
-暴食	bao shi
 暴食的奥义	bao shi de ao yi
 暴食节刀	bao shi jie dao
 暴食之餐	bao shi zhi can
@@ -289,8 +283,6 @@ sort: original
 暴雨流星	bao yu liu xing
 宝藏遗迹	bao zang yi ji
 爆炸吧现充	bao zha ba xian chong
-背包	bei bao
-背刺	bei ci
 被动技能	bei dong ji neng
 贝多芬	bei duo fen
 贝多芬两件套	bei duo fen liang jian tao
@@ -464,18 +456,15 @@ sort: original
 布洛妮娅扎伊切克	bu luo ni ya zha yi qie ke
 布洛妮娅准许	bu luo ni ya zhun xu
 不灭城堡	bu mie cheng bao
-不屈	bu qu
 不识时务	bu shi shi wu
 部署任务	bu shu ren wu
 不完全燃烧	bu wan quan ran shao
 不详之影	bu xiang zhi ying
-不朽	bu xiu
 不遗余力	bu yi yu li
 不准摸我耳朵	bu zhun mo wo er duo
 不准碰我变态	bu zhun peng wo bian tai
 采集搜集	cai ji sou ji
 裁决之雷	cai jue zhi lei
-材料	cai liao
 材料收集	cai liao shou ji
 裁梦者	cai meng zhe
 采蘑菇的小姑娘	cai mo gu de xiao gu niang
@@ -500,7 +489,6 @@ sort: original
 藏宝图	cang bao tu
 苍翠盆栽	cang cui pen zai
 藏锋	cang feng
-仓库	cang ku
 苍龙探海	cang long tan hai
 苍骑士月魂	cang qi shi yue hun
 苍青之刃	cang qing zhi ren
@@ -554,7 +542,6 @@ sort: original
 柴可夫斯基下	chai ke fu si ji xia
 柴可夫斯基中	chai ke fu si ji zhong
 柴可夫斯基中下	chai ke fu si ji zhong xia
-忏悔	chan hui
 长光	chang guang
 长光两件套	chang guang liang jian tao
 长光三件套	chang guang san jian tao
@@ -587,7 +574,6 @@ sort: original
 超限界复兴	chao xian jie fu xing
 超限释放	chao xian shi fang
 超小型反应炉	chao xiao xing fan ying lu
-巢穴	chao xue
 超越者之证	chao yue zhe zhi zheng
 超载防御	chao zai fang yu
 超载模式	chao zai mo shi
@@ -596,15 +582,12 @@ sort: original
 超重剑王蛇	chao zhong jian wang she
 超重力场	chao zhong li chang
 超自然研究会	chao zi ran yan jiu hui
-撤离	che li
 沉甸甸重击	chen dian dian zhong ji
 晨风	chen feng
 沉灵	chen ling
 沉迷钓鱼	chen mi diao yu
 沉睡银狼	chen shui yin lang
-成就	cheng jiu
 乘胜追击	cheng sheng zhui ji
-城市	cheng shi
 成为主角的预感	cheng wei zhu jue de yu gan
 城下町	cheng xia ding
 城下町区	cheng xia ding qu
@@ -649,7 +632,6 @@ sort: original
 重装小兔	chong zhuang xiao tu
 重装型	chong zhuang xing
 出击	chu ji
-初级	chu ji
 初级工业	chu ji gong ye
 初级技能材料	chu ji ji neng cai liao
 初级评价	chu ji ping jia
@@ -827,7 +809,6 @@ sort: original
 德丽莎起源中下	de li sha qi yuan zhong xia
 德丽莎沙滩中	de li sha sha tan zhong
 德丽莎新年	de li sha xin nian
-灯	deng
 「灯」	deng
 等级跨组	deng ji kua zu
 等离子影秀	deng li zi ying xiu
@@ -995,7 +976,6 @@ sort: original
 绯红皇后	fei hong huang hou
 绯魂暴走	fei hun bao zou
 绯火地狱	fei huo di yu
-飞机	fei ji
 飞烬玄灵	fei jin xuan ling
 菲莉斯	fei li si
 绯连雀	fei lian que
@@ -1038,7 +1018,6 @@ sort: original
 粉色妖精小姐♪	fen se yao jing xiao jie
 粉色妖精小姐	fen se yao jing xiao jie
 分享自己可爱的家	fen xiang zi ji ke ai de jia
-分支	fen zhi
 封好的纸箱	feng hao de zhi xiang
 峰回雁	feng hui yan
 烽火瞭望台	feng huo liao wang tai
@@ -1131,7 +1110,6 @@ sort: original
 钢魂	gang hun
 钢之重击	gang zhi zhong ji
 搞错的青春开始了	gao cuo de qing chun kai shi le
-高级	gao ji
 高级技能材料	gao ji ji neng cai liao
 高级机械芯片	gao ji ji xie xin pian
 高级舰会启蒙师	gao ji jian hui qi meng shi
@@ -1151,9 +1129,7 @@ sort: original
 根源棱镜	gen yuan leng jing
 根源棱镜直升券	gen yuan leng jing zhi sheng quan
 攻城方	gong cheng fang
-公告	gong gao
 公会任务	gong hui ren wu
-攻击	gong ji
 攻击叠加	gong ji die jia
 攻击提升	gong ji ti sheng
 攻击天赋	gong ji tian fu
@@ -1533,8 +1509,6 @@ sort: original
 荒原死息	huang yuan si xi
 辉刀	hui dao
 辉刀经津主	hui dao jing jin zhu
-回放	hui fang
-回复	hui fu
 回复结界	hui fu jie jie
 恢复试炼	hui fu shi lian
 彗核守护	hui he shou hu
@@ -1542,7 +1516,6 @@ sort: original
 辉煌宿舍	hui huang su she
 毁灭冲锋	hui mie chong feng
 毁灭斩击	hui mie zhan ji
-回收	hui shou
 回收委托	hui shou wei tuo
 会心	hui xin
 会心叠加	hui xin die jia
@@ -1728,7 +1701,6 @@ sort: original
 迦尼萨	jia ni sa
 加农炮	jia nong pao
 袈裟斩	jia sha zhan
-加速	jia su
 加特林	jia te lin
 家园	jia yuan
 家园崩坏能	jia yuan beng huai neng
@@ -3205,12 +3177,10 @@ sort: original
 蛇从黑暗中行来	she cong hei an zhong xing lai
 摄魂	she hun
 射击训练室	she ji xun lian shi
-社交	she jiao
 社区	she qu
 射手	she shou
 射手峡谷	she shou xia gu
 射线重构	she xian chong gou
-设置	she zhi
 深藏功与名	shen cang gong yu ming
 深层档案	shen ceng dang an
 深层引力	shen ceng yin li
@@ -4907,10 +4877,8 @@ sort: original
 纸箱躺椅	zhi xiang tang yi
 纸箱圆桌	zhi xiang yuan zhuo
 纸箱桌	zhi xiang zhuo
-指引	zhi yin
 织羽梦旌	zhi yu meng jing
 支援	zhi yuan
-制造	zhi zao
 仲裁者	zhong cai zhe
 中二病也要交朋友	zhong er bing ye yao jiao peng you
 中级	zhong ji
