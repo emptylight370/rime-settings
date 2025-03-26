@@ -5,16 +5,23 @@
 # 建议自定义短语或者词语追加在这里
 ---
 name: custom_simple
-version: "2025.02"
+version: "2025.03"
 sort: by_weight
 ...
 
 # 人名
-尕丶天堂	ga tian tang	80
+EmptyLight	emptylight	99
+Emptylight	emptylight	98
+emptylight	emptylight	97
+尕丶天堂	ga tian tang
+Lingfengyu	ling feng yu	99
+lingfengyu	ling feng yu	98
+ling_feng_yu	ling feng yu	97
+听风静待雨停	ting feng jing dai yu ting	99
 # 常用语
 哈哈	ha ha	99
-macOS	mac	99
 可以	ke yi	99
+macOS	mac	99
 # 工具
 颜文字	yan wen zi	100
 # (｡>ㅅ<｡)
@@ -27,22 +34,17 @@ Mintimate's Blog	mintimate	3
 蓝水鸭	lan shui ya	99
 黑水鸭	hei shui ya	99
 # 自定义
-听风静待雨停	ting feng jing dai yu ting	99
-Lingfengyu	ling feng yu	99
-lingfengyu	ling feng yu	98
-ling_feng_yu	ling feng yu	97
-EmptyLight	emptylight	99
-Emptylight	emptylight	98
-emptylight	emptylight	97
-https://www.emptylight.cn	emptylight	96
-1378990254@qq.com	email	99
-无光之域	wu guang zhi yu	99
 的	de	99
 地	de	98
 得	de	97
+1378990254@qq.com	email	99
+https://www.emptylight.cn	emptylight	96
+无光之域	wu guang zhi yu	99
 # Coding
 CRC校验	crc	jiao yan	80
 E-R模型	er mo xing	80
 E-R图	er tu	80
 I/O通道	io tong dao	80
 I/O方式	io fang shi	80
+# Gaming
+B服	b fu

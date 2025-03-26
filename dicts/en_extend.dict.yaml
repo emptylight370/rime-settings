@@ -12,28 +12,17 @@ sort: original
 # Coding
 AList	alist
 ALU	alu
-Arcaea	arcaea
 ARP	arp
 bit	bit
-BitComet	bitcomet
 BitLocker	bitlocker
-bit/s	bits
 Chromium	chromium
-Ciallo～(∠・ω< )⌒☆	ciallo
-Ciallo～(∠・ω< )⌒★	ciallo
-ちゃろー～(∠・ω< )⌒★	ciallo
-Cloudreve	cloudreve
 conda	conda
 CRC	crc
 DLAA	dlaa
 DLSS	dlss
 DMA	dma
-Edge	edge
 FCB	fcb
 GB	gb
-Gbit	gbit
-Gbit/s	gbits
-GHz	ghz
 Git	git
 GitHub issues	githubissues
 Hash	hash
@@ -45,33 +34,21 @@ JS	js
 JavaScript	js
 KaTeX	katex
 KB	kb
-lowiro	lowiro
-MAA	maa
-MaaAssistantArknights	maa
 MAC	mac
+Mac	mac
 MB	mb
-Mbit	mbit
-Mbit/s	mbits
-MHz	mhz
-Microsoft Edge	microsoftedge
 Miniconda	miniconda
-Microsoft Edge	msedge
 NAT	nat
 OpenCV	opencv
 OSPF	ospf
 PCB	pcb
-PCDN	pcdn
-Phigros	phigros
 pip	pip
 pr	pr
 pull request	pr
 Pull Request	pr
-Rizline	rizline
 SASS	sass
 SCSS	scss
 Selenium	selenium
-TCP	tcp
-TCP/IP	tcpip
 ts	ts
 TS	ts
 TypeScript	ts
@@ -86,3 +63,31 @@ XPointer	xpointer
 XQuery	xquery
 XSLT	xslt
 XSL Transformations	xslt
+# Daily
+Cloudreve	cloudreve
+Edge	edge
+Microsoft Edge	microsoftedge
+Microsoft Edge	msedge
+Quicker	quicker
+# Gaming
+Arcaea	arcaea
+Ciallo～(∠・ω< )⌒☆	ciallo
+Ciallo～(∠・ω< )⌒★	ciallo
+ちゃろー～(∠・ω< )⌒★	ciallo
+lowiro	lowiro
+MAA	maa
+MaaAssistantArknights	maa
+Phigros	phigros
+Rizline	rizline
+# Network
+BitComet	bitcomet
+bit/s	bits
+Gbit	gbit
+Gbit/s	gbits
+GHz	ghz
+Mbit	mbit
+Mbit/s	mbits
+MHz	mhz
+PCDN	pcdn
+TCP	tcp
+TCP/IP	tcpip
