@@ -5,7 +5,7 @@
 # 建议自定义短语或者词语追加在这里
 ---
 name: honkai_starrail
-version: "2025.03"
+version: "2025.04"
 sort: original
 ...
 
@@ -90,6 +90,7 @@ Aedes Elysiae	ai li mi xie
 博识尊	bo shi zun
 波提欧	bo ti ou
 不寒而栗	bu han er li
+捕获梦华	bu huo meng hua
 不可知域	bu ke zhi yu
 不可制造偶像	bu ke zhi zao ou xiang
 不老者的仙舟	bu lao zhe de xian zhou
@@ -307,6 +308,7 @@ Aedes Elysiae	ai li mi xie
 飞天坛递	fei tian tan di
 飞向明天	fei xiang ming tian
 飞霄	fei xiao
+飞跃开拓	fei yue kai tuo
 焚化工	fen hua gong
 忿火之心	fen huo zhi xin
 分裂金币	fen lie jin bi
@@ -388,9 +390,11 @@ Aedes Elysiae	ai li mi xie
 光巡天矢	guang xun tian shi
 光锥	guang zhui
 光锥呈现	guang zhui cheng xian
+光锥碎忆	guang zhui sui yi
 轨道红移	gui dao hong yi
 诡计之泰坦	gui ji zhi tai tan
 桂乃芬	gui nai fen
+归途助力	gui tu zhu li
 规则	gui ze
 贵重战利品	gui zhong zhan li pin
 果腹粮食	guo fu liang shi
@@ -592,6 +596,7 @@ Aedes Elysiae	ai li mi xie
 久安长治	jiu an chang zhi
 九十亿个名字	jiu shi yi ge ming zi
 俱乐部券	ju le bu quan
+聚灵铸星	ju ling zhu xing
 俱殁	ju mo
 聚塑	ju su
 局外人	ju wai ren
@@ -681,6 +686,7 @@ Aedes Elysiae	ai li mi xie
 离神	li shen
 离弦	li xian
 理性之泰坦	li xing zhi tai tan
+礼遇成双	li yu cheng shuang
 历战余响	li zhan yu xiang
 联觉信标	lian jue xin biao
 炼形者	lian xing zhe
@@ -746,6 +752,8 @@ Aedes Elysiae	ai li mi xie
 逻辑语言中枢	luo ji yu yan zhong shu
 落日时起舞	luo ri shi qi wu
 落日余晖	luo ri yu hui
+旅伴金灵	lv ban jin ling
+旅伴银灵	lv ban yin ling
 率从狻猊	lv cong suan ni
 律法之泰坦	lv fa zhi tai tan
 旅情见闻	lv qing jian wen
@@ -930,6 +938,7 @@ Aedes Elysiae	ai li mi xie
 燃料	ran liao
 燃烧男子的肖像	ran shao nan zi de xiao xiang
 燃素	ran su
+让告别，更美一些	rang gao bie geng mei yi xie
 禳灾	rang zai
 热浮羊奶	re fu yang nai
 人才激励部	ren cai ji li bu
@@ -1003,6 +1012,7 @@ Aedes Elysiae	ai li mi xie
 胜利只在朝夕间	sheng li zhi zai zhao xi jian
 生命百分比	sheng ming bai fen bi
 生命传输器	sheng ming chuan shu qi
+生命当付之一炬	sheng ming dang fu zhi yi ju
 生命的翁瓦克	sheng ming de weng wa ke
 生命球	sheng ming qiu
 生命上限	sheng ming shang xian
@@ -1218,6 +1228,8 @@ Aedes Elysiae	ai li mi xie
 物理	wu li
 无名的追忆	wu ming de zhui yi
 无名客	wu ming ke
+无名客的奖章	wu ming ke de jiang zhang
+无名客的荣勋	wu ming ke de rong xun
 无名客服	wu ming ke fu
 无名路途	wu ming lu tu
 无名之地，无名之人	wu ming zhi di wu ming zhi ren
@@ -1306,6 +1318,7 @@ Aedes Elysiae	ai li mi xie
 星核	xing he
 星核猎手	xing he lie shou
 星核猎手卡芙卡	xing he lie shou ka fu ka
+星回赐礼	xing hui ci li
 星魂	xing hun
 星火游园	xing huo you yuan
 星火之精	xing huo zhi jing
@@ -1375,6 +1388,7 @@ Aedes Elysiae	ai li mi xie
 巡猎石	xun lie shi
 巡猎之蕾	xun lie zhi lei
 迅拳之径	xun quan zhi jing
+循星归程	xun xing gui cheng
 巡星之礼	xun xing zhi li
 寻药溯源	xun yao su yuan
 亚服	ya fu
@@ -1518,6 +1532,7 @@ Aedes Elysiae	ai li mi xie
 预兆似有若无	yu zhao si you ruo wu
 预兆性景深	yu zhao xing jing shen
 宇宙安宁片刻	yu zhou an ning pian ke
+宇宙大生意	yu zhou da sheng yi
 宇宙市场趋势	yu zhou shi chang qu shi
 原初的苦衷	yuan chu de ku zhong
 愿此行	yuan ci xing
@@ -1661,6 +1676,7 @@ Aedes Elysiae	ai li mi xie
 筑梦遥眼	zhu meng yao yan
 逐梦者的信件	zhu meng zhe de xin jian
 主目标	zhu mu biao
+助燃券	zhu ran quan
 蛀星的旧靥	zhu xing de jiu ye
 诸行无常	zhu xing wu chang
 逐星之矢	zhu xing zhi shi
