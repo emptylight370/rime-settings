@@ -53,3 +53,5 @@ patch:
       ascii_mode: true
     javaw.exe:
       ascii_mode: true
+    UsbEAm Hosts Editor.exe:
+      ascii_mode: true
