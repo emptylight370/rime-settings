@@ -7,20 +7,20 @@
 # 脑叶公司系列词条扩展，现在已经包含脑叶公司、废墟图书馆内容，以后会添加巴士的词条
 ---
 name: lobotomy
-version: "2025.03"
+version: "2025.04"
 sort: original
 ...
 
 A公司	a gong si
 爱慕	ai mu
 爱娜温	ai na wen
-ALEPH	aleph
+# ALEPH	aleph
 安保部	an bao bu
 黯胧	an long
 昂首阔步的信念	ang shou kuo bu de xin nian
 奥兹玛	ao zi ma
-Asiyah	asiyah
-Atziluth	atziluth
+# Asiyah	asiyah
+# Atziluth	atziluth
 B公司	b gong si
 白色伤害	bai se shang hai
 白雪公主的苹果	bai xue gong zhu de ping guo
@@ -36,9 +36,9 @@ B公司	b gong si
 碧蓝新星	bi lan xin xing
 臂章	bi zhang
 别碰我	bie peng wo
-Binah	binah
+# Binah	binah
 冰雪女皇	bing xue nv huang
-Birah	birah
+# Birah	birah
 波迪	bo di
 薄暝	bo ming
 部门常驻奖励	bu men chang zhu jiang li
@@ -49,8 +49,8 @@ C公司	c gong si
 惨白的黎明	can bai de li ming
 惨白的午夜	can bai de wu ye
 惨白的正午	can bai de zheng wu
-Carmen	carmen
-"CENSORED"	censored
+# Carmen	carmen
+# "CENSORED"	censored
 常驻加成	chang zhu jia cheng
 常驻奖励	chang zhu jiang li
 常驻员工	chang zhu yuan gong
@@ -61,7 +61,7 @@ Carmen	carmen
 惩戒部	cheng jie bu
 惩戒鸟	cheng jie niao
 成长速度	cheng zhang su du
-Chesed	chesed
+# Chesed	chesed
 赤瞳	chi tong
 持续使用型	chi xu shi yong xing
 持续使用型工具异想体	chi xu shi yong xing gong ju yi xiang ti
@@ -80,7 +80,7 @@ Chesed	chesed
 大坏狼	da huai lang
 打击架势	da ji jia shi
 大鸟	da niao
-Da capo	dacapo
+# Da capo	dacapo
 单次使用型	dan ci shi yong xing
 单次使用型工具异想体	dan ci shi yong xing gong ju yi xiang ti
 胆小的猫咪	dan xiao de mao mi
@@ -126,13 +126,13 @@ E.G.O装备	ego zhuang bei
 福利部	fu li bu
 负面情感硬币	fu mian qing gan ying bi
 腐蚀	fu shi
-Furioso	furioso
+# Furioso	furioso
 改良再生反应堆	gai liang zai sheng fan ying dui
 高阶事务所	gao jie shi wu suo
 歌唱机	ge chang ji
 个人情感等级	ge ren qing gan deng ji
 割腕者	ge wan zhe
-Geburah	geburah
+# Geburah	geburah
 G.O可视化	go ke shi hua
 攻击速度	gong ji su du
 攻击骰子	gong ji tou zi
@@ -146,7 +146,7 @@ G.O可视化	go ke shi hua
 光之种	guang zhi zhong
 归家的路途	gui jia de lu tu
 归家的路途与胆小的猫咪	gui jia de lu tu yu dan xiao de mao mi
-HE	he
+# HE	he
 核心书页	he xin shu ye
 核心抑制	he xin yi zhi
 核心抑制条件	he xin yi zhi tiao jian
@@ -154,8 +154,8 @@ HE	he
 黑天鹅	hei tian e
 黑天鹅之梦	hei tian e zhi meng
 黑焰	hei yan
-Hod	hod
-Hokma	hokma
+# Hod	hod
+# Hokma	hokma
 红色伤害	hong se shang hai
 红舞鞋	hong wu xie
 后巷	hou xiang
@@ -207,7 +207,7 @@ K公司	k gong si
 开始欢呼吧！	kai shi huan hu ba
 科技层	ke ji ceng
 渴望之心	ke wang zhi xin
-Kether	kether
+# Kether	kether
 恐慌员工	kong huang yuan gong
 恐惧伤害	kong ju shang hai
 空虚之梦	kong xu zhi meng
@@ -239,7 +239,7 @@ LOB点数	lob dian shu
 绿色的午夜	lv se de wu ye
 绿色的正午	lv se de zheng wu
 绿色枝干	lv se zhi gan
-Malkuth	malkuth
+# Malkuth	malkuth
 盲眼怒火	mang yan nu huo
 美女和野兽	mei nv he ye shou
 美味苏打	mei wei su da
@@ -254,7 +254,7 @@ Malkuth	malkuth
 脑叶公司	nao ye gong si
 NE-BOX	nebox
 内在勇气	nei zai yong qi
-Netzach	netzach
+# Netzach	netzach
 你必须要幸福	ni bi xu yao xing fu
 逆卡巴拉能量	ni ka ba la neng liang
 逆卡巴拉能量干扰立场	ni ka ba la neng liang gan rao li chang
@@ -309,7 +309,7 @@ R公司	r gong si
 三级警报	san ji jing bao
 3月27日的避难所	san yue er shi qi ri de bi nan suo
 色彩级收尾人	se cai ji shou wei ren
-Sephirah	sephirah
+# Sephirah	sephirah
 杀人兔	sha ren tu
 闪避骰子	shan bi tou zi
 闪金冲锋	shan jin chong feng
@@ -354,7 +354,7 @@ Sephirah	sephirah
 TETH	teth
 天启鸟	tian qi niao
 调律者	tiao lv zhe
-Tiphereth	tiphereth
+# Tiphereth	tiphereth
 同行之路	tong xing zhi lu
 统御之美	tong yu zhi mei
 TT2协议	tt er xie yi
@@ -420,7 +420,7 @@ WAW	waw
 要害识破	yao hai shi po
 妖灵	yao ling
 邀请函	yao qing han
-Yesod	yesod
+# Yesod	yesod
 以爱与恨之名	yi ai yu hen zhi ming
 1.76兆赫	yi dian qi liu zhao he
 移动速度	yi dong su du

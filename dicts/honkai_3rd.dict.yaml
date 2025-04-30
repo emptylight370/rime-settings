@@ -5,7 +5,7 @@
 # 建议自定义短语或者词语追加在这里
 ---
 name: honkai_3rd
-version: "2025.03"
+version: "2025.04"
 sort: original
 ...
 
@@ -3557,6 +3557,7 @@ sort: original
 泰套	tai tao
 泰下	tai xia
 太虚	tai xu
+太虚山	tai xu shan
 太虚之握	tai xu zhi wo
 泰中	tai zhong
 泰中下	tai zhong xia
