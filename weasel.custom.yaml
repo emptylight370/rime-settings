@@ -57,3 +57,7 @@ patch:
       ascii_mode: true
     studio64.exe:
       ascii_mode: true
+    Hacknet.exe:
+      ascii_mode: true
+    KeepassXC.exe:
+      ascii_mode: true
