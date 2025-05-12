@@ -8,6 +8,7 @@ patch:
   "translator/contextual_suggestions": true
   "translator/max_homophones": 7
   "translator/max_homographs": 7
+  # 修改标点符号
   punctuator:
     full_shape:
       __include: default:/punctuator/full_shape  # 从 default.yaml 导入配置
@@ -32,8 +33,11 @@ patch:
     symbols:
       __include: symbols_v:/symbols         # 从 symbols_v.yaml 导入配置
   recognizer/patterns/punct: "^v([0-9]|10|[A-Za-z]+)$"    # 响应 symbols_v.yaml 的 symbols
+  # 尝试修改分隔符
   speller/delimiter: " `'‘’"
+  # 修改快捷键绑定
   key_binder/=:
     import_preset: default
+  # 修改字典为自定义字典
   translator/dictionary: rime_mint.custom
   # melt_eng/dictionary: melt_eng.custom

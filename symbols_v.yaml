@@ -264,6 +264,7 @@ symbols:
   # 中英标点
   'vbdzy': [‐, ‑, ‒, –, —, ―, ‖, ‗, ‘, ’, ‚, ‛, “, ”, „, ‟, †, ‡, •, ‣, ․, ‥, …, ‧, ‰, ‱, ′, ″, ‴, ‵, ‶, ‷, ‸, ‹, ›, ※, ‼, ‽, ‾, ‿, ⁀, ⁁, ⁂, ⁃, ⁄, ⁅, ⁆, ⁇, ⁈, ⁉, ⁊, ⁋, ⁌, ⁍, ⁎, ⁏, ⁐, ⁑, ⁒, ⁓, ⁔, ⁕, ⁖, ⁗, ⁘, ⁙, ⁚, ⁛, ⁜, ⁝, ⁞]
   # Unicode CJK Symbols and Punctuation https://www.unicode.org/charts/PDF/U3000.pdf 该区块中的标点已包含在 vbd 定义的列表中。
+  'vhelp': [fh(符号),dm(电脑),bq(表情),tq(天气),yy(音乐),lx(两性),bg(八卦),bgm(八卦名),lssg(六十四卦),lssgm(六十四卦名),tt(天体),xz(星座),xzm(星座名),xzg(星座宫),xh(星号),fk(方块),jh(几何),jt(箭头),sx(数学),szq(数字圆),szh(数字弧),szd(数字点),zmq(字母圆),zmh(字母弧),lm(小写罗马数字),lmd(大写罗马数字),sb(上标),xb(下标),xl(小写希腊字母),xld(大写希腊字母),ey(小写俄语字母),eyd(大写俄语字母),tg(天干),dz(地支),gz(干支),jq(节气),hb(货币),bd(标点),bdz(竖标点),py(拼音),iro(日语),jm(平假名),pjm(片假名),hw(韩文),dh(点号),fjz(非夹注),jz(夹注),hj(行间),bdzy(标点中英)]
 
   # emoji_category 来源： https://github.com/rime/rime-emoji/blob/master/opencc/emoji_category.txt
   'vzhonghua': [🧧, 🥮, 🧨, 🧮]
