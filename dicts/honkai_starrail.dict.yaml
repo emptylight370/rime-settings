@@ -5,7 +5,7 @@
 # 建议自定义短语或者词语追加在这里
 ---
 name: honkai_starrail
-version: "2025.04"
+version: "2025.05"
 sort: original
 ...
 
@@ -362,6 +362,7 @@ Aedes Elysiae	ai li mi xie
 负面效果	fu mian xiao guo
 负世	fu shi
 负世之泰坦	fu shi zhi tai tan
+福坛	fu tan
 拂晓之前	fu xiao zhi qian
 复兴剿荡	fu xing jiao dang
 复兴之路	fu xing zhi lu
@@ -379,6 +380,7 @@ Aedes Elysiae	ai li mi xie
 攻击鞋	gong ji xie
 攻击衣	gong ji yi
 共晶反应	gong jing fan ying
+攻略码	gong lve ma
 工造迴轮	gong zao hui lun
 工造浑心	gong zao hun xin
 工造机杼	gong zao ji zhu
@@ -865,6 +867,7 @@ Aedes Elysiae	ai li mi xie
 末日兽	mo ri shou
 漠视主义	mo shi zhu yi
 抹消者	mo xiao zhe
+末叶	mo ye
 魔阴身士卒	mo yin shen shi zu
 貘泽	mo ze
 目标	mu biao
@@ -1318,6 +1321,7 @@ Aedes Elysiae	ai li mi xie
 小朋友	xiao peng you
 小朋友的信	xiao peng you de xin
 小小哈努行动	xiao xiao ha nu xing dong
+小伊卡	xiao yi ka
 谐乐静默之后	xie le jing mo shi hou
 谐乐小调	xie le xiao diao
 谐乐众弦	xie le zhong xian

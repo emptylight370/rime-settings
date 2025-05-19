@@ -6,7 +6,7 @@
 # 明日方舟词条
 ---
 name: arknights
-version: "2025.03"
+version: "2025.05"
 sort: original
 ...
 
@@ -17,6 +17,7 @@ sort: original
 阿格尼尔神父	a ge ni er shen fu
 阿卡胡拉饭碗	a ka hu la fan wan
 阿卡胡拉之巅	a ka hu la zhi dian
+阿兰娜	a lan na
 阿勒黛的卫护	a le dai de wei hu
 阿罗玛	a luo ma
 阿米娅	a mi ya
@@ -440,6 +441,7 @@ Castle-3	castle
 尘影余音	chen ying yu yin
 惩罚	cheng fa
 城防路障	cheng fang lu zhang
+骋风	cheng feng
 惩戒军前线基地	cheng jie jun qian xian ji di
 澄净闪耀	cheng jing shan yao
 澄亮采集站	cheng liang cai ji zhan
@@ -2306,6 +2308,7 @@ Lancet-2	lancet
 乐之节符	le zhi jie fu
 雷达定位	lei da ding wei
 雷鸣地雷	lei ming di lei
+蕾缪安	lei miu an
 雷姆必拓	lei mu bi tuo
 雷姆必拓西瓜蛋糕	lei mu bi tuo xi gua dan gao
 垒沙	lei sha
@@ -2442,6 +2445,7 @@ Lancet-2	lancet
 伶牙	ling ya
 另一个视角	ling yi ge shi jiao
 另一种可能	ling yi zhong ke neng
+聆音	ling yin
 翎羽	ling yu
 灵知	ling zhi
 领主	ling zhu
@@ -2690,6 +2694,7 @@ Lancet-2	lancet
 幕间余兴	mu jian yu xing
 木裂战士	mu lie zhan shi
 暮落	mu luo
+钼铅	mu qian
 慕斯	mu si
 木天蓼	mu tian liao
 暮眼锐瞳	mu yan rui tong
@@ -2762,6 +2767,7 @@ Lancet-2	lancet
 怒之节符	nu zhi jie fu
 诺伯特暗探	nuo bo te an tan
 诺伯特平民	nuo bo te ping min
+诺威尔	nuo wei er
 女皇之声	nv huang zhi sheng
 女皇之愿	nv huang zhi yuan
 女巫之泪	nv wu zhi lei
@@ -3612,6 +3618,7 @@ PhonoR-0	phonor
 霜与沙	shuang yu sha
 双月	shuang yue
 谁的战争	shui de zhan zheng
+水灯心	shui deng xin
 水火不容	shui huo bu rong
 水火相容	shui huo xiang rong
 水晶箭行动	shui jing jian xing dong
@@ -3641,6 +3648,7 @@ PhonoR-0	phonor
 斯卡蒂的海嗣	si ka di de hai si
 死路	si lu
 司律者	si lv zhe
+死芒	si mang
 四面楚歌	si mian chu ge
 四面埋伏	si mian mai fu
 死囚之舞	si qiu zhi wu
@@ -4371,10 +4379,12 @@ THRM-EX	thrmex
 新硎	xin xing
 新星爆发	xin xing bao fa
 信仰传承	xin yang chuan cheng
+信仰搅拌机	xin yang jiao ban ji
 信影流	xin ying liu
 信用	xin yong
 新月	xin yue
 新约	xin yue
+新约能天使	xin yue neng tian shi
 行动协议	xing dong xie yi
 行动预备组	xing dong yu bei zu
 猩红剧团票根	xing hong ju tuan piao gen
@@ -4759,6 +4769,7 @@ THRM-EX	thrmex
 引爆	yin bao
 荫庇	yin bi
 银餐叉	yin can cha
+隐德来希	yin de lai xi
 因地制宜	yin di zhi yi
 因果	yin guo
 引航者试炼	yin hang zhe shi lian
