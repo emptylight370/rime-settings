@@ -5,10 +5,15 @@
 # 建议自定义短语或者词语追加在这里
 ---
 name: honkai_starrail
-version: "2025.05"
+version: "2025.06"
 sort: original
 ...
 
+Archer	Archer
+命运/今晚留下来	FSN
+FSN	FSN
+Fate Stay Night	FSN
+Saber	Saber
 阿格莱雅	a ge lai ya
 阿哈	a ha
 阿哈玩偶	a ha wan ou
@@ -148,6 +153,7 @@ Aedes Elysiae	ai li mi xie
 超静定场	chao jing ding chang
 潮流品牌郊外	chao liu pin pai jiao wai
 潮汐的馈赠	chao xi de kui zeng
+沉欢醉饮的海隅	chen huan zui yin de hai yu
 晨昏的回眸	chen hun de hui mou
 晨昏交界的翔鹰	chen hun jiao jie de xiang ying
 「晨昏之眼」艾格勒	chen hun zhi yan ai ge le
@@ -195,6 +201,7 @@ Aedes Elysiae	ai li mi xie
 蠢动原核	chun dong yuan he
 纯美骑士团	chun mei qi shi tuan
 纯美之袍	chun mei zhi pao
+春日手信	chun ri shou xin
 春水初生	chun shui chu sheng
 磁流解阀	ci liu jie fa
 此身为剑	ci shen wei jian
@@ -402,6 +409,7 @@ Aedes Elysiae	ai li mi xie
 孤绝世界裴伽纳	gu jue shi jie pei jia na
 古老梦华	gu lao meng hua
 固溶强化	gu rong qiang hua
+故事的下一页	gu shi de xia yi ye
 固态净水	gu tai jing shui
 观察日记	guan cha ri ji
 棺的回响	guan de hui xiang
@@ -425,6 +433,7 @@ Aedes Elysiae	ai li mi xie
 哈努兄弟	ha nu xiong di
 哈努兄弟越狱记	ha nu xiong di yue yu ji
 哈努战线	ha nu zhan xian
+海列屈拉	hai lie qu la
 「海畔明珠」斯缇科西亚	hai pan ming zhu si ti ke xi ya
 海瑟音	hai se yin
 海洋之泰坦	hai yang zhi tai tan
@@ -471,6 +480,7 @@ Aedes Elysiae	ai li mi xie
 琥珀的坚守	hu po de jian shou
 琥珀纪	hu po ji
 狐斋志异	hu zhai zhi yi
+花儿不会忘记	hua er bu hui wang ji
 花火	hua huo
 化外民	hua wai min
 怀炎	huai yan
@@ -575,6 +585,7 @@ Aedes Elysiae	ai li mi xie
 假面愚者	jia mian yu zhe
 加权奇物	jia quan qi wu
 加权奇物覆写	jia quan qi wu fu xie
+假日浴场大冒险	jia ri yu chang da mao xian
 家族	jia zu
 家族颂歌	jia zu song ge
 坚城不倒	jian cheng bu dao
@@ -607,6 +618,7 @@ Aedes Elysiae	ai li mi xie
 金人旧巷市廛喧	jin ren jiu xiang shi chan xuan
 金人司阍	jin ren si hun
 今日亦是和平的一日	jin ri yi shi he ping de yi ri
+烬日之形	jin ri zhi xing
 今宵之形	jin xiao zhi xing
 金血祝颂	jin xue zhu song
 惊魂夜	jing hun ye
@@ -711,8 +723,11 @@ Aedes Elysiae	ai li mi xie
 立即回复	li ji hui fu
 立刻行动	li ke xing dong
 黎明将至	li ming jiang zhi
+黎明恰如此燃烧	li ming qia ru ci ran shao
 离神	li shen
+砺烁新辉	li shuo xin hui
 离弦	li xian
+理想燃烧的地狱	li xiang ran shao de di yu
 理性之泰坦	li xing zhi tai tan
 雳涌之径	li yong zhi jing
 礼遇成双	li yu cheng shuang
@@ -809,7 +824,9 @@ Aedes Elysiae	ai li mi xie
 美服	mei fu
 美梦剧团	mei meng ju tuan
 美梦小镇大冒险	mei meng xiao zhen da mao xian
+美梦与圣杯	mei meng yu sheng bei
 每日实训	mei ri shi xun
+没有回报的加冕	mei you hui bao de jia mian
 门径之泰坦	men jing zhi tai tan
 梦的蒙太奇	meng de meng tai qi
 梦境护照	meng jing hu zhao
@@ -860,6 +877,7 @@ Aedes Elysiae	ai li mi xie
 命途行者	ming tu xing zhe
 命运从未公平	ming yun cong wei gong ping
 命运的足迹	ming yun de zu ji
+命运/今晚留下来	ming yun jin wan liu xia lai
 命运相连	ming yun xiang lian
 末法余烬	mo fa yu jin
 貘馍卷	mo mo juan
@@ -875,6 +893,7 @@ Aedes Elysiae	ai li mi xie
 魔阴身士卒	mo yin shen shi zu
 貘泽	mo ze
 目标	mu biao
+暮晖烬蕾	mu hui jin lei
 那刻夏	na ke xia
 纳努克	na nu ke
 娜塔莎	na ta sha
@@ -1102,6 +1121,7 @@ Aedes Elysiae	ai li mi xie
 霜晶造物	shuang jing zao wu
 霜晶之形	shuang jing zhi xing
 水龙吟	shui long yin
+朔望	shuo wang
 四号屠场	si hao tu chang
 四棱锥体	si leng zhui ti
 思量的种	si liang de zhong
@@ -1464,6 +1484,7 @@ Aedes Elysiae	ai li mi xie
 阳雷的遥想	yang lei de yao xiang
 养心返魂丹	yang xin fan hun dan
 摇滚	yao gun
+妖精织梦的乐园	yao jing zhi meng de le yuan
 遥控机巧鸟	yao kong ji qiao niao
 曜青	yao qing
 药师	yao shi
@@ -1484,6 +1505,7 @@ Aedes Elysiae	ai li mi xie
 伊德莉拉	yi de li la
 一法界心	yi fa jie xin
 一封信	yi feng xin
+一行往日的血	yi hang wang ri de xie
 已黑化	yi hei hua
 一间好商铺世代摇钱树	yi jian hao shang pu shi dai yao qian shu
 衣匠	yi jiang
@@ -1528,6 +1550,7 @@ Aedes Elysiae	ai li mi xie
 阴影从未离去	yin ying cong wei li qu
 饮月	yin yue
 饮月君	yin yue jun
+氤氲麦香的梦	yin yun mai xiang de meng
 银枝	yin zhi
 银鬃近卫	yin zong jin wei
 银鬃炮手	yin zong pao shou
@@ -1570,6 +1593,7 @@ Aedes Elysiae	ai li mi xie
 浴火钢心	yu huo gang xin
 玉角盘虬	yu jiao pan qiu
 驭空	yu kong
+于那终点再见	yu na zhong dian zai jian
 愚人戏	yu ren xi
 余生的第一天	yu sheng de di yi tian
 与行星相会	yu xing xing xiang hui
@@ -1590,6 +1614,7 @@ Aedes Elysiae	ai li mi xie
 愿今夜无梦	yuan jin ye wu meng
 源究森林	yuan jiu sen lin
 源究院	yuan jiu yuan
+愿旅途永远坦然	yuan lv tu yong yuan tan ran
 原能量上限	yuan neng liang shang xian
 原伤害	yuan shang hai
 原生黑洞	yuan sheng hei dong
@@ -1660,6 +1685,7 @@ Aedes Elysiae	ai li mi xie
 折纸大学	zhe zhi da xue
 折纸小鸟	zhe zhi xiao niao
 折纸小鸟对对碰	zhe zhi xiao niao dui dui peng
+折纸小鸟对对碰：正式版	zhe zhi xiao niao dui dui peng zheng shi ban
 折纸小鸟聚集地	zhe zhi xiao niao ju ji di
 震厄之形	zhen e zhi xing
 真理	zhen li
@@ -1669,6 +1695,7 @@ Aedes Elysiae	ai li mi xie
 征服或被征服	zheng fu huo bei zheng fu
 正阳狮鹫	zheng yang shi jiu
 征友启事	zheng you qi shi
+直到明天的明天	zhi dao ming tian de ming tian
 至福舞会	zhi fu wu hui
 至高，至阳，天空的化身	zhi gao zhi yang tian kong de hua shen
 知更鸟	zhi geng niao
@@ -1682,6 +1709,7 @@ Aedes Elysiae	ai li mi xie
 致炉心基地全体	zhi lu xin ji di quan ti
 炙梦喷枪	zhi meng pen qiang
 致命伤害	zhi ming shang hai
+执棋的君主	zhi qi de jun zhu
 制胜的瞬间	zhi sheng de shun jian
 智识	zhi shi
 知识奇点	zhi shi ji dian
@@ -1733,11 +1761,13 @@ Aedes Elysiae	ai li mi xie
 蛀星的旧靥	zhu xing de jiu ye
 诸行无常	zhu xing wu chang
 逐星之矢	zhu xing zhi shi
+转魄	zhuan po
 专注	zhuan zhu
 状态	zhuang tai
 追击伤害加成	zhui ji shang hai jia cheng
 追加攻击	zhui jia gong ji
 追忆残像	zhui yi can xiang
+追逐风的时候	zhui zhu feng de shi hou
 捉迷藏	zhuo mi cang
 灼烧	zhuo shao
 自动机兵	zi dong ji bing
@@ -1748,6 +1778,7 @@ Aedes Elysiae	ai li mi xie
 自欺咖啡馆	zi qi ka fei guan
 自塑尘脂	zi su chen zhi
 滋长花蜜	zi zhang hua mi
+奏浪的剑骑	zou lang de jian qi
 祖辈的钻头	zu bei de zuan tou
 组件	zu jian
 组件覆写	zu jian fu xie

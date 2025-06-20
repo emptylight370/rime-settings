@@ -61,3 +61,5 @@ patch:
       ascii_mode: true
     KeepassXC.exe:
       ascii_mode: true
+    Lightning.exe:
+      ascii_mode: true
