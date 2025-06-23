@@ -13,9 +13,7 @@ sort: original
 AList	alist
 ALU	alu
 ARP	arp
-bit	bit
 BitLocker	bitlocker
-Chromium	chromium
 conda	conda
 CRC	crc
 DLAA	dlaa
@@ -23,9 +21,7 @@ DLSS	dlss
 DMA	dma
 FCB	fcb
 GB	gb
-Git	git
 GitHub issues	githubissues
-Hash	hash
 Hz	hz
 I/O	io
 JavaScript	javascript
@@ -66,7 +62,6 @@ XSL Transformations	xslt
 # Daily
 Cloudreve	cloudreve
 Edge	edge
-Microsoft Edge	microsoftedge
 Microsoft Edge	msedge
 Quicker	quicker
 # Gaming
@@ -89,5 +84,4 @@ Mbit	mbit
 Mbit/s	mbits
 MHz	mhz
 PCDN	pcdn
-TCP	tcp
 TCP/IP	tcpip
