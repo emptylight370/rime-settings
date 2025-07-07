@@ -36,7 +36,7 @@ patch:
   # 尝试修改分隔符
   speller/delimiter: " `'‘’"
   # 关闭音形输入
-  speller/alphabet: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA  # 关闭音形输入
+  # speller/alphabet: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA  # 关闭音形输入
   # 修改快捷键绑定
   key_binder/=:
     import_preset: default
