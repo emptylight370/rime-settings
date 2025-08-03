@@ -12,6 +12,8 @@ patch:
   punctuator:
     full_shape:
       __include: default:/punctuator/full_shape  # 从 default.yaml 导入配置
+      __merge:
+        "`": ["`", "・"]
     half_shape:
       __include: default:/punctuator/half_shape  # 从 default.yaml 导入配置
       __merge:
