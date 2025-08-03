@@ -5,7 +5,7 @@
 # 建议自定义短语或者词语追加在这里
 ---
 name: honkai_starrail
-version: "2025.06"
+version: "2025.08"
 sort: original
 ...
 
@@ -102,6 +102,7 @@ Aedes Elysiae	ai li mi xie
 博识学会	bo shi xue hui
 博士之袍	bo shi zhi pao
 博识尊	bo shi zun
+波涛夫人	bo tao fu ren
 波提欧	bo ti ou
 不寒而栗	bu han er li
 捕获梦华	bu huo meng hua
@@ -146,6 +147,7 @@ Aedes Elysiae	ai li mi xie
 怅然若失	chang ran ruo shi
 常时传略	chang shi chuan lve
 长右	chang you
+长夜月	chang ye yue
 嘲讽	chao feng
 超击破	chao ji po
 超击破队	chao ji po dui
@@ -436,10 +438,13 @@ Aedes Elysiae	ai li mi xie
 海列屈拉	hai lie qu la
 「海畔明珠」斯缇科西亚	hai pan ming zhu si ti ke xi ya
 海瑟音	hai se yin
+海洋为何而歌	hai yang wei he er ge
 海洋之泰坦	hai yang zhi tai tan
+海妖残鳍	hai yao can qi
 骇域漫游的信使	hai yu man you de xin shi
 寒潮的落幕	han chao de luo mu
 寒冬的战士们	han dong de zhan shi men
+「酣歌海垠」斯缇科西亚	han ge hai yin si ti ke xi ya
 寒铁的誓言	han tie de shi yan
 寒鸦	han ya
 好看的垃圾	hao kan de la ji
@@ -620,6 +625,7 @@ Aedes Elysiae	ai li mi xie
 今日亦是和平的一日	jin ri yi shi he ping de yi ri
 烬日之形	jin ri zhi xing
 今宵之形	jin xiao zhi xing
+金血铭刻的时代	jin xue ming ke de shi dai
 金血祝颂	jin xue zhu song
 惊魂夜	jing hun ye
 静静的星河	jing jing de xing he
@@ -647,6 +653,7 @@ Aedes Elysiae	ai li mi xie
 均衡	jun heng
 均衡等级	jun heng deng ji
 均晶转变	jun jing zhuan bian
+卡厄斯兰娜	ka e si lan na
 卡芙卡	ka fu ka
 卡利白秘方	ka li bai mi fang
 卡利白特派	ka li bai te pai
@@ -705,9 +712,11 @@ Aedes Elysiae	ai li mi xie
 拉帝奥	la di ao
 拉帝奥教授	la di ao jiao shou
 拉条	la tiao
+来古士	lai gu shi
 揽镜人	lan jing ren
 朗道的选择	lang dao de xuan ze
 狼毒锯牙	lang du ju ya
+浪花侍女	lang hua shi nv
 浪漫之泰坦	lang man zhi tai tan
 老矿头的宝贝	lao kuang tou de bao bei
 乐圮	le pi
@@ -800,6 +809,7 @@ Aedes Elysiae	ai li mi xie
 落日余晖	luo ri yu hui
 旅伴金灵	lv ban jin ling
 旅伴银灵	lv ban yin ling
+旅程热点	lv cheng re dian
 率从狻猊	lv cong suan ni
 律法之泰坦	lv fa zhi tai tan
 旅情见闻	lv qing jian wen
@@ -842,6 +852,7 @@ Aedes Elysiae	ai li mi xie
 梦潜之径	meng qian zhi jing
 梦想之地匹诺康尼	meng xiang zhi di pi nuo kang ni
 梦应归于何处	meng ying gui yu he chu
+梦之珠泪	meng zhi zhu lei
 迷彩油漆	mi cai you qi
 秘传	mi chuan
 弥合	mi he
@@ -970,6 +981,7 @@ Aedes Elysiae	ai li mi xie
 强化祷言	qiang hua dao yan
 强化膏	qiang hua gao
 切变结构	qie bian jie gou
+侵晨	qin chen
 侵略凝块	qin lve ning kuai
 侵蚀	qin shi
 侵蚀隧洞	qin shi sui dong
@@ -1032,6 +1044,7 @@ Aedes Elysiae	ai li mi xie
 赛法莉娅	sai fa li ya
 赛飞儿	sai fei er
 塞纳托斯	sai na tuo si
+塞壬之形	sai ren zhi xing
 散步时间	san bu shi jian
 散逸星砂	san yi xing sha
 三余书肆	san yu shu si
@@ -1053,6 +1066,8 @@ Aedes Elysiae	ai li mi xie
 射不主皮	she bu zhu pi
 社会性梦境	she hui xing meng jing
 深寒徘徊者	shen han pai huai zhe
+神礼观众	shen li guan zhong
+「神礼观众」来古士	shen li guan zhong lai gu shi
 身世故事	shen shi gu shi
 神速赐福	shen su ci fu
 深邃的星外质	shen sui de xing wai zhi
@@ -1203,6 +1218,7 @@ Aedes Elysiae	ai li mi xie
 调弦师	tiao xian shi
 挑战模式	tiao zhan mo shi
 铁狼碎齿	tie lang sui chi
+铁墓	tie mu
 铁卫禁区	tie wei jin qu
 铁卫军徽	tie wei jun hui
 铁卫扣饰	tie wei kou shi
@@ -1530,6 +1546,7 @@ Aedes Elysiae	ai li mi xie
 已损失	yi sun shi
 以太战线	yi tai zhan xian
 以太之蕾	yi tai zhi lei
+异相仲裁	yi xiang zhong cai
 意义质询	yi yi zhi xun
 忆域	yi yu
 「呓语密林」神悟树庭	yi yu mi lin shen wu shu ting
@@ -1544,6 +1561,7 @@ Aedes Elysiae	ai li mi xie
 银河铁道之声	yin he tie dao zhi sheng
 银河铁道之夜	yin he tie dao zhi ye
 银狼	yin lang
+「隐秘的陌客」长夜月	yin mi de mo ke chang ye yue
 音律狩猎忍法帖	yin lv shou lie ren fa tie
 因为我已触碰过天空	yin wei wo yi chu peng guo tian kong
 隐形的宝藏	yin xing de bao zang
@@ -1570,12 +1588,14 @@ Aedes Elysiae	ai li mi xie
 永恒之地	yong heng zhi di
 「永恒之地」翁法罗斯	yong heng zhi di weng fa luo si
 永恒之花	yong heng zhi hua
+永劫回归	yong jie hui gui
 勇骑之径	yong qi zhi jing
 永寿荣枝	yong shou rong zhi
 永寿天华	yong shou tian hua
 永寿幼芽	yong shou you ya
 永坍缩体	yong tan suo ti
 「永夜之帷」欧洛尼斯	yong ye zhi wei ou luo ni si
+永远的迷境饭	yong yuan de mi jing fan
 游辞	you ci
 有点蹊跷	you dian qi qiao
 幽府通令	you fu tong ling
