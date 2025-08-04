@@ -5,7 +5,7 @@
 # 建议自定义短语或者词语追加在这里
 ---
 name: honkai_3rd
-version: "2025.05"
+version: "2025.08"
 sort: original
 ...
 
@@ -368,6 +368,7 @@ sort: original
 毕上	bi shang
 毕上下	bi shang xia
 毕上中	bi shang zhong
+毕舍遮	bi she zhe
 毕套	bi tao
 毕下	bi xia
 毕中	bi zhong
@@ -587,6 +588,7 @@ sort: original
 沉灵	chen ling
 沉迷钓鱼	chen mi diao yu
 沉睡银狼	chen shui yin lang
+晨雪	chen xue
 乘胜追击	cheng sheng zhui ji
 成为主角的预感	cheng wei zhu jue de yu gan
 城下町	cheng xia ding
@@ -604,6 +606,7 @@ sort: original
 蚩尤巨炮	chi you ju pao
 蚩尤篇	chi you pian
 赤鸢	chi yuan
+炽愿吉星	chi yuan ji xing
 赤鸢两件套	chi yuan liang jian tao
 赤鸢三件套	chi yuan san jian tao
 赤鸢上	chi yuan shang
@@ -1781,6 +1784,7 @@ sort: original
 结晶逆刃刀	jie jing ni ren dao
 杰克灯笼	jie ke deng long
 界面	jie mian
+戒世遗光	jie shi yi guang
 结算奖励	jie suan jiang li
 解锁物品	jie suo wu pin
 孑遗千星	jie yi qian xing
@@ -1856,6 +1860,7 @@ sort: original
 剧情进度	ju qing jin du
 剧情模式	ju qing mo shi
 剧情任务	ju qing ren wu
+拒世的孤冕	ju shi de gu mian
 巨兽再袭	ju shou zai xi
 居相道	ju xiang dao
 矩阵冰箱	ju zhen bing xiang
@@ -2189,6 +2194,8 @@ sort: original
 丽塔红叶	li ta hong ye
 丽塔洛丝薇瑟	li ta luo si wei se
 丽塔荼蘼	li ta tu mi
+利托斯特	li tuo si te
+利托斯特·烬夜溟骸	li tuo si te jin ye ming hai
 礼物	li wu
 礼物两件套	li wu liang jian tao
 礼物三件套	li wu san jian tao
@@ -2367,6 +2374,7 @@ sort: original
 轮神白	lun shen bai
 轮神炽	lun shen chi
 轮相	lun xiang
+轮转无我	lun zhuan wu wo
 罗伯特皮里	luo bo te pi li
 罗伯特皮里两件套	luo bo te pi li liang jian tao
 罗伯特皮里三件套	luo bo te pi li san jian tao
@@ -2653,6 +2661,7 @@ sort: original
 尼古拉特斯拉中下	ni gu la te si la zhong xia
 逆火	ni huo
 你渴望力量吗	ni ke wang li liang ma
+逆命魔龙·降临！	ni ming mo long jiang lin
 逆熵	ni shang
 逆熵的终焉	ni shang de zhong yan
 逆熵鼓手	ni shang gu shou
@@ -2670,6 +2679,7 @@ sort: original
 你以为是在收菜么	ni yi wei shi zai shou cai me
 逆羽打	ni yu da
 年糕	nian gao
+年糕号	nian gao hao
 年糕小豆汤	nian gao xiao dou tang
 凝视深渊	ning shi shen yuan
 牛顿	niu dun
@@ -2934,6 +2944,7 @@ sort: original
 青眼巨蟒	qing yan ju mang
 驱动核心	qu dong he xin
 驱动装山吹	qu dong zhuang shan chui
+趣咔竞技赛	qu ka jing ji sai
 驱魔委托	qu mo wei tuo
 区域效果	qu yu xiao guo
 全部收起	quan bu shou qi
@@ -3456,6 +3467,7 @@ sort: original
 双子以太碎片	shuang zi yi tai sui pian
 双子月光破片	shuang zi yue guang po pian
 双子月光意志	shuang zi yue guang yi zhi
+睡德	shui de
 水二	shui er
 水晶	shui jing
 水晶充值	shui jing chong zhi
@@ -3812,6 +3824,7 @@ sort: original
 维尔薇	wei er wei
 唯美艺术家	wei mei yi shu jia
 位面徽章	wei mian hui zhang
+位面武器·失序时空	wei mian wu qi shi xu shi kong
 薇欧拉	wei ou la
 薇欧拉两件套	wei ou la liang jian tao
 薇欧拉三件套	wei ou la san jian tao
@@ -4036,6 +4049,7 @@ sort: original
 祥云轻烟升	xiang yun qing yan sheng
 向着胜利前进	xiang zhe sheng li qian jin
 相转移镜面	xiang zhuan yi jing mian
+小不点律者	xiao bu dian lv zhe
 小苍兰	xiao cang lan
 小队联机	xiao dui lian ji
 小队模式	xiao dui mo shi
@@ -4121,6 +4135,7 @@ sort: original
 薪炎之律者	xin yan zhi lv zhe
 新衣祈福	xin yi qi fu
 心意通明	xin yi tong ming
+心渊之影	xin yuan zhi ying
 心之回忆	xin zhi hui yi
 心智魂石	xin zhi hun shi
 星爆气流斩	xing bao qi liu zhan
@@ -4450,6 +4465,7 @@ sort: original
 异界逃亡	yi jie tao wang
 异界跃迁	yi jie yue qian
 已经没有什么好怕的了	yi jing mei you shen me hao pa de le
+一客逍游	yi ke xiao you
 伊丽莎白	yi li sha bai
 伊丽莎白两件套	yi li sha bai liang jian tao
 伊丽莎白三件套	yi li sha bai san jian tao
@@ -4521,6 +4537,7 @@ sort: original
 影白深	ying bai shen
 樱瓣手里剑	ying ban shou li jian
 硬邦邦护甲	ying bang bang hu jia
+影厄	ying e
 影黑山	ying hei shan
 樱花的誓约	ying hua de shi yue
 樱花地板	ying hua di ban
@@ -4540,6 +4557,7 @@ sort: original
 樱傻	ying sha
 影山战	ying shan zhan
 影神游	ying shen you
+影侍	ying shi
 樱时雨	ying shi yu
 影速斩	ying su zhan
 樱桃	ying tao
