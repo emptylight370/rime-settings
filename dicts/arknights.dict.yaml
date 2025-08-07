@@ -6,7 +6,7 @@
 # 明日方舟词条
 ---
 name: arknights
-version: "2025.07"
+version: "2025.08"
 sort: original
 ...
 
@@ -22,6 +22,7 @@ sort: original
 阿罗玛	a luo ma
 阿米娅	a mi ya
 阿米娅的烧烤味饼干	a mi ya de shao kao wei bing gan
+阿纳萨	a na sa
 阿纳缇	a na ti
 阿能	a neng
 阿噗噜派	a pu lu pai
@@ -134,6 +135,7 @@ sort: original
 鲍勃酒品	bao bo jiu pin
 宝刺金属箱	bao ci jin shu xiang
 宝刺伤人	bao ci shang ren
+保存者	bao cun zhe
 爆弹迷宫	bao dan mi gong
 爆发	bao fa
 爆发剂	bao fa ji
@@ -213,8 +215,8 @@ sort: original
 庇护	bi hu
 闭锁监狱	bi suo jian yu
 闭膛连发	bi tang lian fa
-碧血金沙	bi xue jin sha
 “匕现”	bi xian
+碧血金沙	bi xue jin sha
 彼有	bi you
 鄙瘴	bi zhang
 鞭策	bian ce
@@ -723,6 +725,7 @@ Castle-3	castle
 灯塔守卫者	deng ta shou wei zhe
 灯下黑	deng xia hei
 地堡防线	di bao fang xian
+蒂比	di bi
 敌飙	di biao
 涤尘芙蓉	di chen fu rong
 地底的灼痕	di di de zhuo hen
@@ -777,6 +780,7 @@ Castle-3	castle
 订正	ding zheng
 丁字路口	ding zi lu kou
 冻风	dong feng
+东国	dong guo
 冻结	dong jie
 冻结壁交圈	dong jie bi jiao quan
 冻结痛觉	dong jie tong jue
@@ -1630,6 +1634,7 @@ Friston-3	friston
 回旋	hui xuan
 会员通道	hui yuan tong dao
 回召	hui zhao
+灰质销钉	hui zhi xiao ding
 喙中奇物	hui zhong qi wu
 回转	hui zhuan
 昏暗的灵感	hun an de ling gan
@@ -1677,6 +1682,7 @@ Friston-3	friston
 货与人	huo yu ren
 火之骄子	huo zhi jiao zi
 急板	ji ban
+极北星门	ji bei xing men
 畸变恶性瘤	ji bian e xing liu
 激变烽烟	ji bian feng yan
 畸变加剧	ji bian jia ju
@@ -2016,6 +2022,7 @@ Friston-3	friston
 荆与叶的织带	jing yu ye de zhi dai
 惊躁伏翼兽	jing zao fu yi shou
 惊蛰	jing zhe
+静滞所	jing zhi suo
 精致糖果车	jing zhi tang guo che
 镜中集	jing zhong ji
 镜中来访	jing zhong lai fang
@@ -3137,9 +3144,9 @@ PhonoR-0	phonor
 人员档案	ren yuan dang an
 人员状态改善	ren yuan zhuang tai gai shan
 人造物狂欢节	ren zao wu kuang huan jie
+认真的“阿咬”	ren zhen de a yao
 人之光辉	ren zhi guang hui
 认知即重担	ren zhi ji zhong dan
-认真的“阿咬”	ren zhen de a yao
 日常	ri chang
 日出	ri chu
 日晷	ri gui
@@ -3878,6 +3885,7 @@ THRM-EX	thrmex
 甜品时间	tian pin shi jian
 天穹尘埃	tian qiong chen ai
 天然隐蔽	tian ran yin bi
+天堂支点	tian tang zhi dian
 天途半道	tian tu ban dao
 田鼷	tian xi
 田鼷大盗	tian xi da dao
@@ -4312,6 +4320,7 @@ THRM-EX	thrmex
 险路恶敌	xian lu e di
 险路勿近	xian lu wu jin
 陷落雪祀	xian luo xue si
+先民	xian min
 先驱	xian qu
 仙人掌沙丘	xian ren zhang sha qiu
 仙山去远	xian shan qu yuan
@@ -4412,6 +4421,7 @@ THRM-EX	thrmex
 心伤的奏鸣曲	xin shang de zou ming qu
 新生血裔	xin sheng xue yi
 心胜于物分队	xin sheng yu wu fen dui
+信使	xin shi
 信使邮筒	xin shi you tong
 薪水票	xin shui piao
 心随意动	xin sui yi dong
@@ -4617,6 +4627,7 @@ THRM-EX	thrmex
 焰淬匕首	yan cui bi shou
 盐风主教昆图斯	yan feng zhu jiao kun tu si
 岩冠兽	yan guan shou
+炎国	yan guo
 殷红君主	yan hong jun zhu
 掩护	yan hu
 掩护烟幕	yan hu yan mu
@@ -5418,6 +5429,7 @@ THRM-EX	thrmex
 阻挡数	zu dang shu
 阻断波长	zu duan bo chang
 阻断道路	zu duan dao lu
+阻隔层	zu ge ceng
 组间休息	zu jian xiu xi
 阻拦	zu lan
 阻流	zu liu
