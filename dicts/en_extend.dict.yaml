@@ -39,6 +39,7 @@ OpenCV	opencv
 OSPF	ospf
 PCB	pcb
 pip	pip
+pnpm	pnpm
 pr	pr
 pull request	pr
 Pull Request	pr
@@ -53,6 +54,7 @@ Unreal Engine	ue
 Unreal Engine	unrealengine
 Visual Studio	vsstudio
 Visual Studio	vstudio
+Volta	volta
 WSDL	wsdl
 XPath	xpath
 XPointer	xpointer

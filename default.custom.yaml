@@ -6,8 +6,8 @@
 #   rime_version: 1.11.2
 patch:
   schema_list:
-    - {schema: double_pinyin_flypy}
-    - {schema: rime_mint_flypy}
+    - schema: double_pinyin_flypy
+    - schema: rime_mint_flypy
   switcher/hotkeys:
     # - Control+Shift+grave
     # F4 和 JetBrains 的快捷键冲突
