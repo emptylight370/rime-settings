@@ -4,6 +4,8 @@
 
 本人主用小鹤双拼，不用小鹤音形，同时维护全拼和全拼带小鹤混输的方案。其余方案因为不使用不做修改。
 
+使用本自定义方案默认搭配最新的薄荷配置，如果遇到问题请先确认自己的输入法和方案是否最新。如果仍有问题再进行反馈。
+
 配置过程和解析请看：[Website](https://blog.emptylight.cn/post/rime-input-method-configuration-z1snn)(addr:cn)或[GitHub Page](https://emptylight370.github.io/post/rime-input-method-configuration-z1snn)(addr:global but in chinese)
 
 Mirrors: [GitHub](https://github.com/emptylight370/rime-settings) or [Gitee](https://gitee.com/emptylight370/rime-settings)
