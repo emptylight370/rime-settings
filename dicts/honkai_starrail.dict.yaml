@@ -10,8 +10,6 @@ sort: original
 ...
 
 Archer	Archer
-命运/今晚留下来	FSN
-FSN	FSN
 Fate Stay Night	FSN
 Saber	Saber
 阿格莱雅	a ge lai ya
@@ -122,6 +120,7 @@ Aedes Elysiae	ai li mi xie
 不息的演算	bu xi de yan suan
 不消耗能量	bu xiao hao neng liang
 不夜候	bu ye hou
+裁定忘却之形	cai ding wang que zhi xing
 材料支持协议	cai liao zhi chi xie yi
 材料支持协议V2	cai liao zhi chi xie yi er
 猜拳游戏	cai quan you xi
@@ -383,6 +382,7 @@ Aedes Elysiae	ai li mi xie
 感官追奉者的葬礼	gan guan zhui feng zhe de zang li
 感官追猎	gan guan zhui lie
 甘露	gan lu
+干涉密钥	gan she mi yao
 告罪书	gao zui shu
 歌德宾馆的夜与雾	ge de bin guan de ye yu wu
 各抒己见	ge shu ji jian
@@ -413,6 +413,7 @@ Aedes Elysiae	ai li mi xie
 固溶强化	gu rong qiang hua
 故事的下一页	gu shi de xia yi ye
 固态净水	gu tai jing shui
+孤星明尘	gu xing ming chen
 观察日记	guan cha ri ji
 棺的回响	guan de hui xiang
 冠军晚餐	guan jun wan can
@@ -516,6 +517,7 @@ Aedes Elysiae	ai li mi xie
 回光效应	hui guang xiao ying
 慧海度慈航	hui hai du ci hang
 回合数	hui he shu
+「辉痕圣林」神悟树庭	hui hen sheng lin shen wu shu ting
 毁烬焚骨的大公	hui jin fen gu de da gong
 回馈庇护	hui kui bi hu
 毁灭的开端	hui mie de kai duan
@@ -540,6 +542,7 @@ Aedes Elysiae	ai li mi xie
 混沌云芝	hun dun yun zhi
 昏光庭院	hun guang ting yuan
 混乱行至深处	hun luan xing zhi shen chu
+货币战争	huo bi zhan zheng
 火帝动炉销剑戟	huo di dong lu xiao jian ji
 火堆外的夜	huo dui wai de ye
 火焚灾影	huo fen zai ying
@@ -627,6 +630,7 @@ Aedes Elysiae	ai li mi xie
 烬日之形	jin ri zhi xing
 今宵之形	jin xiao zhi xing
 金血铭刻的时代	jin xue ming ke de shi dai
+金血忆灵	jin xue yi ling
 金血祝颂	jin xue zhu song
 惊魂夜	jing hun ye
 静静的星河	jing jing de xing he
@@ -1000,9 +1004,11 @@ Aedes Elysiae	ai li mi xie
 琼实鸟串	qiong shi niao chuan
 求药使	qiu yao shi
 全面回忆	quan mian hui yi
+「全世矩阵」无名泰坦大墓	quan shi ju zhen wu ming tai tan da mu
 拳台即戏台	quan tai ji xi tai
 全体护盾	quan ti hu dun
 全新启程	quan xin qi cheng
+犬形	quan xing
 权杖	quan zhang
 「全知之座」刻法勒	quan zhi zhi zuo ke fa le
 群星乐章	qun xing yue zhang
@@ -1311,6 +1317,7 @@ Aedes Elysiae	ai li mi xie
 无名客的荣勋	wu ming ke de rong xun
 无名客服	wu ming ke fu
 无名路途	wu ming lu tu
+无名泰坦大墓	wu ming tai tan da mu
 无名之地，无名之人	wu ming zhi di wu ming zhi ren
 无穷假身的遗恨	wu qiong jia shen de yi hen
 物穰	wu rang
@@ -1389,6 +1396,7 @@ Aedes Elysiae	ai li mi xie
 信仰债券	xin yang zhai quan
 信用点	xin yong dian
 星槎海中枢	xing cha hai zhong shu
+星尘之礼	xing chen zhi li
 行动序列	xing dong xu lie
 行动序列详情	xing dong xu lie xiang qing
 行动延后	xing dong yan hou
@@ -1540,6 +1548,7 @@ Aedes Elysiae	ai li mi xie
 异器盈界	yi qi ying jie
 一曲合弦的幻景	yi qu he xian de huan jing
 一群旅人	yi qun lv ren
+翼蛇形	yi she xing
 医士	yi shi
 忆师	yi shi
 遗失光尘	yi shi guang chen
@@ -1564,6 +1573,7 @@ Aedes Elysiae	ai li mi xie
 银河商人	yin he shang ren
 银河铁道之声	yin he tie dao zhi sheng
 银河铁道之夜	yin he tie dao zhi ye
+隐救之径	yin jiu zhi jing
 银狼	yin lang
 音律狩猎忍法帖	yin lv shou lie ren fa tie
 「隐秘的陌客」长夜月	yin mi de mo ke chang ye yue
@@ -1669,6 +1679,7 @@ Aedes Elysiae	ai li mi xie
 云星穹铁道	yun xing qiong tie dao
 云吟隐迹	yun yin yin ji
 杂货小摊	za huo xiao tan
+再创天地的救世主	zai chuang tian di de jiu shi zhu
 在火的远处	zai huo de yuan chu
 再见黑塔	zai jian hei ta
 在蓝天下	zai lan tian xia
@@ -1719,6 +1730,7 @@ Aedes Elysiae	ai li mi xie
 征服或被征服	zheng fu huo bei zheng fu
 正阳狮鹫	zheng yang shi jiu
 征友启事	zheng you qi shi
+致长夜的星光	zhi chang ye de xing guang
 直到明天的明天	zhi dao ming tian de ming tian
 至福舞会	zhi fu wu hui
 至高，至阳，天空的化身	zhi gao zhi yang tian kong de hua shen
@@ -1744,6 +1756,7 @@ Aedes Elysiae	ai li mi xie
 职司之形	zhi si zhi xing
 智瞳	zhi tong
 植物和菌类	zhi wu he jun lei
+雉形	zhi xing
 只需等待	zhi xu deng dai
 治愈星球	zhi yu xing qiu
 支援舱段	zhi yuan cang duan
@@ -1799,9 +1812,11 @@ Aedes Elysiae	ai li mi xie
 自动人偶	zi dong ren ou
 自灭者	zi mie zhe
 自灭者的火种	zi mie zhe de huo zhong
+自匿星芒的隐士	zi ni xing mang de yin shi
 自欺咖啡馆	zi qi ka fei guan
 自塑尘脂	zi su chen zhi
 滋长花蜜	zi zhang hua mi
+纵然山河万程	zong ran shan he wan cheng
 奏浪的剑骑	zou lang de jian qi
 祖辈的钻头	zu bei de zuan tou
 组件	zu jian
