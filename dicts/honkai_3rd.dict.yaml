@@ -5,7 +5,7 @@
 # 建议自定义短语或者词语追加在这里
 ---
 name: honkai_3rd
-version: "2025.08"
+version: "2025.09"
 sort: original
 ...
 
@@ -108,6 +108,7 @@ sort: original
 爱因中	ai yin zhong
 爱因中下	ai yin zhong xia
 爱与青春的修罗场	ai yu qing chun de xiu luo chang
+爱愿妖精	ai yuan yao jing
 爱乐	ai yue
 爱乐两件套	ai yue liang jian tao
 爱乐三件套	ai yue san jian tao
@@ -589,6 +590,7 @@ sort: original
 沉迷钓鱼	chen mi diao yu
 沉睡银狼	chen shui yin lang
 晨雪	chen xue
+澄爱挚语	cheng ai zhi yu
 乘胜追击	cheng sheng zhui ji
 成为主角的预感	cheng wei zhu jue de yu gan
 城下町	cheng xia ding
@@ -1250,6 +1252,7 @@ sort: original
 哈勃下	ha bo xia
 哈勃中	ha bo zhong
 哈勃中下	ha bo zhong xia
+嗨♪爱愿妖精♥	hai ai yuan yao jing
 海滨假日旅社	hai bin jia ri lv she
 海滨沙滩	hai bin sha tan
 海盗巢穴	hai dao chao xue
@@ -4978,6 +4981,7 @@ sort: original
 追忆进程	zhui yi jin cheng
 追忆完成	zhui yi wan cheng
 准备区	zhun bei qu
+濯海之蕊	zhuo hai zhi rui
 灼樱狐火	zhuo ying hu huo
 自爆机甲	zi bao ji jia
 紫电核心	zi dian he xin
