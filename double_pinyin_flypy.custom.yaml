@@ -45,7 +45,7 @@ patch:
     import_preset: default
   # 修改字典为自定义字典
   translator/dictionary: rime_mint.custom
-  # melt_eng/dictionary: melt_eng.custom
+  melt_eng/dictionary: melt_eng.custom
   # 关闭音形输入
   engine/filters:     # 关闭音形输入
     - lua_filter@*corrector_filter            # 错音错字提示
