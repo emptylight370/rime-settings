@@ -5,7 +5,7 @@
 # 建议自定义短语或者词语追加在这里
 ---
 name: honkai_starrail
-version: "2025.09"
+version: "2025.10"
 sort: original
 ...
 
@@ -30,6 +30,7 @@ Aedes Elysiae	aedeselysiae
 Aedes Elysiae	ai li mi xie
 哀悯长臂	ai min chang bi
 哀荣泣石	ai rong qi shi
+爱如此刻永恒	ai ru ci ke yong heng
 艾丝妲	ai si da
 艾丝妲与商业精英	ai si da yu shang ye jing ying
 哀叹漫无止息	ai tan man wu zhi xi
@@ -315,6 +316,7 @@ Aedes Elysiae	ai li mi xie
 繁星竞技场	fan xing jing ji chang
 泛银河商业公司	fan yin he shang ye gong si
 繁育	fan yu
+反造物主，流溢之恨	fan zao wu zhu liu yi zhi hen
 反震	fan zhen
 反重子	fan zhong zi
 燔灼之形	fan zhuo zhi xing
@@ -667,6 +669,7 @@ Aedes Elysiae	ai li mi xie
 开盖有奖	kai gai you jiang
 凯歌祝捷的英豪	kai ge zhu jie de ying hao
 开疆	kai jiang
+开拓穿搭	kai tuo chuan da
 开拓等级	kai tuo deng ji
 开拓进行时	kai tuo jin xing shi
 开拓力	kai tuo li
@@ -878,11 +881,13 @@ Aedes Elysiae	ai li mi xie
 迷惘	mi wang
 谜语人	mi yu ren
 庙趣满堂	miao qu man tang
+灭流绝溢的缄默	mie liu jue yi de jian mo
 灭罪累生善	mie zui lei sheng shan
 泯灭帮	min mie bang
 明澈琉璃身	ming che liu li shen
 溟簇之形	ming cu zhi xing
 命定死因	ming ding si yin
+明辉日珥	ming hui ri er
 铭记于心的约定	ming ji yu xin de yue ding
 鸣雷造物	ming lei zao wu
 鸣雷之形	ming lei zhi xing
@@ -1073,6 +1078,7 @@ Aedes Elysiae	ai li mi xie
 哨戒卫星	shao jie wei xing
 射不主皮	she bu zhu pi
 社会性梦境	she hui xing meng jing
+深度沉浸器	shen du chen jin qi
 深寒徘徊者	shen han pai huai zhe
 神礼观众	shen li guan zhong
 「神礼观众」来古士	shen li guan zhong lai gu shi
@@ -1110,6 +1116,7 @@ Aedes Elysiae	ai li mi xie
 十二猴子与怒汉	shi er hou zi yu nu han
 始发跃迁	shi fa yue qian
 施放技能	shi fang ji neng
+时光归墟	shi guang gui xu
 识海迷坠的学者	shi hai mi zhui de xue zhe
 事件视界	shi jian shi jie
 时节不居	shi jie bu ju
@@ -1205,6 +1212,7 @@ Aedes Elysiae	ai li mi xie
 天才们的休憩	tian cai men de xiu qi
 天艟求仙迷航录	tian chong qiu xian mi hang lu
 天戈麾斥	tian ge hui chi
+天国@直播间	tian guo at zhi bo jian
 天剑如雨	tian jian ru yu
 天空之泰坦	tian kong zhi tai tan
 天谴斗士	tian qian dou shi
@@ -1227,6 +1235,7 @@ Aedes Elysiae	ai li mi xie
 调律	tiao lv
 调弦师	tiao xian shi
 挑战模式	tiao zhan mo shi
+铁骸的锈冢	tie hai de xiu zhong
 铁狼碎齿	tie lang sui chi
 铁墓	tie mu
 铁卫禁区	tie wei jin qu
@@ -1319,6 +1328,7 @@ Aedes Elysiae	ai li mi xie
 无名路途	wu ming lu tu
 无名泰坦大墓	wu ming tai tan da mu
 无名之地，无名之人	wu ming zhi di wu ming zhi ren
+「∞」的誓约	wu qiong de shi yue
 无穷假身的遗恨	wu qiong jia shen de yi hen
 物穰	wu rang
 无生残刃	wu sheng can ren
@@ -1420,6 +1430,7 @@ Aedes Elysiae	ai li mi xie
 星间流浪	xing jian liu lang
 星间旅行	xing jian lv xing
 星阶	xing jie
+星旅定制	xing lv ding zhi
 星期日	xing qi ri
 星琼	xing qiong
 星穹列车	xing qiong lie che
@@ -1601,6 +1612,7 @@ Aedes Elysiae	ai li mi xie
 永恒笑剧	yong heng xiao ju
 永恒之地	yong heng zhi di
 「永恒之地」翁法罗斯	yong heng zhi di weng fa luo si
+永恒之地翁法罗斯	yong heng zhi di weng fa luo si
 永恒之花	yong heng zhi hua
 永劫回归	yong jie hui gui
 勇骑之径	yong qi zhi jing
@@ -1683,9 +1695,11 @@ Aedes Elysiae	ai li mi xie
 在火的远处	zai huo de yuan chu
 再见黑塔	zai jian hei ta
 在蓝天下	zai lan tian xia
+「灾梦余温」无名泰坦大墓	zai meng yu wen wu ming tai tan da mu
 灾难性共振	zai nan xing gong zhen
 在屋外的黑暗中洗涤	zai wu wai de hei an zhong xi di
 赞达尔	zan da er
+「葬忆彼岸」时光归墟	zang yi bi an shi guang gui xu
 葬仪知宾	zang yi zhi bin
 早餐的仪式感	zao can de yi shi gan
 造成	zao cheng
