@@ -5,7 +5,7 @@
 # 建议自定义短语或者词语追加在这里
 ---
 name: honkai_starrail
-version: "2025.10"
+version: "2025.11"
 sort: original
 ...
 
@@ -229,6 +229,7 @@ Aedes Elysiae	ai li mi xie
 大寒潮	da han chao
 大黑塔	da hei ta
 大矿区	da kuang qu
+大丽花	da li hua
 搭桥动作	da qiao dong zuo
 大生命	da sheng ming
 大守护者	da shou hu zhe

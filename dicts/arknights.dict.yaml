@@ -3,10 +3,11 @@
 #
 # https://pinyin.sogou.com/dict/detail/index/131843
 # https://zh.moegirl.org.cn/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F/%E5%B9%B2%E5%91%98%E5%9B%BE%E9%89%B4
+# https://prts.wiki/w/%E5%B9%B2%E5%91%98%E4%B8%80%E8%A7%88
 # 明日方舟词条
 ---
 name: arknights
-version: "2025.08"
+version: "2025.11"
 sort: original
 ...
 
@@ -92,6 +93,7 @@ sort: original
 奥斯塔	ao si ta
 巴别塔	ba bie ta
 拔铳相助	ba chong xiang zhu
+八幡海铃	ba fan hai ling
 八面骰子	ba mian tou zi
 跋山涉水	ba shan she shui
 巴塔耶夫酒厂	ba ta ye fu jiu chang
@@ -164,6 +166,7 @@ sort: original
 爆破回收	bao po hui shou
 爆破战术	bao po zhan shu
 爆破装置	bao po zhuang zhi
+保全派驻	bao quan pai zhu
 爆燃厨具巨人	bao ran chu ju ju ren
 报童	bao tong
 抱头狗窜	bao tou gou cuan
@@ -205,6 +208,9 @@ sort: original
 本能污染	ben neng wu ran
 奔突难止	ben tu nan zhi
 奔崖怒号	ben ya nu hao
+本源近卫	ben yuan jin wei
+本源术师	ben yuan shu shi
+本源铁卫	ben yuan tie wei
 崩溃边缘	beng kui bian yuan
 崩拳式	beng quan shi
 泵水	beng shui
@@ -382,6 +388,7 @@ sort: original
 操作暗箱	cao zuo an xiang
 Castle-3	castle
 侧面作战	ce mian zuo zhan
+策士	ce shi
 测试用动力装甲	ce shi yong dong li zhuang jia
 策展人会客厅	ce zhan ren hui ke ting
 插翅难飞	cha chi nan fei
@@ -587,6 +594,7 @@ Castle-3	castle
 刺身拼盘	ci shen pin pan
 此身为源	ci shen wei yuan
 此身为筑	ci shen wei zhu
+次生预案	ci sheng yu an
 此生挚爱	ci sheng zhi ai
 次要战场	ci yao zhan chang
 丛林式寒暄	cong lin shi han xuan
@@ -756,6 +764,7 @@ Castle-3	castle
 地形增伤控制	di xing zeng shang kong zhi
 地狱射手	di yu she shou
 典范之名	dian fan zhi ming
+电弧	dian hu
 点火石	dian huo shi
 电流翻涌	dian liu fan yong
 电能过载	dian neng guo zai
@@ -791,6 +800,7 @@ Castle-3	castle
 冬灵血巫大师	dong ling xue wu da shi
 冬灵栈道	dong ling zhan dao
 冬逝	dong shi
+冬时	dong shi
 冻土坚石	dong tu jian shi
 冬隐归路	dong yin gui lu
 豆苗	dou miao
@@ -1005,6 +1015,7 @@ Castle-3	castle
 纷争演绎	fen zheng yan yi
 风暴瞭望	feng bao liao wang
 风暴突击	feng bao tu ji
+丰川祥子	feng chuan xiang zi
 风笛	feng di
 封冻高山驮兽	feng dong gao shan tuo shou
 缝合	feng he
@@ -1363,6 +1374,7 @@ Friston-3	friston
 国王的枝条	guo wang de zhi tiao
 过载	guo zai
 过载模式	guo zai mo shi
+哈蒂娅	ha di ya
 哈洛德	ha luo de
 海岸救援改装	hai an jiu yuan gai zhuang
 海滨瞭望点	hai bin liao wang dian
@@ -1387,6 +1399,7 @@ Friston-3	friston
 海洋的脉搏	hai yang de mai bo
 还之彼身	hai zhi bi shen
 寒潮	han chao
+撼地者	han di zhe
 撼动现实	han dong xian shi
 寒冬信使	han dong xin shi
 悍将	han jiang
@@ -1468,6 +1481,7 @@ Friston-3	friston
 洪流	hong liu
 轰隆隆先生	hong long long xian sheng
 洪炉示岁	hong lu shi sui
+红门	hong men
 轰鸣	hong ming
 红木瑞印	hong mu rui yin
 红木镇纸	hong mu zhen zhi
@@ -1613,6 +1627,7 @@ Friston-3	friston
 灰毫	hui hao
 会合	hui he
 灰喉	hui hou
+回环射手	hui huan she shou
 辉煌盾工业	hui huang dun gong ye
 辉煌裂片	hui huang lie pian
 灰烬	hui jin
@@ -1753,6 +1768,7 @@ Friston-3	friston
 机械水獭	ji xie shui ta
 机械之灾	ji xie zhi zai
 急行	ji xing
+吉星	ji xing
 急性衰竭	ji xing shuai jie
 积雪银凇	ji xue yin song
 挤压	ji ya
@@ -2045,6 +2061,7 @@ Friston-3	friston
 旧日之影	jiu ri zhi ying
 九色鹿	jiu se lu
 酒商运输队	jiu shang yun shu dui
+酒神	jiu shen
 酒神的印记	jiu shen de yin ji
 救援绳索	jiu yuan sheng suo
 旧约	jiu yue
@@ -2312,6 +2329,7 @@ Friston-3	friston
 蓝毒	lan du
 蓝耳酒窖	lan er jiu jiao
 蓝卡坞安全衣	lan ka wu an quan yi
+蓝门	lan men
 蓝色丝巾	lan se si jin
 烂醉铁锤	lan zui tie chui
 Lancet-2	lancet
@@ -2387,6 +2405,7 @@ Lancet-2	lancet
 联合会大楼暗道	lian he hui da lou an dao
 联合政府军犬	lian he zheng fu jun quan
 连接内心	lian jie nei xin
+炼金师	lian jin shi
 链锯强袭	lian ju qiang xi
 链锯延伸模块	lian ju yan shen mo kuai
 联络员	lian luo yuan
@@ -2395,6 +2414,7 @@ Lancet-2	lancet
 链术师	lian shu shi
 联锁竞赛	lian suo jing sai
 连续过弯	lian xu guo wan
+链愈师	lian yu shi
 炼狱行动	lian yu xing dong
 连珠	lian zhu
 凉拌海草	liang ban hai cao
@@ -2455,6 +2475,7 @@ Lancet-2	lancet
 临时遮挡	lin shi zhe dang
 临调	lin tiao
 林雨霞	lin yu xia
+凛御银灰	lin yu yin hui
 林中小木屋	lin zhong xiao mu wu
 林中小屋	lin zhong xiao wu
 领潮员	ling chao yuan
@@ -2523,6 +2544,7 @@ Lancet-2	lancet
 路迢迢	lu tiao tiao
 露托	lu tuo
 路网	lu wang
+录武官	lu wu guan
 路线说明图	lu xian shuo ming tu
 乱局	luan ju
 乱舞	luan wu
@@ -3024,6 +3046,7 @@ PhonoR-0	phonor
 亲族	qin zu
 情报储备	qing bao chu bei
 情报处理室	qing bao chu li shi
+情报官	qing bao guan
 情报凭证	qing bao ping zheng
 青菜萝卜罐头	qing cai luo bo guan tou
 青草城	qing cao cheng
@@ -3183,6 +3206,7 @@ PhonoR-0	phonor
 锐笔速写	rui bi su xie
 润物无声	run wu wu sheng
 弱弹	ruo dan
+若叶睦	ruo ye mu
 萨尔贡	sa er gong
 萨尔贡契约刺客	sa er gong qi yue ci ke
 萨尔贡岩漠	sa er gong yan mo
@@ -3264,6 +3288,7 @@ PhonoR-0	phonor
 散华驻地	san hua zhu di
 三幻神	san huan shen
 三技能	san ji neng
+三角初华	san jiao chu hua
 三角铁	san jiao tie
 三面楚歌	san mian chu ge
 散射手	san she shou
@@ -3348,6 +3373,7 @@ PhonoR-0	phonor
 哨兵	shao bing
 少见多怪	shao jian duo guai
 烧结核凝晶	shao jie he ning jing
+哨戒铁卫	shao jie tie wei
 哨所清剿	shao suo qing jiao
 少尉	shao wei
 设备维护装置	she bei wei hu zhuang zhi
@@ -3455,6 +3481,7 @@ PhonoR-0	phonor
 生活至上分队	sheng huo zhi shang fen dui
 生机细胞	sheng ji xi bao
 胜利的连击	sheng li de lian ji
+圣聆初雪	sheng ling chu xue
 生灵的回响	sheng ling de hui xiang
 生灵的终点	sheng ling de zhong dian
 生灵火花	sheng ling huo hua
@@ -3697,6 +3724,7 @@ PhonoR-0	phonor
 死囚之夜	si qiu zhi ye
 私人家具押运	si ren jia ju ya yun
 私人书房	si ren shu fang
+司霆惊蛰	si ting jing zhe
 思维链环	si wei lian huan
 思维膨大	si wei peng da
 思维折断	si wei zhe duan
@@ -3709,13 +3737,16 @@ PhonoR-0	phonor
 四月辑录	si yue ji lu
 松果	song guo
 松软地形	song ruan di xing
+松桐	song tong
 松心百合	song xin bai he
 松烟行动	song yan xing dong
 松烟行动物资补给	song yan xing dong wu zi bu gei
 送葬人	song zang ren
 素材复用	su cai fu yong
 速冻宫保羽兽丁	su dong gong bao yu shou ding
+溯光星源	su guang xing yuan
 速冷喷雾发射台	su leng pen wu fa she tai
+塑灵术师	su ling shu shi
 塑路者	su lu zhe
 塑路者分形	su lu zhe fen xing
 速射劲弩手	su she jing nu shou
@@ -4234,6 +4265,7 @@ THRM-EX	thrmex
 无言狂响	wu yan kuang xiang
 午夜龙门	wu ye long men
 午夜邮差	wu ye you chai
+巫役	wu yi
 无垠回荡克雷松	wu yin hui dang ke lei song
 无垠赠礼	wu yin zeng li
 无用的剪刀	wu yong de jian dao
@@ -4392,6 +4424,7 @@ THRM-EX	thrmex
 邂逅	xie hou
 邂逅潮声	xie hou chao sheng
 谢拉格	xie la ge
+协律	xie lv
 协同作战	xie tong zuo zhan
 歇息	xie xi
 蟹蟹抽水泵	xie xie chou shui beng
@@ -4460,6 +4493,7 @@ THRM-EX	thrmex
 行险	xing xian
 行星碎屑	xing xing sui xie
 星熊	xing xiong
+行医	xing yi
 星源	xing yuan
 星橼林	xing yuan lin
 幸运硬币	xing yun ying bi
@@ -4528,6 +4562,7 @@ THRM-EX	thrmex
 雪怪小队凿冰人	xue guai xiao dui zao bing ren
 雪霁	xue ji
 雪境生存法则	xue jing sheng cun fa ze
+雪猎	xue lie
 雪落晨心	xue luo chen xin
 血魔的寝床	xue mo de qin chuang
 血怒	xue nu
@@ -4560,6 +4595,7 @@ THRM-EX	thrmex
 巡检作业	xun jian zuo ye
 迅捷处理	xun jie chu li
 迅捷打击	xun jie da ji
+巡空者	xun kong zhe
 寻澜	xun lan
 训练室	xun lian shi
 训练用残暴钳兽	xun lian yong can bao qian shou
@@ -4942,6 +4978,7 @@ THRM-EX	thrmex
 诱人珍宝	you ren zhen bao
 幽邃隐修	you sui yin xiu
 幽苔	you tai
+祐天寺若麦	you tian shi ruo mai
 游戏室管理员权限卡	you xi shi guan li yuan quan xian ka
 游侠	you xia
 有效情报值	you xiao qing bao zhi
@@ -5140,6 +5177,7 @@ THRM-EX	thrmex
 展线	zhan xian
 战线突破者	zhan xian tu po zhe
 战线推进者	zhan xian tui jin zhe
+斩业星熊	zhan ye xing xiong
 战医	zhan yi
 战意	zhan yi
 战争幽灵	zhan zheng you ling
@@ -5167,6 +5205,7 @@ THRM-EX	thrmex
 折戟	zhe ji
 折射	zhe she
 这位乌萨斯人	zhe wei wu sa si ren
+折桠	zhe ya
 侦测器	zhen ce qi
 震荡坚守	zhen dang jian shou
 震地碎岩击	zhen di sui yan ji
@@ -5182,6 +5221,7 @@ THRM-EX	thrmex
 枕木	zhen mu
 震慑劈砍	zhen she pi kan
 真相	zhen xiang
+真言	zhen yan
 真银斩	zhen yin zhan
 阵雨连绵	zhen yu lian mian
 阵中往事	zhen zhong wang shi
@@ -5290,6 +5330,7 @@ THRM-EX	thrmex
 终极赛道	zhong ji sai dao
 中级作战记录	zhong ji zuo zhan ji lu
 中坚	zhong jian
+重剑手	zhong jian shou
 中坚术师	zhong jian shu shi
 终结连射	zhong jie lian she
 重进酒	zhong jin jiu
@@ -5316,6 +5357,7 @@ THRM-EX	thrmex
 种植箱集群	zhong zhi xiang ji qun
 轴承与火星	zhou cheng yu huo xing
 周年庆典干员凭证	zhou nian qing dian gan yuan ping zheng
+咒愈师	zhou yu shi
 骤雨喑哑	zhou yu yin ya
 主播U	zhu bo u
 筑巢	zhu chao
