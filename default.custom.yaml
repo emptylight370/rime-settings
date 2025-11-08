@@ -7,12 +7,11 @@
 patch:
   schema_list:
     - schema: double_pinyin_flypy
-    - schema: rime_mint_flypy
-    - schema: melt_eng
   switcher/hotkeys:
     # - Control+Shift+grave
     # F4 和 JetBrains 的快捷键冲突
     - Control+F4
+  switcher/fold_options: false
   menu/page_size: 9
   ascii_composer/switch_key:
     Caps_Lock: commit_code
