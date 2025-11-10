@@ -1,7 +1,7 @@
 patch:
   menu/page_size: 9
   # 语言模型
-  grammar/language: amz-v3n2m1-zh-hans
+  grammar/language: wanxiang-lts-zh-hans
   grammar/collocation_max_length: 5
   grammar/collocation_min_length: 2
   # translator 内加载
