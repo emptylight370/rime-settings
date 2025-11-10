@@ -44,3 +44,8 @@ patch:
   # 修改字典为自定义字典
   translator/dictionary: rime_mint.custom
   melt_eng/dictionary: melt_eng.custom
+  # 补充模糊拼音
+  speller/algebra/+:
+    - erase/^xx$/ # 首选保留
+    - abbrev/^([a-z]).+$/$1/ #简拼（首字母）
+    - abbrev/^([zcs]h).+$/$1/ #简拼（zh, ch, sh）
