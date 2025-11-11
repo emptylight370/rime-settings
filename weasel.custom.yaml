@@ -63,3 +63,5 @@ patch:
       ascii_mode: true
     Lightning.exe:
       ascii_mode: true
+    SourceGit.exe:
+      inline_preedit: false
