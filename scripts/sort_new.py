@@ -1,4 +1,15 @@
 import sys
+import unicodedata
+
+
+def normalize_pinyin(pinyin):
+    """
+    将拼音字符串标准化，去除音调符号等修饰字符
+
+    :param pinyin: 需要去除拼音的原始字符串
+    :return str: 处理之后的干净字符串
+    """
+    return ''.join(c for c in unicodedata.normalize('NFD', pinyin) if unicodedata.category(c) != 'Mn')
 
 def sort_rime_dict_yaml(input_path, output_path):
     """
@@ -39,7 +50,7 @@ def sort_rime_dict_yaml(input_path, output_path):
         return {'word': word, 'pinyin': pinyin, 'freq': freq, 'original': entry}
 
     parsed_entries = [parse_entry(e) for e in entries if '\t' in e]
-    sorted_entries = sorted(parsed_entries, key=lambda x: x['pinyin'])
+    sorted_entries = sorted(parsed_entries, key=lambda x: normalize_pinyin(x['pinyin']))
     sorted_entries_content = [entry['original'] for entry in sorted_entries]
 
     # 写入新的文件
