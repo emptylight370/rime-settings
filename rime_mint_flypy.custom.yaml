@@ -34,18 +34,20 @@ patch:
         "<": ["《", "〈", "«", "<"]
         ">": ["》", "〉", "»", ">"]
     symbols:
-      __include: symbols_v:/symbols         # 从 symbols_v.yaml 导入配置
-  recognizer/patterns/punct: "^v([0-9]|10|[A-Za-z]+)$"    # 响应 symbols_v.yaml 的 symbols
+      __include: symbols_caps_v:/symbols         # 从 symbols_caps_v.yaml 导入配置
+  recognizer/patterns/punct: "^V([0-9]|10|[A-Za-z]+)$"    # 响应 symbols_caps_v.yaml 的 symbols
   # 尝试修改分隔符
   speller/delimiter: " `'‘’"
   # 修改快捷键绑定
   key_binder/=:
     import_preset: default
+    # Lua 配置: shijian.lua 的引导符，涉及：日期、时间、节日、节气、生日、问候模板等功能
+    shijian_keys: ["o"]
   # 修改字典为自定义字典
   translator/dictionary: rime_mint.custom
   melt_eng/dictionary: melt_eng.custom
   # 补充模糊拼音
   speller/algebra/+:
-    - erase/^xx$/ # 首选保留
+    # - erase/^xx$/ # 首选保留
     - abbrev/^([a-z]).+$/$1/ #简拼（首字母）
     - abbrev/^([zcs]h).+$/$1/ #简拼（zh, ch, sh）

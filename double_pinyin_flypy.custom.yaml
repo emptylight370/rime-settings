@@ -41,6 +41,8 @@ patch:
   # 修改快捷键绑定
   key_binder/=:
     import_preset: default
+    # Lua 配置: shijian.lua 的引导符，涉及：日期、时间、节日、节气、生日、问候模板等功能
+    shijian_keys: ["o"]
   # 修改字典为自定义字典
   translator/dictionary: rime_mint.custom
   melt_eng/dictionary: melt_eng.custom
