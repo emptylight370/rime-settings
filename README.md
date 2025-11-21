@@ -16,7 +16,7 @@ Mirrors: [GitHub](https://github.com/emptylight370/rime-settings)(addr:global) o
 
 自己添加了一些自定义短语，并且用中英文分离的方式导入了一些自定义的纯英文短语。
 
-导入的词典未去重。
+导入的词典未去重。自行添加的词典与万象词典重叠部分会吞掉注音，开着注音打字会更明显。
 
 ## 快捷键
 

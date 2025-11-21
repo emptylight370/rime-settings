@@ -1,6 +1,6 @@
 ---
 name: rime_mint.custom           # 注意name和文件名一致
-version: "2025.03"
+version: "2025.11"
 sort: by_weight
 # 此处为 输入法所用到的词库，既补充拓展词库的地方
 # 雾凇拼音词库，由Github Robot自动更新
@@ -17,6 +17,7 @@ import_tables:
   - dicts/honkai_3rd             # 崩坏三扩展
   - dicts/honkai_starrail        # 崩坏星穹铁道扩展
   - dicts/lobotomy               # 脑叶公司扩展
+  - dicts/projectsekai           # 世界计划扩展
   # 20240608 Emoji完全交由OpenCC，不再使用字典作为补充
   # - dicts/other_emoji            # Emoji(仅仅作为补充，实际使用一般是OpenCC生效)
 ...

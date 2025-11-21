@@ -65,3 +65,5 @@ patch:
       ascii_mode: true
     SourceGit.exe:
       inline_preedit: false
+    mumunxdevice.exe:
+      inline_preedit: false
