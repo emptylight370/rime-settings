@@ -10,7 +10,12 @@ def normalize_pinyin(pinyin):
     :param pinyin: 需要去除拼音的原始字符串
     :return str: 处理之后的干净字符串
     """
-    return ''.join(c for c in unicodedata.normalize('NFD', pinyin) if unicodedata.category(c) != 'Mn')
+    # 将 ü 替换为 v
+    replaced = pinyin.replace('ü', 'v').replace('ǖ', 'v').replace('ǘ', 'v').replace('ǚ', 'v').replace('ǜ', 'v')
+    # 去除音调符号
+    normalized = ''.join(c for c in unicodedata.normalize('NFD', replaced) if unicodedata.category(c) != 'Mn')
+    return normalized
+
 
 def sort_rime_dict_yaml(file_path):
     """
@@ -69,6 +74,7 @@ def sort_rime_dict_yaml(file_path):
         # 写入排序后的词条
         for entry in sorted_entries_content:
             output_file.write(entry + '\n')
+
 
 if __name__ == '__main__':
     if len(sys.argv) > 1:
