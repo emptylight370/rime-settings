@@ -67,3 +67,5 @@ patch:
       inline_preedit: false
     mumunxdevice.exe:
       inline_preedit: false
+    BCompare.exe:
+      inline_preedit: false
