@@ -62,11 +62,13 @@ XPointer	xpointer
 XQuery	xquery
 XSLT	xslt
 XSL Transformations	xslt
+
 # Daily
 Cloudreve	cloudreve
 Edge	edge
 Microsoft Edge	msedge
 Quicker	quicker
+
 # Gaming
 Arcaea	arcaea
 Ciallo～(∠・ω< )⌒☆	ciallo
@@ -77,6 +79,7 @@ MAA	maa
 MaaAssistantArknights	maa
 Phigros	phigros
 Rizline	rizline
+
 # Network
 BitComet	bitcomet
 bit/s	bits
