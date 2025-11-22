@@ -42,7 +42,7 @@ Mirrors: [GitHub](https://github.com/emptylight370/rime-settings)(addr:global) o
 
 根据[设置语言模型 | oh-my-rime 输入法](https://www.mintimate.cc/zh/guide/languageModel.html)导入万象拼音语言模型，由（目前 release 不可见的）旧版本模型转移至长期支持版本模型。具体变更详见提交历史。
 
-现在使用的长期支持版本语言模型更新时间为：2025/11/10 08:49（GMT+8）。
+现在使用的长期支持版本语言模型更新时间为：2025/11/21 21:14（GMT+8）。
 
 # 导入
 
