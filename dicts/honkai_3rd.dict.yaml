@@ -5,7 +5,7 @@
 # 建议自定义短语或者词语追加在这里
 ---
 name: honkai_3rd
-version: "2025.11.22"
+version: "2025.12.01"
 sort: original
 ...
 
@@ -1660,6 +1660,7 @@ sort: original
 机械恐惧	jī xiè kǒng jù
 机械系实战训练	jī xiè xì shí zhàn xùn liàn
 机械吸收	jī xiè xī shōu
+积蓄值	jī xù zhí
 记忆核心	jì yì hé xīn
 记忆晶元核心	jì yì jīng yuán hé xīn
 记忆苏醒	jì yì sū xǐng
@@ -2214,6 +2215,7 @@ sort: original
 礼物中	lǐ wù zhōng
 礼物中下	lǐ wù zhōng xià
 力学三定律	lì xué sān dìng lǜ
+丽影	lì yǐng
 理之律者	lǐ zhī lǜ zhě
 力之试炼	lì zhī shì liàn
 粒子波动	lì zǐ bō dòng
@@ -2942,6 +2944,7 @@ sort: original
 侵蚀之键	qīn shí zhī jiàn
 侵蚀之雷	qīn shí zhī léi
 青春将继续错误下去	qīng chūn jiāng jì xù cuò wù xià qù
+青柑时光	qīng gān shí guāng
 青花瓷砖	qīng huā cí zhuān
 青雷龙鸣	qīng léi lóng míng
 清凉礼盒	qīng liáng lǐ hé
@@ -4167,6 +4170,7 @@ sort: original
 星环能量	xīng huán néng liàng
 星环食	xīng huán shí
 星环漩涡	xīng huán xuán wō
+星环盈余	xīng huán yíng yú
 星火传承	xīng huǒ chuán chéng
 星火传人	xīng huǒ chuán rén
 星空观察者	xīng kōng guān chá zhě
@@ -4416,6 +4420,7 @@ sort: original
 要认真起来了	yào rèn zhēn qǐ lái le
 曜日活动	yào rì huó dòng
 窈窕谍影	yǎo tiǎo dié yǐng
+窈窕谍影	yǎo tiǎo dié yǐng
 药王之王	yào wáng zhī wáng
 叶采章	yè cǎi zhāng
 叶采章两件套	yè cǎi zhāng liǎng jiàn tào
@@ -4458,6 +4463,7 @@ sort: original
 已采集	yǐ cǎi jí
 一场风花雪月的战斗	yì chǎng fēng huā xuě yuè de zhàn dòu
 一场可靠的交易	yì chǎng kě kào de jiāo yì
+溢出能级	yì chū néng jí
 一次完整的召唤	yí cì wán zhěng de zhào huàn
 一档	yí dàng
 一档守门	yí dàng shǒu mén
@@ -4575,6 +4581,7 @@ sort: original
 影山战	yǐng shān zhàn
 影神游	yǐng shén yóu
 影侍	yǐng shì
+影侍	yǐng shì
 樱时雨	yīng shí yǔ
 影速斩	yǐng sù zhǎn
 樱桃	yīng táo
@@ -4667,6 +4674,7 @@ sort: original
 幽焰蔷薇	yōu yàn qiáng wēi
 友谊贝壳	yǒu yì bèi ké
 幽影之幕	yōu yǐng zhī mù
+游云	yóu yún
 幽紫地板	yōu zǐ dì bǎn
 幽紫墙纸	yōu zǐ qiáng zhǐ
 雨后誓言	yǔ hòu shì yán
@@ -5019,6 +5027,7 @@ sort: original
 诅咒之影	zǔ zhòu zhī yǐng
 钻石星辰	zuàn shí xīng chén
 最低评价	zuì dī píng jià
+最高使命	zuì gāo shǐ mìng
 嘴角微微上扬	zuǐ jiǎo wēi wēi shàng yáng
 罪人之瞳	zuì rén zhī tóng
 最终吼姆幻想	zuì zhōng hǒu mǔ huàn xiǎng
