@@ -18,7 +18,7 @@ patch:
     Shift_L: noop
     Shift_R: noop
     Control_L: commit_code
-    Control_R: commit_code
+    Control_R: inline_ascii
   key_binder/select_first_character: "minus"
   key_binder/select_last_character: "equal"
   key_binder/bindings/=:
