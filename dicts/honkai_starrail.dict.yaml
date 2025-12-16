@@ -5,7 +5,7 @@
 # 建议自定义短语或者词语追加在这里
 ---
 name: honkai_starrail
-version: "2025.12.01"
+version: "2025.12.16"
 sort: original
 ...
 
@@ -142,6 +142,7 @@ Aedes Elysiae	ai li mi xie
 差分宇宙·人间喜剧	chā fēn yǔ zhòu rén jiān xǐ jù
 长乐天	cháng lè tiān
 长路终有归途	cháng lù zhōng yǒu guī tú
+长梦忆影	cháng mèng yì yǐng
 怅然若失	chàng rán ruò shī
 常时传略	cháng shí zhuàn lüè
 长夜月	cháng yè yuè
@@ -1151,6 +1152,7 @@ Aedes Elysiae	ai li mi xie
 事件视界	shì jiàn shì jiè
 时节不居	shí jié bù jū
 时空棱镜	shí kōng léng jìng
+示死祸源：深魇蝗灾	shì sǐ huò yuán shēn yǎn huáng zāi
 史瓦罗	shǐ wǎ luó
 诗仙机器人	shī xiān jī qì rén
 驶向第二次生命	shǐ xiàng dì èr cì shēng mìng
@@ -1370,6 +1372,7 @@ Aedes Elysiae	ai li mi xie
 无穷假身的遗恨	wú qióng jiǎ shēn de yí hèn
 物穰	wù ráng
 无生残刃	wú shēng cán rèn
+勿忘她的火焰	wù wàng tā de huǒ yàn
 呜呜伯	wū wū bó
 呜呜伯行为考	wū wū bó xíng wéi kǎo
 舞舞舞	wǔ wǔ wǔ
@@ -1407,6 +1410,7 @@ Aedes Elysiae	ai li mi xie
 相关意见	xiāng guān yì jiàn
 相抗	xiāng kàng
 相邻目标	xiāng lín mù biāo
+橡木鸣蛀之梦	xiàng mù míng zhù zhī mèng
 相位灵火	xiàng wèi líng huǒ
 香涎干酪	xiāng xián gān lào
 向着不可追问处	xiàng zhe bù kě zhuī wèn chù

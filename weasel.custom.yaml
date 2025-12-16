@@ -69,3 +69,5 @@ patch:
       inline_preedit: false
     BCompare.exe:
       inline_preedit: false
+    AdGuard.exe:
+      inline_preedit: false
