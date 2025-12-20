@@ -7,7 +7,7 @@
 # 脑叶公司系列词条扩展，现在已经包含脑叶公司、废墟图书馆内容，以后会添加巴士的词条
 ---
 name: lobotomy
-version: "2025.11.22"
+version: "2025.12.20"
 sort: original
 ...
 
@@ -40,7 +40,7 @@ B公司	b gōng sī
 冰雪女皇	bīng xuě nǚ huáng
 # Birah	birah
 波迪	bō dí
-薄暝	bo ming
+薄暝	bo míng
 部门常驻奖励	bù mén cháng zhù jiǎng lì
 C公司	c gōng sī
 惨白	cǎn bái
@@ -229,7 +229,7 @@ L公司	l gōng sī
 猎头长耙	liè tóu cháng bà
 LOB点数	lob diǎn shù
 楼层解放战	lóu céng jiě fàng zhàn
-陆生鮟鱇	lu sheng an kang
+陆生鮟鱇	lù shēng àn kāng
 裸巢	luǒ cháo
 罗兰	luó lán
 落樱	luò yīng
@@ -307,7 +307,7 @@ R公司	r gōng sī
 荣耀之羽	róng yào zhī yǔ
 肉体治疗弹	ròu tǐ zhì liáo dàn
 三级警报	sān jí jǐng bào
-3月27日的避难所	san yue er shi qi ri de bi nan suo
+3月27日的避难所	sān yuè èr shí qī rì de bì nàn suǒ
 色彩级收尾人	sè cǎi jí shōu wěi rén
 # Sephirah	sephirah
 杀人兔	shā rén tù
@@ -353,7 +353,7 @@ R公司	r gōng sī
 特蕾西娅	tè lěi xī yà
 TETH	teth
 天启鸟	tiān qǐ niǎo
-调律者	tiao lv zhe
+调律者	tiáo lǜ zhě
 # Tiphereth	tiphereth
 同行之路	tóng xíng zhī lù
 统御之美	tǒng yù zhī měi

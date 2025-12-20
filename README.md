@@ -21,7 +21,7 @@ Mirrors: [GitHub](https://github.com/emptylight370/rime-settings)(addr:global) o
 ### 词典处理流程
 
 1. 通过无注音拼音添加词条，得到 `_.dict.yaml` 文件。这个步骤不写拼音只写词条也可以，等下一步生成。
-2. 通过[万象词库刷拼音与辅助码工具 GUI](https://github.com/amzxyz/RIME-LMDG/releases/tag/tools) 处理一遍词库拼音，得到 `_.dict.pinyin.yaml` 文件
+2. 通过 [Release 万象词库-刷拼音-辅助码工具，在线更新方案 GUI](https://github.com/amzxyz/RIME-LMDG/releases/tag/tool) 处理一遍词库拼音，得到 `_.dict.pinyin.yaml` 文件（工具 `wanxiang_tools.exe`，更新于 2025/12/18 10:48（GMT+8））
 3. 通过文件合并工具手动合并内容，不影响原有拼音，防止工具在未设置拼音参考时反复将多音字改错
 4. 通过排序工具排序词库
 5. 提交变更
