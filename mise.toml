@@ -1,5 +1,0 @@
-[tools]
-python = "3.13"
-
-[tasks.venv]
-run = "python -m venv .venv"
