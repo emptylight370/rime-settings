@@ -62,6 +62,8 @@ Mirrors: [GitHub](https://github.com/emptylight370/rime-settings)(addr:global) o
 
 # 脚本
 
+如要运行脚本，首先使用 mise 安装 uv，之后通过 `mise run uv_init` 初始化 venv 环境，现在应当能够正常使用脚本。
+
 ## 排序脚本
 
 ### Python 脚本

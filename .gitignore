@@ -1,6 +1,6 @@
 # File created using '.gitignore Generator' for Visual Studio Code: https://bit.ly/vscode-gig
-# Created by https://www.toptal.com/developers/gitignore/api/windows,visualstudiocode,python
-# Edit at https://www.toptal.com/developers/gitignore?templates=windows,visualstudiocode,python
+# Created by https://www.toptal.com/developers/gitignore/api/windows,visualstudiocode,python,venv
+# Edit at https://www.toptal.com/developers/gitignore?templates=windows,visualstudiocode,python,venv
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
@@ -174,6 +174,18 @@ poetry.toml
 # LSP config files
 pyrightconfig.json
 
+### venv ###
+# Virtualenv
+# http://iamzed.com/2009/05/07/a-primer-on-virtualenv/
+[Bb]in
+[Ii]nclude
+[Ll]ib
+[Ll]ib64
+[Ll]ocal
+[Ss]cripts
+pyvenv.cfg
+pip-selfcheck.json
+
 ### VisualStudioCode ###
 .vscode/*
 !.vscode/settings.json
@@ -219,9 +231,10 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.toptal.com/developers/gitignore/api/windows,visualstudiocode,python
+# End of https://www.toptal.com/developers/gitignore/api/windows,visualstudiocode,python,venv
 
 # Custom rules (everything added below won't be overriden by 'Generate .gitignore File' if you use 'Update' option)
+
 scripts/*
 !scripts/*.py
 mise.local.toml
