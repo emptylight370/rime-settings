@@ -10,7 +10,7 @@ def normalize_pinyin(pinyin):
     :return str: 处理之后的干净字符串
     """
     # 将 ü 替换为 v
-    replaced = pinyin.replace('ü', 'v')
+    replaced = pinyin.replace('ü', 'v').replace('ǖ', 'v').replace('ǘ', 'v').replace('ǚ', 'v').replace('ǜ', 'v')
     # 去除音调符号
     normalized = ''.join(c for c in unicodedata.normalize('NFD', replaced) if unicodedata.category(c) != 'Mn')
     return normalized
