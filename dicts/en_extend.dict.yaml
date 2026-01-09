@@ -5,7 +5,7 @@
 # 建议自定义短语或者词语追加在这里
 ---
 name: en_extend
-version: "2025.03"
+version: "2025.12.28"
 sort: original
 ...
 
@@ -34,6 +34,7 @@ MAC	mac
 Mac	mac
 MB	mb
 Miniconda	miniconda
+mise	mise
 NAT	nat
 OpenList	olist
 OpenCV	opencv

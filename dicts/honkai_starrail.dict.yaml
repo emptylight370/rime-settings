@@ -5,7 +5,7 @@
 # 建议自定义短语或者词语追加在这里
 ---
 name: honkai_starrail
-version: "2025.12.20"
+version: "2026.01.09"
 sort: original
 ...
 
@@ -163,6 +163,8 @@ Aedes Elysiae	ai li mi xie
 沉浸器	chén jìn qì
 沉陆海域露莎卡	chén lù hǎi yù lù shā kǎ
 沉沦黑曜	chén lún hēi yào
+沉沦暮城	chén lún mù chéng
+「沉沦暮城」奥赫玛	chén lún mù chéng ào hè mǎ
 沉沦于长眠	chén lún yú cháng mián
 尘梦的赞礼	chén mèng de zàn lǐ
 沉默且闪耀	chén mò qiě shǎn yào
@@ -387,6 +389,7 @@ Aedes Elysiae	ai li mi xie
 复兴之路	fù xīng zhī lù
 符玄	fú xuán
 浮烟	fú yān
+负载清算	fù zǎi qīng suàn
 感官追奉者的葬礼	gǎn guān zhuī fèng zhě de zàng lǐ
 感官追猎	gǎn guān zhuī liè
 甘露	gān lù
@@ -1130,6 +1133,7 @@ Aedes Elysiae	ai li mi xie
 生命传输器	shēng mìng chuán shū qì
 生命当付之一炬	shēng mìng dāng fù zhī yí jù
 生命的翁瓦克	shēng mìng de wēng wǎ kè
+生命计数	shēng mìng jì shù
 生命球	shēng mìng qiú
 生命上限	shēng mìng shàng xiàn
 生命绳	shēng mìng shéng
@@ -1183,6 +1187,7 @@ Aedes Elysiae	ai li mi xie
 霜风之径	shuāng fēng zhī jìng
 霜晶造物	shuāng jīng zào wù
 霜晶之形	shuāng jīng zhī xíng
+双战场	shuāng zhàn chǎng
 水龙吟	shuǐ lóng yín
 朔望	shuò wàng
 四号屠场	sì hào tú chǎng
@@ -1564,6 +1569,7 @@ Aedes Elysiae	ai li mi xie
 养成材料	yǎng chéng cái liào
 阳雷的遥想	yáng léi de yáo xiǎng
 养心返魂丹	yǎng xīn fǎn hún dān
+爻光	yáo guāng
 摇滚	yáo gǔn
 妖精织梦的乐园	yāo jīng zhī mèng de lè yuán
 遥控机巧鸟	yáo kòng jī qiǎo niǎo
@@ -1687,6 +1693,7 @@ Aedes Elysiae	ai li mi xie
 玉角盘虬	yù jiǎo pán qiú
 驭空	yù kōng
 于那终点再见	yú nà zhōng diǎn zài jiàn
+玉阙	yù quē
 愚人戏	yú rén xì
 余生的第一天	yú shēng de dì yī tiān
 与行星相会	yǔ xíng xīng xiāng huì
@@ -1799,6 +1806,7 @@ Aedes Elysiae	ai li mi xie
 至福舞会	zhì fú wǔ huì
 至高，至阳，天空的化身	zhì gāo zhì yáng tiān kōng de huà shēn
 知更鸟	zhī gèng niǎo
+致幻人鱼	zhì huàn rén yú
 知觉迷墙	zhī jué mí qiáng
 智库	zhì kù
 支离破碎的日记	zhī lí pò suì de rì jì
