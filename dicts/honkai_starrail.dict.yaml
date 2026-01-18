@@ -5,7 +5,7 @@
 # 建议自定义短语或者词语追加在这里
 ---
 name: honkai_starrail
-version: "2026.01.09"
+version: "2026.01.19"
 sort: original
 ...
 
@@ -114,6 +114,7 @@ Aedes Elysiae	ai li mi xie
 卜筮	bǔ shì
 不世之材	bù shì zhī cái
 不死的神实	bù sǐ de shén shí
+不死途	bù sǐ tú
 不同属性	bù tóng shǔ xìng
 不稳定带	bù wěn dìng dài
 不稳定的桥	bù wěn dìng de qiáo
@@ -341,6 +342,7 @@ Aedes Elysiae	ai li mi xie
 飞天坛递	fēi tiān tán dì
 飞向明天	fēi xiàng míng tiān
 飞霄	fēi xiāo
+绯英	fēi yīng
 飞跃开拓	fēi yuè kāi tuò
 焚化工	fén huà gōng
 忿火之心	fèn huǒ zhī xīn
@@ -1515,6 +1517,7 @@ Aedes Elysiae	ai li mi xie
 虚无硬片	xū wú yìng piàn
 虚无之蕾	xū wú zhī lěi
 虚一直构	xū yì zhí gòu
+虚照	xū zhào
 虚卒	xū zú
 悬锋城	xuán fēng chéng
 漩涡止于中心	xuán wō zhǐ yú zhōng xīn
