@@ -5,7 +5,7 @@
 # 建议自定义短语或者词语追加在这里
 ---
 name: honkai_starrail
-version: "2026.01.19"
+version: "2026.01.20"
 sort: original
 ...
 
@@ -425,7 +425,7 @@ Aedes Elysiae	ai li mi xie
 孤绝世界裴伽纳	gū jué shì jiè péi gā nà
 古老梦华	gǔ lǎo mèng huá
 固溶强化	gù róng qiáng huà
-故事的下一页	gù shì de xià yí yè
+故事的下一页	gù shi de xià yí yè
 固态净水	gù tài jìng shuǐ
 孤星明尘	gū xīng míng chén
 观察日记	guān chá rì jì
@@ -505,7 +505,7 @@ Aedes Elysiae	ai li mi xie
 琥珀的坚守	hǔ pò de jiān shǒu
 琥珀纪	hǔ pò jì
 狐斋志异	hú zhāi zhì yì
-花儿不会忘记	huā ér bú huì wàng jì
+花儿不会忘记	huā er bú huì wàng jì
 花火	huā huǒ
 化外民	huà wài mín
 怀炎	huái yán
@@ -837,7 +837,7 @@ Aedes Elysiae	ai li mi xie
 罗刹	luó chà
 罗浮	luó fú
 逻各斯	luó gè sī
-逻辑语言中枢	luó jí yǔ yán zhōng shū
+逻辑语言中枢	luó ji yǔ yán zhōng shū
 落日时起舞	luò rì shí qǐ wǔ
 落日余晖	luò rì yú huī
 旅伴金灵	lǚ bàn jīn líng
@@ -1116,7 +1116,7 @@ Aedes Elysiae	ai li mi xie
 神话的罅隙	shén huà de xià xì
 神礼观众	shén lǐ guān zhòng
 「神礼观众」来古士	shén lǐ guān zhòng lái gǔ shì
-身世故事	shēn shì gù shì
+身世故事	shēn shì gù shi
 神速赐福	shén sù cì fú
 深邃的星外质	shēn suì de xīng wài zhì
 神体琥珀	shén tǐ hǔ pò
@@ -1823,8 +1823,8 @@ Aedes Elysiae	ai li mi xie
 执棋的君主	zhí qí de jūn zhǔ
 制胜的瞬间	zhì shèng de shùn jiān
 智识	zhì shí
-知识奇点	zhī shí qí diǎn
-知识奇点	zhī shí qí diǎn
+知识奇点	zhī shi qí diǎn
+知识奇点	zhī shi qí diǎn
 智识树皮	zhì shí shù pí
 智识之蕾	zhì shí zhī lěi
 智识之钥	zhì shí zhī yào
