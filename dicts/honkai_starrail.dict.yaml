@@ -5,7 +5,7 @@
 # 建议自定义短语或者词语追加在这里
 ---
 name: honkai_starrail
-version: "2026.01.20"
+version: "2026.01.24"
 sort: original
 ...
 
@@ -109,11 +109,13 @@ Aedes Elysiae	ai li mi xie
 不老者的仙舟	bù lǎo zhě de xiān zhōu
 步离犬牙	bù lí quǎn yá
 步离人	bù lí rén
+步离战首	bù lí zhàn shǒu
 不良资产清算专家	bù liáng zī chǎn qīng suàn zhuān jiā
 布洛妮娅	bù luò nī yà
 卜筮	bǔ shì
 不世之材	bù shì zhī cái
 不死的神实	bù sǐ de shén shí
+不死神实	bù sǐ shén shí
 不死途	bù sǐ tú
 不同属性	bù tóng shǔ xìng
 不稳定带	bù wěn dìng dài
@@ -214,6 +216,7 @@ Aedes Elysiae	ai li mi xie
 此身为剑	cǐ shēn wéi jiàn
 此时恰好	cǐ shí qià hǎo
 次元扑满	cì yuán pū mǎn
+次蛰虫	cì zhé chóng
 篡改的野心	cuàn gǎi de yě xīn
 篡改者	cuàn gǎi zhě
 淬火工坊	cuì huǒ gōng fāng
@@ -305,6 +308,7 @@ Aedes Elysiae	ai li mi xie
 额外轮次	é wài lún cì
 额外消耗	é wài xiāo hào
 法吉娜	fǎ jí nà
+发条暴徒	fā tiáo bào tú
 发条兵人	fā tiáo bīng rén
 发条苹果	fā tiáo píng guǒ
 法雨	fǎ yǔ
@@ -441,6 +445,7 @@ Aedes Elysiae	ai li mi xie
 桂乃芬	guì nǎi fēn
 归途助力	guī tú zhù lì
 归墟的迳庭	guī xū de jìng tíng
+诡弈砂金	guǐ yì shā jīn
 规则	guī zé
 贵重战利品	guì zhòng zhàn lì pǐn
 果腹粮食	guǒ fù liáng shí
@@ -468,11 +473,15 @@ Aedes Elysiae	ai li mi xie
 好看的垃圾	hǎo kàn de lā jī
 好戏开演	hǎo xì kāi yǎn
 合成机	hé chéng jī
+何物藏于镜中	hé wù cáng yú jìng zhōng
+何物朝向死亡	hé wù cháo xiàng sǐ wáng
 何物为真	hé wù wéi zhēn
 黑潮	hēi cháo
 黑潮参议	hēi cháo cān yì
 黑潮斗将	hēi cháo dòu jiāng
 黑潮热	hēi cháo rè
+黑潮蚀斧	hēi cháo shí fǔ
+黑潮蚀魔	hēi cháo shí mó
 黑潮蚀刃	hēi cháo shí rèn
 黑潮朽弓	hēi cháo xiǔ gōng
 黑面包汽水冰山	hēi miàn bāo qì shuǐ bīng shān
@@ -648,14 +657,17 @@ Aedes Elysiae	ai li mi xie
 禁锢状态	jìn gù zhuàng tài
 觐见装置	jìn jiàn zhuāng zhì
 近况汇总	jìn kuàng huì zǒng
+金人勾魂使	jīn rén gōu hún shǐ
 金人旧巷市廛喧	jīn rén jiù xiàng shì chán xuān
 金人司阍	jīn rén sī hūn
 今日亦是和平的一日	jīn rì yì shì hé píng de yí rì
 烬日之形	jìn rì zhī xíng
 今宵之形	jīn xiāo zhī xíng
+金血	jīn xuè
 金血铭刻的时代	jīn xuè míng kè de shí dài
 金血忆灵	jīn xuè yì líng
 金血祝颂	jīn xuè zhù sòng
+今在	jīn zài
 惊魂夜	jīng hún yè
 静静的星河	jìng jìng de xīng hé
 镜流	jìng liú
@@ -670,6 +682,7 @@ Aedes Elysiae	ai li mi xie
 镜中故我	jìng zhōng gù wǒ
 久安长治	jiǔ ān cháng zhì
 九十亿个名字	jiǔ shí yì gè míng zì
+飓风大母	jù fēng dà mǔ
 俱乐部券	jù lè bù quàn
 聚灵铸星	jù líng zhù xīng
 俱殁	jù mò
@@ -737,6 +750,7 @@ Aedes Elysiae	ai li mi xie
 快速通关	kuài sù tōng guān
 矿灯巴列维	kuàng dēng bā liè wéi
 矿队的通牒	kuàng duì de tōng dié
+狂怒褪去之壳	kuáng nù tuì qù zhī ké
 旷野的呼告	kuàng yě de hū gào
 窥梦电话	kuī mèng diàn huà
 奎木	kuí mù
@@ -940,7 +954,9 @@ Aedes Elysiae	ai li mi xie
 漠视主义	mò shì zhǔ yì
 抹消者	mǒ xiāo zhě
 末叶	mò yè
+魔阴身	mó yīn shēn
 魔阴身士卒	mó yīn shēn shì zú
+魔阴武弁	mó yīn wǔ biàn
 貘泽	mò zé
 目标	mù biāo
 暮晖烬蕾	mù huī jìn lěi
@@ -982,6 +998,7 @@ Aedes Elysiae	ai li mi xie
 磐岩镇奇妙夜	pán yán zhèn qí miào yè
 磐岩之脊	pán yán zhī jǐ
 「磐岩之脊」吉奥里亚	pán yán zhī jǐ jí ào lǐ yà
+泡影稚子	pào yǐng zhì zǐ
 裴伽纳	péi gā nà
 佩拉	pèi lā
 培养指引	péi yǎng zhǐ yǐn
@@ -1005,6 +1022,7 @@ Aedes Elysiae	ai li mi xie
 奇迹典籍	qí jì diǎn jí
 奇美拉	qí měi lā
 气泡弹珠	qì pào dàn zhū
+气泡锂犬	qì pào lǐ quǎn
 奇巧零食	qí qiǎo líng shí
 齐颂	qí sòng
 气态流体	qì tài liú tǐ
@@ -1012,6 +1030,7 @@ Aedes Elysiae	ai li mi xie
 奇物合成	qí wù hé chéng
 奇想蕉乐园	qí xiǎng jiāo lè yuán
 奇想林中的蕉研组	qí xiǎng lín zhōng de jiāo yán zǔ
+齐响诗班	qí xiǎng shī bān
 奇想师班	qí xiǎng shī bān
 其渊渺渺	qí yuān miǎo miǎo
 器元士	qì yuán shì
@@ -1121,9 +1140,11 @@ Aedes Elysiae	ai li mi xie
 深邃的星外质	shēn suì de xīng wài zhì
 神体琥珀	shén tǐ hǔ pò
 神悟树庭	shén wù shù tíng
+身陷樊笼的往昔	shēn xiàn fán lóng de wǎng xī
 神性构筑	shén xìng gòu zhù
 神谕圣地	shén yù shèng dì
 「神谕圣地」雅努萨波利斯	shén yù shèng dì yǎ nǔ sà bō lì sī
+神主日	shén zhǔ rì
 生存智慧	shēng cún zhì huì
 生而服从	shēng ér fú cóng
 盛会之星	shèng huì zhī xīng
@@ -1158,13 +1179,17 @@ Aedes Elysiae	ai li mi xie
 事件视界	shì jiàn shì jiè
 时节不居	shí jié bù jū
 时空棱镜	shí kōng léng jìng
+十七分熟	shí qī fēn shú
 示死祸源：深魇蝗灾	shì sǐ huò yuán shēn yǎn huáng zāi
 史瓦罗	shǐ wǎ luó
 诗仙机器人	shī xiān jī qì rén
+视线无处不在	shì xiàn wú chǔ bú zài
 驶向第二次生命	shǐ xiàng dì èr cì shēng mìng
 石心十人	shí xīn shí rén
 嗜血	shì xuè
 实验记录	shí yàn jì lù
+蚀月狼卒	shí yuè láng zú
+蚀蛰虫	shí zhé chóng
 识之花	shí zhī huā
 识之花幼体	shí zhī huā yòu tǐ
 施诸愿印	shī zhū yuàn yìn
@@ -1228,6 +1253,7 @@ Aedes Elysiae	ai li mi xie
 泰坦颂诗	tài tǎn sòng shī
 太阳灯纹	tài yáng dēng wén
 太一之梦	tài yī zhī mèng
+弹簧荷官	tán huáng hé guān
 探索模式	tàn suǒ mó shì
 躺在铁锈中	tǎng zài tiě xiù zhōng
 陶德雷奥登	táo dé léi ào dēng
@@ -1273,6 +1299,7 @@ Aedes Elysiae	ai li mi xie
 天外合唱班	tiān wài hé chàng bān
 天外乐章	tiān wài yuè zhāng
 天外重声大碟	tiān wài zhòng shēng dà dié
+甜猿泰山	tián yuán tài shān
 天舟缴夙敌	tiān zhōu jiǎo sù dí
 调伏诸厄	tiāo fú zhū è
 调和	tiáo hé
@@ -1297,6 +1324,7 @@ Aedes Elysiae	ai li mi xie
 同谐主	tóng xié zhǔ
 同行任务	tóng xíng rèn wù
 同一种心情	tóng yī zhǒng xīn qíng
+同音共律的来日	tóng yīn gòng lǜ de lái rì
 偷闲摸鱼	tōu xián mō yú
 头晕目眩	tóu yūn mù xuàn
 屠魔之矢	tú mó zhī shǐ
@@ -1358,8 +1386,10 @@ Aedes Elysiae	ai li mi xie
 我将，巡征追猎	wǒ jiāng xún zhēng zhuī liè
 我们是地火	wǒ men shì dì huǒ
 我们是牛仔	wǒ men shì niú zǎi
+我心支离破碎	wǒ xīn zhī lí pò suì
 无边曼舞	wú biān màn wǔ
 无处可逃	wú chǔ kě táo
+舞鸫假面	wǔ dōng jiǎ miàn
 无根据颂歌	wú gēn jù sòng gē
 乌号基笞	wū hào jī chī
 无机统帅	wú jī tǒng shuài
@@ -1396,6 +1426,7 @@ Aedes Elysiae	ai li mi xie
 希露瓦	xī lù wǎ
 熄灭原核	xī miè yuán hé
 希佩	xī pèi
+昔在	xī zài
 下层区	xià céng qū
 下次行动	xià cì xíng dòng
 遐蝶	xiá dié
@@ -1492,6 +1523,7 @@ Aedes Elysiae	ai li mi xie
 星宿之声	xīng xiù zhī shēng
 星域界种指要	xīng yù jiè zhǒng zhǐ yào
 行于流逝的岸	xíng yú liú shì de àn
+幸运贩售	xìng yùn fàn shòu
 行政区	xíng zhèng qū
 修复者	xiū fù zhě
 虚构史学家	xū gòu shǐ xué jiā
@@ -1505,6 +1537,7 @@ Aedes Elysiae	ai li mi xie
 虚韧性	xū rèn xìng
 煦日节	xù rì jié
 煦日节庆典	xù rì jié qìng diǎn
+虚荣永无餍足	xū róng yǒng wú yàn zú
 序师执迟彝	xù shī zhí chí yí
 虚数	xū shù
 虚数残叶	xū shù cán yè
@@ -1521,6 +1554,7 @@ Aedes Elysiae	ai li mi xie
 虚卒	xū zú
 悬锋城	xuán fēng chéng
 漩涡止于中心	xuán wō zhǐ yú zhōng xīn
+玄爪狼卒	xuán zhǎo láng zú
 雪城	xuě chéng
 「雪城」哀地里亚	xuě chéng āi dì lǐ yà
 血仇	xuè chóu
@@ -1678,9 +1712,11 @@ Aedes Elysiae	ai li mi xie
 永夜之帷	yǒng yè zhī wéi
 「永夜之帷」欧洛尼斯	yǒng yè zhī wéi ōu luò ní sī
 永远的迷境饭	yǒng yuǎn de mí jìng fàn
+永在	yǒng zài
 游辞	yóu cí
 有点蹊跷	yǒu diǎn qī qiao
 幽府通令	yōu fǔ tōng lìng
+幽府武弁	yōu fǔ wǔ biàn
 幽府之形	yōu fǔ zhī xíng
 有龙矫矫	yǒu lóng jiǎo jiǎo
 有龙矫矫其渊渺渺	yǒu lóng jiǎo jiǎo qí yuān miǎo miǎo
@@ -1691,6 +1727,7 @@ Aedes Elysiae	ai li mi xie
 幽邃	yōu suì
 幽锁深牢的系囚	yōu suǒ shēn láo de xì qiú
 游戏尘寰	yóu xì chén huán
+幼蛰虫	yòu zhé chóng
 愈合喷剂	yù hé pēn jì
 浴火钢心	yù huǒ gāng xīn
 玉角盘虬	yù jiǎo pán qiú
@@ -1718,6 +1755,7 @@ Aedes Elysiae	ai li mi xie
 源究森林	yuán jiū sēn lín
 源究院	yuán jiū yuàn
 愿旅途永远坦然	yuàn lǚ tú yǒng yuǎn tǎn rán
+圆幕先生	yuán mù xiān shēng
 原能量上限	yuán néng liàng shàng xiàn
 原伤害	yuán shāng hài
 原生黑洞	yuán shēng hēi dòng
@@ -1801,6 +1839,7 @@ Aedes Elysiae	ai li mi xie
 真理医生	zhēn lǐ yī shēng
 镇灵敕符	zhèn líng chì fú
 镇球塑像	zhèn qiú sù xiàng
+真蛰虫	zhēn zhé chóng
 征服或被征服	zhēng fú huò bèi zhēng fú
 正阳狮鹫	zhèng yáng shī jiù
 征友启事	zhēng yǒu qǐ shì
@@ -1902,5 +1941,6 @@ Aedes Elysiae	ai li mi xie
 组件合成	zǔ jiàn hé chéng
 最后的大矿区铁道之夜	zuì hòu de dà kuàng qū tiě dào zhī yè
 最后的赢家	zuì hòu de yíng jiā
+醉于盛会的此刻	zuì yú shèng huì de cǐ kè
 尊长	zūn zhǎng
 作者序	zuò zhě xù
