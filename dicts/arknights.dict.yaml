@@ -7,7 +7,7 @@
 # 明日方舟词条
 ---
 name: arknights
-version: "2026.01.20"
+version: "2026.01.24"
 sort: original
 ...
 
@@ -101,6 +101,7 @@ sort: original
 八音蛋匠人	bā yīn dàn jiàng rén
 摆布	bǎi bù
 百步穿杨	bǎi bù chuān yáng
+摆渡人	bǎi dù rén
 白房子酒吧	bái fáng zi jiǔ bā
 白咕咕	bái gū gū
 柏喙	bǎi huì
@@ -512,16 +513,6 @@ Castle-3	castle
 重岳	chóng yuè
 重整导能	chóng zhěng dǎo néng
 重整导能组件	chóng zhěng dǎo néng zǔ jiàn
-重装	chóng zhuāng
-重装防御者	chóng zhuāng fáng yù zhě
-重装防御组长	chóng zhuāng fáng yù zǔ zhǎng
-重装进阶券	chóng zhuāng jìn jiē quàn
-重装双芯片	chóng zhuāng shuāng xīn piàn
-重装五十夫长	chóng zhuāng wǔ shí fū zhǎng
-重装芯片	chóng zhuāng xīn piàn
-重装芯片组	chóng zhuāng xīn piàn zǔ
-重装芯片组印刻仪	chóng zhuāng xīn piàn zǔ yìn kè yí
-重装侦察兵	chóng zhuāng zhēn chá bīng
 仇白	chóu bái
 筹备着	chóu bèi zhe
 抽卡	chōu kǎ
@@ -870,7 +861,7 @@ Castle-3	castle
 恶魔诱惑	è mó yòu huò
 恶势力	è shì lì
 恶性竞争	è xìng jìng zhēng
-噩兆湍流	è zhào tuān liú
+恶兆湍流	è zhào tuān liú
 恩赐	ēn cì
 恩希欧迪斯	ēn xī ōu dí sī
 恩希亚	ēn xī yà
@@ -908,6 +899,7 @@ Castle-3	castle
 发条战斗机器	fā tiáo zhàn dòu jī qì
 法外之徒	fǎ wài zhī tú
 罚站	fá zhàn
+反常光谱	fǎn cháng guāng pǔ
 反伏击	fǎn fú jī
 返航	fǎn háng
 反击电弧	fǎn jī diàn hú
@@ -1115,11 +1107,14 @@ Friston-3	friston
 浮游刃启动	fú yóu rèn qǐ dòng
 福运鼓鼓礼袋	fú yùn gǔ gǔ lǐ dài
 辅助	fǔ zhù
+辅助传承信物	fǔ zhù chuán chéng xìn wù
+辅助皇家信物	fǔ zhù huáng jiā xìn wù
 辅助进阶券	fǔ zhù jìn jiē quàn
 辅助双芯片	fǔ zhù shuāng xīn piàn
 辅助芯片	fǔ zhù xīn piàn
 辅助芯片组	fǔ zhù xīn piàn zǔ
 辅助芯片组印刻仪	fǔ zhù xīn piàn zǔ yìn kè yí
+辅助遗产信物	fǔ zhù yí chǎn xìn wù
 改进型量产巨像	gǎi jìn xíng liàng chǎn jù xiàng
 改良型二踢脚	gǎi liáng xíng èr tī jiǎo
 改良装置	gǎi liáng zhuāng zhì
@@ -1894,6 +1889,7 @@ Friston-3	friston
 教官	jiào guān
 焦急的“小躁”	jiāo jí de xiǎo zào
 剿灭	jiǎo miè
+剿灭代理卡	jiǎo miè dài lǐ kǎ
 剿灭作战	jiǎo miè zuò zhàn
 教母的信物	jiào mǔ de xìn wù
 狡兽	jiǎo shòu
@@ -1968,12 +1964,15 @@ Friston-3	friston
 锦泰	jǐn tài
 金糖年糕	jīn táng nián gāo
 近卫	jìn wèi
+近卫传承信物	jìn wèi chuán chéng xìn wù
+近卫皇家信物	jìn wèi huáng jiā xìn wù
 近卫进阶券	jìn wèi jìn jiē quàn
 近卫军帽	jìn wèi jūn mào
 近卫双芯片	jìn wèi shuāng xīn piàn
 近卫芯片	jìn wèi xīn piàn
 近卫芯片组	jìn wèi xīn piàn zǔ
 近卫芯片组印刻仪	jìn wèi xīn piàn zǔ yìn kè yí
+近卫遗产信物	jìn wèi yí chǎn xìn wù
 紧握铳柄	jǐn wò chòng bǐng
 今昔须臾之梦	jīn xī xū yú zhī mèng
 金羽兽	jīn yǔ shòu
@@ -2081,11 +2080,14 @@ Friston-3	friston
 聚集	jù jí
 狙击步兵	jū jī bù bīng
 狙击步兵组长	jū jī bù bīng zǔ zhǎng
+狙击传承信物	jū jī chuán chéng xìn wù
+狙击皇家信物	jū jī huáng jiā xìn wù
 狙击进阶券	jū jī jìn jiē quàn
 狙击双芯片	jū jī shuāng xīn piàn
 狙击芯片	jū jī xīn piàn
 狙击芯片组	jū jī xīn piàn zǔ
 狙击芯片组印刻仪	jū jī xīn piàn zǔ yìn kè yí
+狙击遗产信物	jū jī yí chǎn xìn wù
 聚焦	jù jiāo
 聚焦指令	jù jiāo zhǐ lìng
 巨壳藤蔓	jù ké téng wàn
@@ -2358,6 +2360,7 @@ Lancet-2	lancet
 蕾缪安	lěi móu ān
 雷姆必拓	léi mǔ bì tuò
 雷姆必拓西瓜蛋糕	léi mǔ bì tuò xī guā dàn gāo
+类凝结核	lèi níng jié hé
 垒沙	lěi shā
 雷蛇	léi shé
 镭射穿凿	léi shè chuān záo
@@ -2757,6 +2760,7 @@ Lancet-2	lancet
 木制瑞印	mù zhì ruì yìn
 木制镇纸	mù zhì zhèn zhǐ
 娜仁图亚	nà rén tú yà
+娜斯提	nà sī tí
 娜塔莉娅	nà tǎ lì yà
 奶油冰淇淋	nǎi yóu bīng qí lín
 奶油夹心饼干	nǎi yóu jiā xīn bǐng gān
@@ -3547,6 +3551,7 @@ PhonoR-0	phonor
 失乐园	shī lè yuán
 试炼经验	shì liàn jīng yàn
 十连寻访凭证	shí lián xún fǎng píng zhèng
+十连中坚寻访凭证	shí lián zhòng jiān xún fǎng píng zhèng
 食粮烹制	shí liáng pēng zhì
 矢量突破	shǐ liàng tū pò
 食梦	shí mèng
@@ -3612,6 +3617,7 @@ PhonoR-0	phonor
 守望远方	shǒu wàng yuǎn fāng
 守卫	shǒu wèi
 守卫尖碑	shǒu wèi jiān bēi
+手性屈光体	shǒu xìng qū guāng tǐ
 首演	shǒu yǎn
 受验者	shòu yàn zhě
 首言者	shǒu yán zhě
@@ -3634,6 +3640,8 @@ PhonoR-0	phonor
 熟稔	shú rěn
 疏散平民	shū sàn píng mín
 术师	shù shī
+术师传承信物	shù shī chuán chéng xìn wù
+术师皇家信物	shù shī huáng jiā xìn wù
 术师进阶券	shù shī jìn jiē quàn
 术师快艇	shù shī kuài tǐng
 术师囚犯	shù shī qiú fàn
@@ -3641,6 +3649,7 @@ PhonoR-0	phonor
 术师芯片	shù shī xīn piàn
 术师芯片组	shù shī xīn piàn zǔ
 术师芯片组印刻仪	shù shī xīn piàn zǔ yìn kè yí
+术师遗产信物	shù shī yí chǎn xìn wù
 术式转换	shù shì zhuǎn huàn
 术师组长	shù shī zǔ zhǎng
 鼠王	shǔ wáng
@@ -3758,12 +3767,12 @@ PhonoR-0	phonor
 宿愿	sù yuàn
 夙愿将偿	sù yuàn jiāng cháng
 速战速决	sù zhàn sù jué
-宿主重装士兵	sù zhǔ chóng zhuāng shì bīng
-宿主重装组长	sù zhǔ chóng zhuāng zǔ zhǎng
 宿主流浪者	sù zhǔ liú làng zhě
 宿主士兵	sù zhǔ shì bīng
 宿主士兵组长	sù zhǔ shì bīng zǔ zhǎng
 宿主拾荒者	sù zhǔ shí huāng zhě
+宿主重装士兵	sù zhǔ zhòng zhuāng shì bīng
+宿主重装组长	sù zhǔ zhòng zhuāng zǔ zhǎng
 酸糖	suān táng
 酸液源石虫	suān yè yuán shí chóng
 碎靶之手	suì bǎ zhī shǒu
@@ -3875,11 +3884,14 @@ PhonoR-0	phonor
 特战术师组长	tè zhàn shù shī zǔ zhǎng
 特制水上平台	tè zhì shuǐ shàng píng tái
 特种	tè zhǒng
+特种传承信物	tè zhǒng chuán chéng xìn wù
+特种皇家信物	tè zhǒng huáng jiā xìn wù
 特种进阶券	tè zhǒng jìn jiē quàn
 特种双芯片	tè zhǒng shuāng xīn piàn
 特种芯片	tè zhǒng xīn piàn
 特种芯片组	tè zhǒng xīn piàn zǔ
 特种芯片组印刻仪	tè zhǒng xīn piàn zǔ yìn kè yí
+特种遗产信物	tè zhǒng yí chǎn xìn wù
 特种战演习	tè zhǒng zhàn yǎn xí
 疼痛增幅	téng tòng zēng fú
 藤蔓炮手	téng wàn pào shǒu
@@ -3888,6 +3900,7 @@ THRM-EX	thrmex
 提纯源岩	tí chún yuán yán
 提丰	tí fēng
 体能强化	tǐ néng qiáng huà
+缇缇	tí tí
 提亚卡乌	tí yà kǎ wū
 提亚卡乌大巫	tí yà kǎ wū dà wū
 提亚卡乌冠军	tí yà kǎ wū guàn jūn
@@ -3907,6 +3920,7 @@ THRM-EX	thrmex
 天赋	tiān fù
 天火	tiān huǒ
 天际线	tiān jì xiàn
+天空盒	tiān kōng hé
 天马视域	tiān mǎ shì yù
 甜美派对	tián měi pài duì
 甜蜜狂搅	tián mì kuáng jiǎo
@@ -4117,6 +4131,7 @@ THRM-EX	thrmex
 微笑必达	wēi xiào bì dá
 未消之恨	wèi xiāo zhī hèn
 维续补丁	wéi xù bǔ dīng
+未许之地	wèi xǔ zhī dì
 魏彦吾	wèi yàn wú
 位移	wèi yí
 未雨绸缪	wèi yǔ chóu móu
@@ -4334,13 +4349,16 @@ THRM-EX	thrmex
 掀地板	xiān dì bǎn
 先发制人	xiān fā zhì rén
 先锋	xiān fēng
+先锋传承信物	xiān fēng chuán chéng xìn wù
 先锋工程	xiān fēng gōng chéng
+先锋皇家信物	xiān fēng huáng jiā xìn wù
 先锋建筑	xiān fēng jiàn zhù
 先锋进阶券	xiān fēng jìn jiē quàn
 先锋双芯片	xiān fēng shuāng xīn piàn
 先锋芯片	xiān fēng xīn piàn
 先锋芯片组	xiān fēng xīn piàn zǔ
 先锋芯片组印刻仪	xiān fēng xīn piàn zǔ yìn kè yí
+先锋遗产信物	xiān fēng yí chǎn xìn wù
 先进工艺	xiān jìn gōng yì
 陷阱	xiàn jǐng
 陷阱部署	xiàn jǐng bù shǔ
@@ -4379,6 +4397,7 @@ THRM-EX	thrmex
 乡间路带我回家	xiāng jiān lù dài wǒ huí jiā
 镶金骨骰	xiāng jīn gǔ tóu
 香辣火炉	xiāng là huǒ lú
+响石	xiǎng shí
 香香鹿	xiāng xiāng lù
 乡心无改	xiāng xīn wú gǎi
 箱形恐鱼	xiāng xíng kǒng yú
@@ -4429,6 +4448,7 @@ THRM-EX	thrmex
 蟹蟹抽水泵	xiè xiè chōu shuǐ bèng
 邪异囚笼	xié yì qiú lóng
 写意胜形	xiě yì shèng xíng
+撷英调香师	xié yīng tiáo xiāng shī
 协助隐藏	xié zhù yǐn cáng
 新编	xīn biān
 新部族	xīn bù zú
@@ -4574,6 +4594,7 @@ THRM-EX	thrmex
 削弱	xuē ruò
 削弱者	xuē ruò zhě
 血色乐章	xuè sè yuè zhāng
+雪山降临	xuě shān jiàng lín
 雪山上的来客	xuě shān shàng de lái kè
 学识	xué shí
 雪祀	xuě sì
@@ -4643,6 +4664,7 @@ THRM-EX	thrmex
 亚历山大	yà lì shān dà
 压力之下	yā lì zhī xià
 雅气	yǎ qì
+雅赛努斯复仇记	yǎ sài nǔ sī fù chóu jì
 雅特利亚斯	yǎ tè lì yà sī
 崖心	yá xīn
 崖心的烧烤味饼干	yá xīn de shāo kǎo wèi bǐng gān
@@ -4787,6 +4809,8 @@ THRM-EX	thrmex
 一块肉排	yí kuài ròu pái
 伊莱亚斯	yī lái yà sī
 医疗	yī liáo
+医疗传承信物	yī liáo chuán chéng xìn wù
+医疗皇家信物	yī liáo huáng jiā xìn wù
 医疗进阶券	yī liáo jìn jiē quàn
 医疗力场	yī liáo lì chǎng
 医疗双芯片	yī liáo shuāng xīn piàn
@@ -4795,6 +4819,7 @@ THRM-EX	thrmex
 医疗芯片	yī liáo xīn piàn
 医疗芯片组	yī liáo xīn piàn zǔ
 医疗芯片组印刻仪	yī liáo xīn piàn zǔ yìn kè yí
+医疗遗产信物	yī liáo yí chǎn xìn wù
 异路相对	yì lù xiāng duì
 异卵同生	yì luǎn tóng shēng
 遗落之帜	yí luò zhī zhì
@@ -5331,6 +5356,7 @@ THRM-EX	thrmex
 中坚	zhōng jiān
 重剑手	zhòng jiàn shǒu
 中坚术师	zhōng jiān shù shī
+中坚寻访凭证	zhōng jiān xún fǎng píng zhèng
 终结连射	zhōng jié lián shè
 重进酒	zhòng jìn jiǔ
 终局倒计时	zhōng jú dǎo jì shí
@@ -5344,16 +5370,29 @@ THRM-EX	thrmex
 重射手	zhòng shè shǒu
 众生行记	zhòng shēng xíng jì
 中枢核心	zhōng shū hé xīn
+重相位对映体	zhòng xiàng wèi duì yìng tǐ
 中心广场	zhōng xīn guǎng chǎng
 重型音乐选集	zhòng xíng yīn yuè xuǎn jí
 重型沼泽探照车	zhòng xíng zhǎo zé tàn zhào chē
 中央通道	zhōng yāng tōng dào
 忠义	zhōng yì
 种因	zhǒng yīn
-重岳	zhòng yuè
 重症优先	zhòng zhèng yōu xiān
 种植	zhòng zhí
 种植箱集群	zhòng zhí xiāng jí qún
+重装	zhòng zhuāng
+重装传承信物	zhòng zhuāng chuán chéng xìn wù
+重装防御者	zhòng zhuāng fáng yù zhě
+重装防御组长	zhòng zhuāng fáng yù zǔ zhǎng
+重装皇家信物	zhòng zhuāng huáng jiā xìn wù
+重装进阶券	zhòng zhuāng jìn jiē quàn
+重装双芯片	zhòng zhuāng shuāng xīn piàn
+重装五十夫长	zhòng zhuāng wǔ shí fū zhǎng
+重装芯片	zhòng zhuāng xīn piàn
+重装芯片组	zhòng zhuāng xīn piàn zǔ
+重装芯片组印刻仪	zhòng zhuāng xīn piàn zǔ yìn kè yí
+重装遗产信物	zhòng zhuāng yí chǎn xìn wù
+重装侦察兵	zhòng zhuāng zhēn chá bīng
 轴承与火星	zhóu chéng yǔ huǒ xīng
 周年庆典干员凭证	zhōu nián qìng diǎn gàn yuán píng zhèng
 咒愈师	zhòu yù shī
