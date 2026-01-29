@@ -20,8 +20,8 @@ patch:
     symbols:
       __include: symbols_v:/symbols         # 从 symbols_v.yaml 导入配置
   recognizer/patterns/punct: "^v([0-9]|10|[A-Za-z]+)$"    # 响应 symbols_v.yaml 的 symbols
-  # 尝试修改分隔符
-  speller/delimiter: " `'‘’"
+  # 修改分隔符为引号
+  speller/delimiter: " '"
   # 修改快捷键绑定
   key_binder/=:
     import_preset: default
