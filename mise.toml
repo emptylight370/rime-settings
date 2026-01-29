@@ -2,16 +2,14 @@
 python.uv_venv_auto = true
 
 [tools]
+python = "3.13"
 uv = "latest"
 
 [env]
 _.python.venv = { path = ".venv" }
+UV_PYTHON_DOWNLOADS = "never"
 
 [tasks.uv_init]
 confirm = "Are you sure you don't have a .venv folder?"
 description = "Create virtual environment"
-run = "uv venv .venv"
-
-[tasks.get_python]
-description = "Sync Python installed by uv to mise"
-run = "mise sync python --uv"
+run = "uv venv"

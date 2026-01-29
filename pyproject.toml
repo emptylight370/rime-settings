@@ -5,3 +5,6 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13.11"
 dependencies = []
+
+[tool.uv.pip]
+index-url = "https://pypi.tuna.tsinghua.edu.cn/simple"
