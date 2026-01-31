@@ -5,7 +5,7 @@
 # 建议自定义短语或者词语追加在这里
 ---
 name: honkai_3rd
-version: "2026.01.20"
+version: "2026.01.31"
 sort: original
 ...
 
@@ -3902,6 +3902,7 @@ sort: original
 无量塔姬子	wú liàng tǎ jī zǐ
 无论何时都会回应期待	wú lùn hé shí dōu huì huí yìng qī dài
 武略	wǔ lüè
+无冕独裁官	wú miǎn dú cái guān
 无名王者	wú míng wáng zhě
 物品	wù pǐn
 武器	wǔ qì
@@ -4059,6 +4060,8 @@ sort: original
 相位穿梭	xiàng wèi chuān suō
 相位穿行	xiàng wèi chuān xíng
 相位裂隙	xiàng wèi liè xì
+相偕之契	xiāng xié zhī qì
+相偕之契·永远	xiāng xié zhī qì yǒng yuǎn
 祥云轻烟聚	xiáng yún qīng yān jù
 祥云轻烟散	xiáng yún qīng yān sàn
 祥云轻烟升	xiáng yún qīng yān shēng
