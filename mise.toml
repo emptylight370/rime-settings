@@ -2,6 +2,7 @@
 python.uv_venv_auto = true
 
 [tools]
+"pipx:yapf" = "latest"
 python = "3.13"
 uv = "latest"
 

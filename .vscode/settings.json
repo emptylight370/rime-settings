@@ -1,0 +1,9 @@
+{
+  "yapf.args": [
+    "--style",
+    "{allow_multiline_dictionary_keys:True,allow_multiline_lambdas:True,arithmetic_precedence_indication:True,blank_lines_around_top_level_definition:2,blank_line_before_nested_class_or_def:False,coalesce_brackets:True,column_limit:120,dedent_closing_brackets:True,indent_dictionary_value:True,split_all_top_level_comma_separated_values:true,split_arguments_when_comma_terminated:True,split_before_closing_bracket:False,split_before_dot:True}"
+  ],
+  "yapf.cellMagics": [
+    "[\"matplotlib inline\"]"
+  ]
+}
