@@ -1,5 +1,5 @@
 [settings]
-python.uv_venv_auto = true
+python.uv_venv_auto = "create|source"
 
 [tools]
 "pipx:yapf" = "latest"
@@ -7,10 +7,6 @@ python = "3.13"
 uv = "latest"
 
 [env]
-_.python.venv = { path = ".venv" }
 UV_PYTHON_DOWNLOADS = "never"
 
-[tasks.uv_init]
-confirm = "Are you sure you don't have a .venv folder?"
-description = "Create virtual environment"
-run = "uv venv"
+[prepare.uv]
