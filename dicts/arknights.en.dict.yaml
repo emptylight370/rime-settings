@@ -1,0 +1,15 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# 明日方舟相关词库中英文词条
+---
+name: arknights
+version: "2026.02.07"
+sort: original
+...
+
+Castle-3	castle
+Friston-3	friston
+Lancet-2	lancet
+PhonoR-0	phonor
+THRM-EX	thrmex

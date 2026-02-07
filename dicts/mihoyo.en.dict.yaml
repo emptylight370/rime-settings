@@ -1,0 +1,13 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# 米哈游相关游戏词库中英文词条
+---
+name: mihoyo.en
+version: "2026.02.07"
+sort: original
+...
+
+Archer	Archer
+Saber	Saber
+Aedes Elysiae	aedeselysiae

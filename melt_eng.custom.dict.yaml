@@ -1,6 +1,6 @@
 ---
 name: melt_eng.custom       # 注意name和文件名一致
-version: "2024.12"
+version: "2026.02"
 sort: by_weight
 use_preset_vocabulary: true
 # 此处为 输入法所用到的词库，既补充拓展词库的地方
@@ -8,5 +8,8 @@ import_tables:
   - dicts/rime_ice.en_ext   # 雾凇拼音-英文扩展
   - dicts/rime_ice.en       # 雾凇拼音-英文Base
   - dicts/en_extend         # 扩展英文词库
+  - dicts/mihoyo.en         # 米哈游相关词库英文词汇
+  - dicts/arknights.en      # 鹰角相关词库英文词汇
+  - dicts/lobotomy.en       # 脑叶公司相关词库英文词汇
  # - easy_en # Easy-en基础
 ...

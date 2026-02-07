@@ -7,21 +7,16 @@
 # 脑叶公司系列词条扩展，现在已经包含脑叶公司、废墟图书馆内容，以后会添加巴士的词条
 ---
 name: lobotomy
-version: "2026.01.20"
+version: "2026.02.07"
 sort: original
 ...
 
-A公司	a gōng sī
 爱慕	ài mù
 爱娜温	ài nà wēn
-# ALEPH	aleph
 安保部	ān bǎo bù
 黯胧	àn lóng
 昂首阔步的信念	áng shǒu kuò bù de xìn niàn
 奥兹玛	ào zī mǎ
-# Asiyah	asiyah
-# Atziluth	atziluth
-B公司	b gōng sī
 白色伤害	bái sè shāng hài
 白雪公主的苹果	bái xuě gōng zhǔ de píng guǒ
 白夜	bái yè
@@ -36,21 +31,16 @@ B公司	b gōng sī
 碧蓝新星	bì lán xīn xīng
 臂章	bì zhāng
 别碰我	bié pèng wǒ
-# Binah	binah
 冰雪女皇	bīng xuě nǚ huáng
-# Birah	birah
 波迪	bō dí
 薄暝	bo míng
 部门常驻奖励	bù mén cháng zhù jiǎng lì
-C公司	c gōng sī
 惨白	cǎn bái
 惨白的黄昏	cǎn bái de huáng hūn
 惨白的考验	cǎn bái de kǎo yàn
 惨白的黎明	cǎn bái de lí míng
 惨白的午夜	cǎn bái de wǔ yè
 惨白的正午	cǎn bái de zhèng wǔ
-# Carmen	carmen
-# "CENSORED"	censored
 常驻加成	cháng zhù jiā chéng
 常驻奖励	cháng zhù jiǎng lì
 常驻员工	cháng zhù yuán gōng
@@ -61,7 +51,6 @@ C公司	c gōng sī
 惩戒部	chéng jiè bù
 惩戒鸟	chéng jiè niǎo
 成长速度	chéng zhǎng sù dù
-# Chesed	chesed
 赤瞳	chì tóng
 持续使用型	chí xù shǐ yòng xíng
 持续使用型工具异想体	chí xù shǐ yòng xíng gōng jù yì xiǎng tǐ
@@ -80,7 +69,6 @@ C公司	c gōng sī
 大坏狼	dà huài láng
 打击架势	dǎ jī jià shì
 大鸟	dà niǎo
-# Da capo	dacapo
 单次使用型	dān cì shǐ yòng xíng
 单次使用型工具异想体	dān cì shǐ yòng xíng gōng jù yì xiǎng tǐ
 胆小的猫咪	dǎn xiǎo de māo mī
@@ -97,12 +85,6 @@ C公司	c gōng sī
 都市恶疾	dū shì è jí
 都市怪谈	dū shì guài tán
 都市之星	dū shì zhī xīng
-E.G.O	ego
-E.G.O饰品	ego shì pǐn
-E.G.O书页	ego shū yè
-E.G.O修复	ego xiū fù
-E.G.O展现	ego zhǎn xiàn
-E.G.O装备	ego zhuāng bèi
 二次提取	èr cì tí qǔ
 二级警报	èr jí jǐng bào
 伐木者	fá mù zhě
@@ -126,14 +108,11 @@ E.G.O装备	ego zhuāng bèi
 福利部	fú lì bù
 负面情感硬币	fù miàn qíng gǎn yìng bì
 腐蚀	fǔ shí
-# Furioso	furioso
 改良再生反应堆	gǎi liáng zài shēng fǎn yìng duī
 高阶事务所	gāo jiē shì wù suǒ
 歌唱机	gē chàng jī
 个人情感等级	gè rén qíng gǎn děng jí
 割腕者	gē wàn zhě
-# Geburah	geburah
-G.O可视化	go kě shì huà
 攻击速度	gōng jī sù dù
 攻击骰子	gōng jī tóu zi
 工作成功率	gōng zuò chéng gōng lǜ
@@ -146,7 +125,6 @@ G.O可视化	go kě shì huà
 光之种	guāng zhī zhǒng
 归家的路途	guī jiā de lù tú
 归家的路途与胆小的猫咪	guī jiā de lù tú yǔ dǎn xiǎo de māo mī
-# HE	he
 核心书页	hé xīn shū yè
 核心抑制	hé xīn yì zhì
 核心抑制条件	hé xīn yì zhì tiáo jiàn
@@ -154,8 +132,6 @@ G.O可视化	go kě shì huà
 黑天鹅	hēi tiān é
 黑天鹅之梦	hēi tiān é zhī mèng
 黑焰	hēi yàn
-# Hod	hod
-# Hokma	hokma
 红色伤害	hóng sè shāng hài
 红舞鞋	hóng wǔ xié
 后巷	hòu xiàng
@@ -202,12 +178,10 @@ G.O可视化	go kě shì huà
 决死之心	jué sǐ zhī xīn
 绝望骑士	jué wàng qí shì
 觉醒异想体书页	jué xǐng yì xiǎng tǐ shū yè
-K公司	k gōng sī
 开放进度	kāi fàng jìn dù
 开始欢呼吧！	kāi shǐ huān hū ba
 科技层	kē jì céng
 渴望之心	kě wàng zhī xīn
-# Kether	kether
 恐慌员工	kǒng huāng yuán gōng
 恐惧伤害	kǒng jù shāng hài
 空虚之梦	kōng xū zhī mèng
@@ -215,8 +189,6 @@ K公司	k gōng sī
 快乐泰迪	kuài lè tài dí
 狂热崇拜	kuáng rè chóng bài
 傀儡线	kuǐ lěi xiàn
-L巢	l cháo
-L公司	l gōng sī
 来宾	lái bīn
 来宾死亡	lái bīn sǐ wáng
 蓝色熔毁	lán sè róng huǐ
@@ -227,7 +199,6 @@ L公司	l gōng sī
 历史层	lì shǐ céng
 联合指挥	lián hé zhǐ huī
 猎头长耙	liè tóu cháng bà
-LOB点数	lob diǎn shù
 楼层解放战	lóu céng jiě fàng zhàn
 陆生鮟鱇	lù shēng àn kāng
 裸巢	luǒ cháo
@@ -239,7 +210,6 @@ LOB点数	lob diǎn shù
 绿色的午夜	lǜ sè de wǔ yè
 绿色的正午	lǜ sè de zhèng wǔ
 绿色枝干	lǜ sè zhī gàn
-# Malkuth	malkuth
 盲眼怒火	máng yǎn nù huǒ
 美女和野兽	měi nǚ hé yě shòu
 美味苏打	měi wèi sū dá
@@ -252,9 +222,7 @@ LOB点数	lob diǎn shù
 脑啡肽	nǎo fēi tài
 脑叶	nǎo yè
 脑叶公司	nǎo yè gōng sī
-NE-BOX	nebox
 内在勇气	nèi zài yǒng qì
-# Netzach	netzach
 你必须要幸福	nǐ bì xū yào xìng fú
 逆卡巴拉能量	nì kǎ bā lā néng liàng
 逆卡巴拉能量干扰立场	nì kǎ bā lā néng liàng gān rǎo lì chǎng
@@ -267,7 +235,6 @@ NE-BOX	nebox
 凝视者	níng shì zhě
 怒涛	nù tāo
 诺斯费拉图	nuò sī fèi lā tú
-PE-BOX	pebox
 培训部	péi xùn bù
 匹夫之勇	pǐ fū zhī yǒng
 匹诺曹	pǐ nuò cáo
@@ -293,7 +260,6 @@ PE-BOX	pebox
 请给我们爱！！！	qǐng gěi wǒ men ài
 求知的稻草人	qiú zhī de dào cǎo rén
 群体书页	qún tǐ shū yè
-R公司	r gōng sī
 热心的樵夫	rè xīn de qiáo fū
 人皮启示录	rén pí qǐ shì lù
 任务	rèn wù
@@ -309,7 +275,6 @@ R公司	r gōng sī
 三级警报	sān jí jǐng bào
 3月27日的避难所	sān yuè èr shí qī rì de bì nàn suǒ
 色彩级收尾人	sè cǎi jí shōu wěi rén
-# Sephirah	sephirah
 杀人兔	shā rén tù
 闪避骰子	shǎn bì tóu zi
 闪金冲锋	shǎn jīn chōng fēng
@@ -337,7 +302,6 @@ R公司	r gōng sī
 收容单元	shōu róng dān yuán
 收尾人	shōu wěi rén
 收尾人事务所	shōu wěi rén shì wù suǒ
-"CENSORED"	shù jù shān chú
 霜凌	shuāng líng
 霜之碎片	shuāng zhī suì piàn
 说谎的大人	shuō huǎng de dà rén
@@ -351,19 +315,15 @@ R公司	r gōng sī
 贪婪国王	tān lán guó wáng
 贪婪女王	tān lán nǚ wáng
 特蕾西娅	tè lěi xī yà
-TETH	teth
 天启鸟	tiān qǐ niǎo
 调律者	tiáo lǜ zhě
-# Tiphereth	tiphereth
 同行之路	tóng xíng zhī lù
 统御之美	tǒng yù zhī měi
-TT2协议	tt èr xié yì
 突刺	tū cì
 突刺架势	tū cì jià shì
 兔子雇佣兵	tù zi gù yōng bīng
 脱落之皮	tuō luò zhī pí
 亡蝶葬仪	wáng dié zàng yí
-WAW	waw
 韦尔奇乐牌汽水	wéi ěr qí lè pái qì shuǐ
 微光手镯	wēi guāng shǒu zhuó
 威力无效	wēi lì wú xiào
@@ -420,7 +380,6 @@ WAW	waw
 要害识破	yào hài shí pò
 妖灵	yāo líng
 邀请函	yāo qǐng hán
-# Yesod	yesod
 以爱与恨之名	yǐ ài yǔ hèn zhī míng
 1.76兆赫	yī diǎn qī liù zhào hè
 移动速度	yí dòng sù dù
@@ -465,7 +424,6 @@ WAW	waw
 月亮计划	yuè liàng jì huà
 月日的避难所	yuè rì de bì nàn suǒ
 再生反应堆	zài shēng fǎn yìng duī
-ZAYIN	zayin
 憎恶皇后	zēng wù huáng hòu
 憎恶女王	zēng wù nǚ wáng
 战斗表徴	zhàn dòu biǎo zhēng
