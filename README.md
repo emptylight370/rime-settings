@@ -8,7 +8,7 @@
 
 配置过程和解析请看：[Website](https://blog.emptylight.cn/post/rime-input-method-configuration-z1snn)(addr:cn) 或 [GitHub Page](https://emptylight370.github.io/post/rime-input-method-configuration-z1snn)(addr:global but in chinese)
 
-Mirrors: [GitHub](https://github.com/emptylight370/rime-settings)(addr:global) or [Gitee](https://gitee.com/emptylight370/rime-settings)(addr:cn)
+Mirrors: Gitee 仓库因内容不适宜不允许公开。今后仅有 GitHub 仓库。
 
 ## 词典
 
