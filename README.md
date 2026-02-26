@@ -10,6 +10,8 @@
 
 Mirrors: Gitee 仓库因内容不适宜不允许公开。今后仅有 GitHub 仓库。
 
+导入了 [gkovacs/rime-japanese: 日语输入法 Input method for typing Japanese with RIME](https://github.com/gkovacs/rime-japanese) 作为日语输入法，做了一些适应性调整，跟原方案有些区别，但是因为日语未入门，大部分地方还是一样的。可自行通过方案名 `japanese` 启用。
+
 ## 词典
 
 自行导入了明日方舟、崩坏三、崩坏星穹铁道的词库。这些可以直接下载使用，自测没问题。并且我会不定期补充一些词条，同时也欢迎 Pull Request 补充词库词条。
