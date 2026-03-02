@@ -66,4 +66,7 @@ patch:
     mumunxdevice.exe:
       inline_preedit: false
     AdGuard.exe:
+      ascii_mode: true
       inline_preedit: false
+    ProcessLasso.exe:
+      ascii_mode: true
