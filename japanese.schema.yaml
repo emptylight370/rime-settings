@@ -5,11 +5,12 @@
 schema:
   schema_id: japanese
   name: 日本語
-  version: 'v0.2'
+  version: 'v0.2.1'
   author:
     - ensigma96 <ensigma96@gmail.com>
+    - emptylight370
   dependencies:
-    - terra_pinyin.extended # for using reverse lookup
+    # - terra_pinyin.extended # for using reverse lookup
     - stroke
 
 switches:
@@ -47,27 +48,28 @@ engine:
     - ascii_segmentor
     - matcher
     - abc_segmentor
-    - affix_segmentor@putonghua_to_kanji_lookup
-    - affix_segmentor@hannom_lookup
-    - affix_segmentor@hanja_lookup
+    # - affix_segmentor@putonghua_to_kanji_lookup
+    # - affix_segmentor@hannom_lookup
+    # - affix_segmentor@hanja_lookup
     - punct_segmentor
     - fallback_segmentor
   translators:
     - punct_translator
     - script_translator
     - reverse_lookup_translator
-    - script_translator@putonghua_to_kanji_lookup
-    - script_translator@hannom_lookup
-    - script_translator@hanja_lookup
+    # - script_translator@putonghua_to_kanji_lookup
+    # - script_translator@hannom_lookup
+    # - script_translator@hanja_lookup
+    - lua_translator@*force_gc                           # 暴力GC，尝试解决小狼毫长期使用的卡顿
   filters:
     - simplifier
     #- simplifier@jp_variants
     #- simplifier@zh_simp
     #- simplifier@zh_tw
     - uniquifier
-    - reverse_lookup_filter@putonghua_to_kanji_reverse_lookup
-    - reverse_lookup_filter@hannom_reverse_lookup
-    - reverse_lookup_filter@hanja_reverse_lookup
+    # - reverse_lookup_filter@putonghua_to_kanji_reverse_lookup
+    # - reverse_lookup_filter@hannom_reverse_lookup
+    # - reverse_lookup_filter@hanja_reverse_lookup
 
 speller:
   alphabet: 'zyxwvutsrqponmlkjihgfedcba-_'
@@ -90,7 +92,7 @@ translator:
 putonghua_to_kanji_lookup:
   tag: putonghua_to_kanji_lookup
   prefix: "`"  # 獨用jyutping_lookup反查在反查鍵「`」之後再鍵入〔大寫〕「J」
-  dictionary: terra_pinyin.extended
+  dictionary: terra_pinyin.extended # 没有这个方案，关闭反查
   prism: td_pinyin_flypy
   preedit_format:
     - xform/([bpmfdtnljqx])n/$1iao/
@@ -475,3 +477,6 @@ recognizer:
 #   option_name: jp_variants
 #   opencc_config: jp_t2s.json
 #   tips: none
+
+menu:
+  page_size: 9
