@@ -4,7 +4,9 @@ version = "0.0.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13.11"
-dependencies = []
+dependencies = [
+    "auto-py-to-exe>=2.50.0",
+]
 
 [[tool.uv.index]]
 name = "tsinghua"
