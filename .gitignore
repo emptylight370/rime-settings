@@ -212,3 +212,4 @@ pip-selfcheck.json
 scripts/*
 !scripts/*.py
 mise.local.toml
+mise.local.lock
