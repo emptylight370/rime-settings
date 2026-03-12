@@ -28,6 +28,30 @@ url = "https://github.com/astral-sh/python-build-standalone/releases/download/20
 checksum = "sha256:b73415a86dcf298a2f4a585c5371fb1cf003576d2bdc2b80a34d5321284b2ed4"
 url = "https://github.com/astral-sh/python-build-standalone/releases/download/20260211/cpython-3.13.12+20260211-x86_64-pc-windows-msvc-install_only_stripped.tar.gz"
 
+[[tools.upx]]
+version = "5.1.1"
+backend = "aqua:upx/upx"
+
+[tools.upx."platforms.linux-arm64"]
+checksum = "sha256:a307c2c821eeab47607ba5c232408b22ab884cca13884682508b98f7308b8443"
+url = "https://github.com/upx/upx/releases/download/v5.1.1/upx-5.1.1-arm64_linux.tar.xz"
+
+[tools.upx."platforms.linux-arm64-musl"]
+checksum = "sha256:a307c2c821eeab47607ba5c232408b22ab884cca13884682508b98f7308b8443"
+url = "https://github.com/upx/upx/releases/download/v5.1.1/upx-5.1.1-arm64_linux.tar.xz"
+
+[tools.upx."platforms.linux-x64"]
+checksum = "sha256:1ff660454227861e00772f743f66b900072116b9dc24f6ee28b97cce88a7828a"
+url = "https://github.com/upx/upx/releases/download/v5.1.1/upx-5.1.1-amd64_linux.tar.xz"
+
+[tools.upx."platforms.linux-x64-musl"]
+checksum = "sha256:1ff660454227861e00772f743f66b900072116b9dc24f6ee28b97cce88a7828a"
+url = "https://github.com/upx/upx/releases/download/v5.1.1/upx-5.1.1-amd64_linux.tar.xz"
+
+[tools.upx."platforms.windows-x64"]
+checksum = "sha256:fa5380bca4c2718547aaa0134bc0d8a7fa27e102f0ac6371573d60d1c21d64de"
+url = "https://github.com/upx/upx/releases/download/v5.1.1/upx-5.1.1-win64.zip"
+
 [[tools.uv]]
 version = "0.10.9"
 backend = "aqua:astral-sh/uv"

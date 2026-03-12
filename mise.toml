@@ -4,9 +4,14 @@ python.uv_venv_auto = "create|source"
 [tools]
 "pipx:yapf" = "latest"
 python = "3.13"
+upx = "latest"
 uv = "latest"
 
 [env]
 UV_PYTHON_DOWNLOADS = "never"
 
 [prepare.uv]
+
+[tasks.build]
+description = "Package python script into exe. Use o2 optimize."
+run = "auto-py-to-exe -c scripts/auto-py-to-exe.json -o scripts"
