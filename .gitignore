@@ -201,6 +201,8 @@ pyrightconfig.json
 scripts/*
 !scripts/*.py
 !scripts/auto-py-to-exe.json
+
 ## mise-en-place
 mise.local.toml
 mise.local.lock
+.mise/prepare-state.toml
