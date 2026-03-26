@@ -23,7 +23,7 @@ Mirrors: Gitee 仓库因内容不适宜不允许公开。今后仅有 GitHub 仓
 ### 词典处理流程
 
 1. 通过无注音拼音添加词条，得到 `_.dict.yaml` 文件。这个步骤不写拼音只写词条也可以，等下一步生成。
-2. 通过 [Release 万象词库-刷拼音-辅助码工具，在线更新方案 GUI](https://github.com/amzxyz/RIME-LMDG/releases/tag/tool) 处理一遍词库拼音，得到 `_.dict.pinyin.yaml` 文件（工具 `wanxiang-tools.exe`，更新于 2026/01/19 01:08（GMT+8））
+2. 通过 [Release 万象词库-刷拼音-辅助码工具，在线更新方案 GUI](https://github.com/amzxyz/RIME-LMDG/releases/tag/tool) 处理一遍词库拼音，得到 `_.dict.pinyin.yaml` 文件（工具 `wanxiang-tools.exe`，更新于 2026/03/26 10:54（GMT+8））
 3. 通过文件合并工具手动合并内容，不影响原有拼音，防止工具在未设置拼音参考时反复将多音字改错
 4. 通过排序工具排序词库
 5. 提交变更
@@ -44,7 +44,7 @@ Mirrors: Gitee 仓库因内容不适宜不允许公开。今后仅有 GitHub 仓
 
 根据[设置语言模型 | oh-my-rime 输入法](https://www.mintimate.cc/zh/guide/languageModel.html)导入万象拼音语言模型，由（目前 release 不可见的）旧版本模型转移至[长期支持版本模型](https://github.com/amzxyz/RIME-LMDG/releases/tag/LTS)。具体变更详见提交历史。
 
-现在使用的长期支持版本语言模型更新时间为：2026/01/28 18:24（GMT+8）。
+现在使用的长期支持版本语言模型更新时间为：2026/03/23 09:05（GMT+8）。
 
 # 导入
 
