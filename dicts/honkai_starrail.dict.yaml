@@ -5,7 +5,7 @@
 # 建议自定义短语或者词语追加在这里
 ---
 name: honkai_starrail
-version: "2026.02.24"
+version: "2026.03.26"
 sort: original
 ...
 
@@ -361,6 +361,7 @@ Aedes Elysiae	āi lì mì xiè
 焚影	fén yǐng
 纷争不休	fēn zhēng bù xiū
 纷争先兆	fēn zhēng xiān zhào
+纷争血尘	fēn zhēng xuè chén
 纷争之泰坦	fēn zhēng zhī tài tǎn
 风暴中怒放的花	fēng bào zhōng nù fàng de huā
 锋镝	fēng dí
@@ -442,6 +443,7 @@ Aedes Elysiae	āi lì mì xiè
 观察日记	guān chá rì jì
 棺的回响	guān de huí xiǎng
 冠军晚餐	guàn jūn wǎn cān
+观览云岛站	guān lǎn yún dǎo zhàn
 罐装快乐水	guàn zhuāng kuài lè shuǐ
 光巡天矢	guāng xún tiān shǐ
 光锥	guāng zhuī
@@ -537,6 +539,7 @@ Aedes Elysiae	āi lì mì xiè
 浣熊的谒者面具	huàn xióng de yè zhě miàn jù
 寰宇蝗灾	huán yǔ huáng zāi
 寰宇热寂特征数	huán yǔ rè jì tè zhēng shù
+幻月秘庭	huàn yuè mì tíng
 黄昏战争	huáng hūn zhàn zhēng
 黄金大地	huáng jīn dà dì
 黄金短矛	huáng jīn duǎn máo
@@ -605,6 +608,7 @@ Aedes Elysiae	āi lì mì xiè
 极端体验	jí duān tǐ yàn
 集会所的留言板	jí huì suǒ de liú yán bǎn
 寂静领主	jì jìng lǐng zhǔ
+机凯种	jī kǎi zhǒng
 机壳中的宇宙	jī ké zhōng de yǔ zhòu
 机狼之形	jī láng zhī xíng
 吉姆罗杰面包味汽水	jí mǔ luó jié miàn bāo wèi qì shuǐ
@@ -831,6 +835,7 @@ Aedes Elysiae	āi lì mì xiè
 灵感回路	líng gǎn huí lù
 灵感之钥	líng gǎn zhī yào
 领航员	lǐng háng yuán
+零号关卡朋克洛德	líng hào guān qiǎ péng kè luò dé
 玲可	líng kě
 凌乱草图	líng luàn cǎo tú
 灵砂	líng shā
@@ -946,6 +951,7 @@ Aedes Elysiae	āi lì mì xiè
 灭流绝溢的缄默	miè liú jué yì de jiān mò
 灭罪累生善	miè zuì lèi shēng shàn
 泯灭帮	mǐn miè bāng
+民用机凯	mín yòng jī kǎi
 明澈琉璃身	míng chè liú lí shēn
 溟簇之形	míng cù zhī xíng
 命定死因	mìng dìng sǐ yīn
@@ -978,6 +984,7 @@ Aedes Elysiae	āi lì mì xiè
 魔阴身士卒	mó yīn shēn shì zú
 魔阴武弁	mó yīn wǔ biàn
 貘泽	mò zé
+魔占之径	mó zhàn zhī jìng
 目标	mù biāo
 暮晖烬蕾	mù huī jìn lěi
 那刻夏	nà kè xià
@@ -1034,6 +1041,7 @@ Aedes Elysiae	āi lì mì xiè
 破坏性耀发	pò huài xìng yào fā
 破裂时	pò liè shí
 破碎残刃	pò suì cán rèn
+破晓战队	pò xiǎo zhàn duì
 扑满	pū mǎn
 普通战利品	pǔ tōng zhàn lì pǐn
 奇爱医生	qí ài yī shēng
@@ -1058,6 +1066,7 @@ Aedes Elysiae	āi lì mì xiè
 千门之城	qiān mén zhī chéng
 「千门之城」雅努萨波利斯	qiān mén zhī chéng yǎ nǔ sà bō lì sī
 千面变相	qiān miàn biàn xiàng
+千星荟萃之城	qiān xīng huì cuì zhī chéng
 强化祷言	qiáng huà dǎo yán
 强化膏	qiáng huà gāo
 切变结构	qiē biàn jié gòu
@@ -1354,6 +1363,7 @@ Aedes Elysiae	āi lì mì xiè
 同行任务	tóng xíng rèn wù
 同一种心情	tóng yī zhǒng xīn qíng
 同音共律的来日	tóng yīn gòng lǜ de lái rì
+童真蜡笔	tóng zhēn là bǐ
 偷闲摸鱼	tōu xián mō yú
 头晕目眩	tóu yūn mù xuàn
 屠魔之矢	tú mó zhī shǐ
@@ -1651,6 +1661,7 @@ Aedes Elysiae	āi lì mì xiè
 业务巩固部	yè wù gǒng gù bù
 野焰之径	yě yàn zhī jìng
 一杯酩酊的时代	yì bēi mǐng dǐng de shí dài
+一场谎言的终幕	yì chǎng huǎng yán de zhōng mù
 一场术后对话	yì chǎng shù hòu duì huà
 异宠拾遗	yì chǒng shí yí
 一次性动力臂	yí cì xìng dòng lì bì
@@ -1832,6 +1843,7 @@ Aedes Elysiae	āi lì mì xiè
 葬仪知宾	zàng yí zhī bīn
 早餐的仪式感	zǎo cān de yí shì gǎn
 造成	zào chéng
+造梦蘸钢	zào mèng zhàn gāng
 造物论及其他	zào wù lùn jí qí tā
 造物调试台	zào wù tiáo shì tái
 贼灵	zéi líng
@@ -1839,6 +1851,7 @@ Aedes Elysiae	āi lì mì xiè
 扎格列斯	zhā gé liè sī
 扎格列斯之手	zhā gé liè sī zhī shǒu
 战潮复归	zhàn cháo fù guī
+战魂血珀	zhàn hún xuè pò
 战技	zhàn jì
 战技点	zhàn jì diǎn
 战甲	zhàn jiǎ
@@ -1943,6 +1956,7 @@ Aedes Elysiae	āi lì mì xiè
 主目标	zhǔ mù biāo
 助燃券	zhù rán quàn
 助手涂鸦	zhù shǒu tú yā
+珠星大厦	zhū xīng dà shà
 蛀星的旧靥	zhù xīng de jiù yè
 诸行无常	zhū xíng wú cháng
 逐星之矢	zhú xīng zhī shǐ
