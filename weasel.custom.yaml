@@ -6,8 +6,8 @@ customization:
   rime_version: 1.11.2
 patch:
   show_notifications: false
-  style/candidate_list_layout: linear
-  style/horizontal: true
+  # style/horizontal: true
+  style/vertical_auto_reverse: true
   style/inline_preedit: true
   style/hover_type: semi_hilite
   app_options/+:
