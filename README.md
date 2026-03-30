@@ -8,8 +8,6 @@
 
 配置过程和解析请看：[Website](https://blog.emptylight.cn/post/rime-input-method-configuration-z1snn)(addr:cn) 或 [GitHub Page](https://emptylight370.github.io/post/rime-input-method-configuration-z1snn)(addr:global but in chinese)
 
-Mirrors: Gitee 仓库因内容不适宜不允许公开。今后仅有 GitHub 仓库。
-
 导入了 [gkovacs/rime-japanese: 日语输入法 Input method for typing Japanese with RIME](https://github.com/gkovacs/rime-japanese) 作为日语输入法，做了一些适应性调整，跟原方案有些区别，但是因为日语未入门，大部分地方还是一样的。可自行通过方案名 `japanese` 启用。
 
 ## 词典
@@ -42,7 +40,7 @@ Mirrors: Gitee 仓库因内容不适宜不允许公开。今后仅有 GitHub 仓
 
 ## 语言模型
 
-根据[设置语言模型 | oh-my-rime 输入法](https://www.mintimate.cc/zh/guide/languageModel.html)导入万象拼音语言模型，由（目前 release 不可见的）旧版本模型转移至[长期支持版本模型](https://github.com/amzxyz/RIME-LMDG/releases/tag/LTS)。具体变更详见提交历史。
+根据[设置语言模型 | oh-my-rime 输入法](https://www.mintimate.cc/zh/guide/languageModel.html)导入万象拼音语言模型，使用[长期支持版本模型](https://github.com/amzxyz/RIME-LMDG/releases/tag/LTS)。
 
 现在使用的长期支持版本语言模型更新时间为：2026/03/23 09:05（GMT+8）。
 
