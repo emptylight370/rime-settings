@@ -10,6 +10,9 @@ patch:
   style/vertical_auto_reverse: true
   style/inline_preedit: true
   style/hover_type: semi_hilite
+  style/label_font_point: 8
+  style/label_format: "%s>"
+  style/layout/shadow_radius: 4
   app_options/+:
     cmd.exe:
       ascii_mode: true
