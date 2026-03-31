@@ -5,8 +5,8 @@
 # 建议自定义短语或者词语追加在这里
 ---
 name: honkai_starrail
-version: "2026.03.26"
-sort: original
+version: "2026.04.01"
+sort: by_weight
 ...
 
 阿格莱雅	ā gé lái yǎ
@@ -141,6 +141,7 @@ Aedes Elysiae	āi lì mì xiè
 测不准匣	cè bù zhǔn xiá
 差分机	chā fēn jī
 差分宇宙	chā fēn yǔ zhòu
+差分宇宙·乐园漫记	chā fēn yǔ zhòu lè yuán màn jì
 差分宇宙·千面英雄	chā fēn yǔ zhòu qiān miàn yīng xióng
 差分宇宙·人间喜剧	chā fēn yǔ zhòu rén jiān xǐ jù
 长乐天	cháng lè tiān
