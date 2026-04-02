@@ -7,8 +7,8 @@
 # 脑叶公司系列词条扩展，现在已经包含脑叶公司、废墟图书馆内容，以后会添加巴士的词条
 ---
 name: lobotomy
-version: "2026.02.07"
-sort: original
+version: "2026.04.02"
+sort: by_weight
 ...
 
 爱慕	ài mù

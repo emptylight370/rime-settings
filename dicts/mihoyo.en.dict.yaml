@@ -4,8 +4,8 @@
 # 米哈游相关游戏词库中英文词条
 ---
 name: mihoyo.en
-version: "2026.02.07"
-sort: original
+version: "2026.04.02"
+sort: by_weight
 ...
 
 Archer	Archer
