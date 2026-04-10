@@ -22,7 +22,6 @@ def sort_rime_dict_yaml(file_path):
     对Rime输入法的YAML格式词库文件按拼音进行排序，并保留词频和注释行。
 
     :param file_path: 词库文件路径
-    :param backup_path: 备份词库文件路径
     """
     with open(file_path, 'r', encoding='utf-8') as file:
         lines = file.readlines()
