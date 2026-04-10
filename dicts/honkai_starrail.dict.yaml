@@ -5,7 +5,7 @@
 # 建议自定义短语或者词语追加在这里
 ---
 name: honkai_starrail
-version: "2026.04.01"
+version: "2026.04.11"
 sort: by_weight
 ...
 
@@ -313,6 +313,7 @@ Aedes Elysiae	āi lì mì xiè
 二维市	èr wéi shì
 二相乐园	èr xiàng lè yuán
 法吉娜	fǎ jí nà
+法吉娜之心	fǎ jí nà zhī xīn
 发条暴徒	fā tiáo bào tú
 发条兵人	fā tiáo bīng rén
 发条苹果	fā tiáo píng guǒ
@@ -474,6 +475,8 @@ Aedes Elysiae	āi lì mì xiè
 海洋之泰坦	hǎi yáng zhī tài tǎn
 海妖残鳍	hǎi yāo cán qí
 骇域漫游的信使	hài yù màn yóu de xìn shǐ
+海原电视塔	hǎi yuán diàn shì tǎ
+海原市	hǎi yuán shì
 寒潮的落幕	hán cháo de luò mù
 寒冬的战士们	hán dōng de zhàn shì men
 酣歌海垠	hān gē hǎi yín
@@ -538,8 +541,10 @@ Aedes Elysiae	āi lì mì xiè
 幻胧	huàn lóng
 幻梦的残片	huàn mèng de cán piàn
 浣熊的谒者面具	huàn xióng de yè zhě miàn jù
+欢迎来到银河城	huān yíng lái dào yín hé chéng
 寰宇蝗灾	huán yǔ huáng zāi
 寰宇热寂特征数	huán yǔ rè jì tè zhēng shù
+欢愉主	huān yú zhǔ
 幻月秘庭	huàn yuè mì tíng
 黄昏战争	huáng hūn zhàn zhēng
 黄金大地	huáng jīn dà dì
@@ -612,6 +617,8 @@ Aedes Elysiae	āi lì mì xiè
 机铠种	jī kǎi zhǒng
 机壳中的宇宙	jī ké zhōng de yǔ zhòu
 机狼之形	jī láng zhī xíng
+极乐颠倒	jí lè diān dǎo
+极乐颠倒·邪愿莲华主	jí lè diān dǎo xié yuàn lián huá zhǔ
 吉姆罗杰面包味汽水	jí mǔ luó jié miàn bāo wèi qì shuǐ
 击破敌方目标弱点	jī pò dí fāng mù biāo ruò diǎn
 击破伤害	jī pò shāng hài
@@ -786,6 +793,7 @@ Aedes Elysiae	āi lì mì xiè
 浪漫之泰坦	làng màn zhī tài tǎn
 老奥帝	lǎo ào dì
 老矿头的宝贝	lǎo kuàng tóu de bǎo bèi
+乐变化天人	lè biàn huà tiān rén
 乐圮	lè pǐ
 乐土	lè tǔ
 雷车动地	léi chē dòng dì
@@ -818,6 +826,7 @@ Aedes Elysiae	āi lì mì xiè
 量子大乐透	liàng zǐ dà lè tòu
 量子涟漪	liàng zǐ lián yī
 列车	liè chē
+列车改造奇遇	liè chē gǎi zào qí yù
 列车组	liè chē zǔ
 裂分之枝	liè fēn zhī zhī
 「裂分之枝」瑟希斯	liè fēn zhī zhī sè xī sī
@@ -970,6 +979,7 @@ Aedes Elysiae	āi lì mì xiè
 命运的足迹	mìng yùn de zú jì
 命运/今晚留下来	mìng yùn jīn wǎn liú xià lái
 命运相连	mìng yùn xiāng lián
+魔法少女急袭剧团	mó fǎ shào nǚ jí xí jù tuán
 末法余烬	mò fǎ yú jìn
 貘馍卷	mò mó juǎn
 末那芽苗	mò nà yá miáo
@@ -1505,6 +1515,8 @@ Aedes Elysiae	āi lì mì xiè
 小朋友的信	xiǎo péng you de xìn
 小小哈努行动	xiǎo xiǎo hā nǔ xíng dòng
 小伊卡	xiǎo yī kǎ
+邂逅于下一个花季	xiè hòu yú xià yí gè huā jì
+邪愿莲华主	xié yuàn lián huá zhǔ
 谐乐静默之后	xié yuè jìng mò zhī hòu
 谐乐小调	xié yuè xiǎo diào
 谐乐众弦	xié yuè zhòng xián
@@ -1763,6 +1775,7 @@ Aedes Elysiae	āi lì mì xiè
 幽府之形	yōu fǔ zhī xíng
 有龙矫矫	yǒu lóng jiǎo jiǎo
 有龙矫矫其渊渺渺	yǒu lóng jiǎo jiǎo qí yuān miǎo miǎo
+幽梦翩跹	yōu mèng piān xiān
 幽冥之径	yōu míng zhī jìng
 游牧矿工	yóu mù kuàng gōng
 幽囚狱	yōu qiú yù
