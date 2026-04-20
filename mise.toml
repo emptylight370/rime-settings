@@ -10,7 +10,7 @@ uv = "latest"
 [env]
 UV_PYTHON_DOWNLOADS = "never"
 
-[prepare.uv]
+[deps.uv]
 
 [tasks.build]
 description = "Package python script into exe. Use o2 optimize."
