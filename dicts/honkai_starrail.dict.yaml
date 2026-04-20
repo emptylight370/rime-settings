@@ -5,7 +5,7 @@
 # 建议自定义短语或者词语追加在这里
 ---
 name: honkai_starrail
-version: "2026.04.11"
+version: "2026.04.20"
 sort: by_weight
 ...
 
@@ -620,6 +620,7 @@ Aedes Elysiae	āi lì mì xiè
 极乐颠倒	jí lè diān dǎo
 极乐颠倒·邪愿莲华主	jí lè diān dǎo xié yuàn lián huá zhǔ
 吉姆罗杰面包味汽水	jí mǔ luó jié miàn bāo wèi qì shuǐ
+纪念手办	jì niàn shǒu bàn
 击破敌方目标弱点	jī pò dí fāng mù biāo ruò diǎn
 击破伤害	jī pò shāng hài
 击破绳	jī pò shéng
@@ -895,6 +896,7 @@ Aedes Elysiae	āi lì mì xiè
 律法之泰坦	lǜ fǎ zhī tài tǎn
 旅情见闻	lǚ qíng jiàn wén
 旅情事记	lǚ qíng shì jì
+旅途照片	lǚ tú zhào piān
 旅途正在继续	lǚ tú zhèng zài jì xù
 掠夺的本能	lüè duó de běn néng
 掠夺者	lüè duó zhě
@@ -957,6 +959,7 @@ Aedes Elysiae	āi lì mì xiè
 宓堂空境	mì táng kōng jìng
 迷惘	mí wǎng
 谜语人	mí yǔ rén
+喵伴新程	miāo bàn xīn chéng
 庙趣满堂	miào qù mǎn táng
 灭流绝溢的缄默	miè liú jué yì de jiān mò
 灭罪累生善	miè zuì lèi shēng shàn
@@ -1027,6 +1030,7 @@ Aedes Elysiae	āi lì mì xiè
 欧洛尼斯奇迹	ōu luò ní sī qí jì
 欧洛尼斯神龛	ōu luò ní sī shén kān
 帕姆	pà mǔ
+帕姆帮帮	pà mǔ bāng bāng
 帕姆衣帽间	pà mǔ yī mào jiān
 派对车厢	pài duì chē xiāng
 派系	pài xì
@@ -1133,6 +1137,7 @@ Aedes Elysiae	āi lì mì xiè
 《绒绒号》手绘分镜稿	róng róng hào shǒu huì fēn jìng gǎo
 熔岩锻铸的火匠	róng yán duàn zhù de huǒ jiàng
 荣耀	róng yào
+荣誉勋章	róng yù xūn zhāng
 如果时间是一朵花	rú guǒ shí jiān shì yì duǒ huā
 如果在冬夜	rú guǒ zài dōng yè
 入梦池	rù mèng chí
@@ -1240,6 +1245,7 @@ Aedes Elysiae	āi lì mì xiè
 识之花	shí zhī huā
 识之花幼体	shí zhī huā yòu tǐ
 施诸愿印	shī zhū yuàn yìn
+收藏展柜	shōu cáng zhǎn guì
 兽棺之钉	shòu guān zhī dīng
 守护者的悲愿	shǒu hù zhě de bēi yuàn
 守护者之影	shǒu hù zhě zhī yǐng
@@ -1860,6 +1866,7 @@ Aedes Elysiae	āi lì mì xiè
 造梦蘸钢	zào mèng zhàn gāng
 造物论及其他	zào wù lùn jí qí tā
 造物调试台	zào wù tiáo shì tái
+造物箱	zào wù xiāng
 贼灵	zéi líng
 「贼灵」巴特鲁斯	zéi líng bā tè lǔ sī
 扎格列斯	zhā gé liè sī
@@ -1974,6 +1981,7 @@ Aedes Elysiae	āi lì mì xiè
 蛀星的旧靥	zhù xīng de jiù yè
 诸行无常	zhū xíng wú cháng
 逐星之矢	zhú xīng zhī shǐ
+专家顾问	zhuān jiā gù wèn
 转魄	zhuǎn pò
 专注	zhuān zhù
 状态	zhuàng tài
