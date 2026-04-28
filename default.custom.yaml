@@ -53,6 +53,8 @@ patch:
     - {accept: KP_Add,      send: plus,     when: composing}
     - {accept: KP_Subtract, send: minus,    when: composing}
     - {accept: KP_Divide,   send: slash,    when: composing}
+    # 将小键盘回车映射到主键盘回车
+    - {accept: KP_Enter,    send: Return,   when: composing}
   punctuator/full_shape/`: [ '`', '・' ]
   punctuator/full_shape/*: [ ＊, ×, ※, ❂ ]
   punctuator/half_shape/`: [ '`', '·' ]
