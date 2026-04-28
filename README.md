@@ -42,7 +42,7 @@
 
 根据[设置语言模型 | oh-my-rime 输入法](https://www.mintimate.cc/zh/guide/languageModel.html)导入万象拼音语言模型，使用[长期支持版本模型](https://github.com/amzxyz/RIME-LMDG/releases/tag/LTS)。
 
-现在使用的长期支持版本语言模型更新时间为：2026/04/07 22:44（GMT+8）。
+现在使用的长期支持版本语言模型更新时间为：2026/04/28 00:01（GMT+8）。
 
 # 导入
 
