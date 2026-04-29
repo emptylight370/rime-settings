@@ -15,10 +15,10 @@ patch:
   menu/page_size: 9
   ascii_composer/switch_key:
     Caps_Lock: commit_code
-    Shift_L: noop
-    Shift_R: noop
-    Control_L: commit_code
-    Control_R: inline_ascii
+    Shift_L: unset_ascii_mode
+    Shift_R: set_ascii_mode
+    Control_L: noop
+    Control_R: noop
   key_binder/select_first_character: "minus"
   key_binder/select_last_character: "equal"
   key_binder/bindings/=:
