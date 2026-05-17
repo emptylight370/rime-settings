@@ -2,6 +2,7 @@
 python.uv_venv_auto = "create|source"
 
 [tools]
+"pipx:isort" = "latest"
 "pipx:yapf" = "latest"
 python = "3.13"
 upx = "latest"
