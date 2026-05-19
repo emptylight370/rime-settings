@@ -5,7 +5,7 @@
 # 建议自定义短语或者词语追加在这里
 ---
 name: honkai_starrail
-version: "2026.05.06"
+version: "2026.05.19"
 sort: by_weight
 ...
 
@@ -645,6 +645,7 @@ Aedes Elysiae	āi lì mì xiè
 记忆中的模样	jì yì zhōng de mú yàng
 记忆主	jì yì zhǔ
 姬子	jī zǐ
+姬子·启行	jī zǐ qǐ xíng
 激奏雷电的乐队	jī zòu léi diàn de yuè duì
 基座舱段	jī zuò cāng duàn
 加持	jiā chí
