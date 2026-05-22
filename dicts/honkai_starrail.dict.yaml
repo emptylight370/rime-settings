@@ -5,7 +5,7 @@
 # 建议自定义短语或者词语追加在这里
 ---
 name: honkai_starrail
-version: "2026.05.19"
+version: "2026.05.22"
 sort: by_weight
 ...
 
@@ -79,6 +79,7 @@ Aedes Elysiae	āi lì mì xiè
 崩坏	bēng huài
 崩坏：星穹铁道	bēng huài xīng qióng tiě dào
 迸裂晶格	bèng liè jīng gé
+彼岸业火	bǐ àn yè huǒ
 比阳光更明亮	bǐ yáng guāng gèng míng liàng
 壁羽	bì yǔ
 变更通知	biàn gēng tōng zhī
@@ -185,6 +186,7 @@ Aedes Elysiae	āi lì mì xiè
 持明族	chí míng zú
 炽情之灵	chì qíng zhī líng
 炽燃徘徊者	chì rán pái huái zhě
+嗤笑丑面	chī xiào chǒu miàn
 持续伤害	chí xù shāng hài
 持续时间	chí xù shí jiān
 持续状态	chí xù zhuàng tài
@@ -301,6 +303,7 @@ Aedes Elysiae	āi lì mì xiè
 冬去煦至	dōng qù xù zhì
 动态线稿	dòng tài xiàn gǎo
 动物凶猛	dòng wù xiōng měng
+渡画泉隐	dù huà quán yǐn
 蠹役饥肠	dù yì jī cháng
 盾丹	dùn dān
 躲不过十五	duǒ bú guò shí wǔ
@@ -447,6 +450,7 @@ Aedes Elysiae	āi lì mì xiè
 孤星明尘	gū xīng míng chén
 观察日记	guān chá rì jì
 棺的回响	guān de huí xiǎng
+观火之径	guān huǒ zhī jìng
 冠军晚餐	guàn jūn wǎn cān
 观览云岛站	guān lǎn yún dǎo zhàn
 罐装快乐水	guàn zhuāng kuài lè shuǐ
@@ -615,6 +619,7 @@ Aedes Elysiae	āi lì mì xiè
 激冻人心的大冒险	jī dòng rén xīn de dà mào xiǎn
 极端氦闪	jí duān hài shǎn
 极端体验	jí duān tǐ yàn
+吉尔伽美什	jí ěr jiā měi shí
 集会所的留言板	jí huì suǒ de liú yán bǎn
 寂静领主	jì jìng lǐng zhǔ
 机铠种	jī kǎi zhǒng
@@ -776,6 +781,7 @@ Aedes Elysiae	āi lì mì xiè
 恐惧踏碎血肉	kǒng jù tà suì xuè ròu
 恐惧萦绕	kǒng jù yíng rào
 空无烛剪	kōng wú zhú jiǎn
+叩问天工的名冶	kòu wèn tiān gōng de míng yě
 苦寒晶壳	kǔ hán jīng ké
 苦难与阳光	kǔ nàn yǔ yáng guāng
 快速解锁	kuài sù jiě suǒ
@@ -1086,6 +1092,7 @@ Aedes Elysiae	āi lì mì xiè
 「千门之城」雅努萨波利斯	qiān mén zhī chéng yǎ nǔ sà bō lì sī
 千面变相	qiān miàn biàn xiàng
 千星荟萃之城	qiān xīng huì cuì zhī chéng
+千冶·刃	qiān yě rèn
 强化祷言	qiáng huà dǎo yán
 强化膏	qiáng huà gāo
 切变结构	qiē biàn jié gòu
@@ -1249,6 +1256,7 @@ Aedes Elysiae	āi lì mì xiè
 识之花	shí zhī huā
 识之花幼体	shí zhī huā yòu tǐ
 施诸愿印	shī zhū yuàn yìn
+始作画者，无量塔绘世	shǐ zuò huà zhě wú liàng tǎ huì shì
 收藏展柜	shōu cáng zhǎn guì
 兽棺之钉	shòu guān zhī dīng
 守护者的悲愿	shǒu hù zhě de bēi yuàn
@@ -1320,7 +1328,7 @@ Aedes Elysiae	āi lì mì xiè
 特殊护盾	tè shū hù dùn
 特殊商店	tè shū shāng diàn
 腾飞的荒龙	téng fēi de huāng lóng
-「腾飞的荒龙」丹恒•腾荒	téng fēi de huāng lóng dān héng téng huāng
+「腾飞的荒龙」丹恒·腾荒	téng fēi de huāng lóng dān héng téng huāng
 缇安	tí ān
 缇安娃娃	tí ān wá wa
 缇宝	tí bǎo
@@ -1390,6 +1398,7 @@ Aedes Elysiae	āi lì mì xiè
 屠魔之矢	tú mó zhī shǐ
 突破	tū pò
 兔子在哪里	tù zi zài nǎ lǐ
+吞神子嗣	tūn shén zǐ sì
 托帕	tuō pà
 托帕&账账	tuō pà zhàng zhàng
 拓扑加速带	tuò pū jiā sù dài
@@ -1407,6 +1416,7 @@ Aedes Elysiae	āi lì mì xiè
 万籁齐响的指挥家	wàn lài qí xiǎng de zhǐ huī jiā
 完美体验	wán měi tǐ yàn
 万能合成机	wàn néng hé chéng jī
+万色，愚者自将	wàn sè yú zhě zì jiāng
 万识囊	wàn shí náng
 万寿无情丹	wàn shòu wú qíng dān
 万相果实	wàn xiāng guǒ shí
@@ -1456,6 +1466,8 @@ Aedes Elysiae	āi lì mì xiè
 物件事故	wù jiàn shì gù
 无可取代的东西	wú kě qǔ dài de dōng xi
 物理	wù lǐ
+无量塔绘世	wú liàng tǎ huì shì
+无量塔姬子	wú liàng tǎ jī zǐ
 无名的追忆	wú míng de zhuī yì
 无名客	wú míng kè
 无名客的奖章	wú míng kè de jiǎng zhāng
@@ -1571,6 +1583,7 @@ Aedes Elysiae	āi lì mì xiè
 星间旅行	xīng jiān lǚ xíng
 星阶	xīng jiē
 星旅定制	xīng lǚ dìng zhì
+星启模式	xīng qǐ mó shì
 星期日	xīng qī rì
 星琼	xīng qióng
 星穹列车	xīng qióng liè chē
@@ -1578,6 +1591,7 @@ Aedes Elysiae	āi lì mì xiè
 星穹列车服	xīng qióng liè chē fú
 星穹列车领航员	xīng qióng liè chē lǐng háng yuán
 星穹铁道	xīng qióng tiě dào
+星如我见的领航员	xīng rú wǒ jiàn de lǐng háng yuán
 星神	xīng shén
 星体差分机	xīng tǐ chā fēn jī
 星天演武仪典	xīng tiān yǎn wǔ yí diǎn
@@ -1732,6 +1746,7 @@ Aedes Elysiae	āi lì mì xiè
 银河大乐透	yín hé dà lè tòu
 银河忽悠	yín hé hū yōu
 银河沦陷日	yín hé lún xiàn rì
+银河沙盘	yín hé shā pán
 银河商人	yín hé shāng rén
 银河铁道之声	yín hé tiě dào zhī shēng
 银河铁道之夜	yín hé tiě dào zhī yè
@@ -1812,6 +1827,7 @@ Aedes Elysiae	āi lì mì xiè
 宇宙大生意	yǔ zhòu dà shēng yì
 宇宙家装指南	yǔ zhòu jiā zhuāng zhǐ nán
 宇宙市场趋势	yǔ zhòu shì chǎng qū shì
+远坂凛	yuǎn bǎn lǐn
 原初的苦衷	yuán chū de kǔ zhōng
 愿此行	yuàn cǐ xíng
 愿此行，终抵群星	yuàn cǐ xíng zhōng dǐ qún xīng
@@ -1994,6 +2010,7 @@ Aedes Elysiae	āi lì mì xiè
 追加攻击	zhuī jiā gōng jī
 追忆残像	zhuī yì cán xiàng
 追逐风的时候	zhuī zhú fēng de shí hou
+灼尽炼狱的新骸	zhuó jìn liàn yù de xīn hái
 捉迷藏	zhuō mí cáng
 斫念的圣所	zhuó niàn de shèng suǒ
 灼烧	zhuó shāo
