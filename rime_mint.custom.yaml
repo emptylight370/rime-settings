@@ -30,3 +30,5 @@ patch:
   # 修改字典为自定义字典
   translator/dictionary: rime_mint.custom
   melt_eng/dictionary: melt_eng.custom
+  # 启用英文单词的补全
+  melt_eng/enable_completion: true
