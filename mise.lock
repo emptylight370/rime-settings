@@ -13,28 +13,28 @@ version = "3.13.13"
 backend = "core:python"
 
 [[tools.upx]]
-version = "5.1.1"
+version = "5.2.0"
 backend = "aqua:upx/upx"
 
 [tools.upx."platforms.linux-arm64"]
-checksum = "sha256:a307c2c821eeab47607ba5c232408b22ab884cca13884682508b98f7308b8443"
-url = "https://github.com/upx/upx/releases/download/v5.1.1/upx-5.1.1-arm64_linux.tar.xz"
+checksum = "sha256:55d48a61e8ffd17152db871c855376cba7f08e830b37799d0947a16dff8ec36c"
+url = "https://github.com/upx/upx/releases/download/v5.2.0/upx-5.2.0-arm64_linux.tar.xz"
 
 [tools.upx."platforms.linux-arm64-musl"]
-checksum = "sha256:a307c2c821eeab47607ba5c232408b22ab884cca13884682508b98f7308b8443"
-url = "https://github.com/upx/upx/releases/download/v5.1.1/upx-5.1.1-arm64_linux.tar.xz"
+checksum = "sha256:55d48a61e8ffd17152db871c855376cba7f08e830b37799d0947a16dff8ec36c"
+url = "https://github.com/upx/upx/releases/download/v5.2.0/upx-5.2.0-arm64_linux.tar.xz"
 
 [tools.upx."platforms.linux-x64"]
-checksum = "sha256:1ff660454227861e00772f743f66b900072116b9dc24f6ee28b97cce88a7828a"
-url = "https://github.com/upx/upx/releases/download/v5.1.1/upx-5.1.1-amd64_linux.tar.xz"
+checksum = "sha256:3db5d3294707439db97866feab8d75d800f028f48481a40547411824da4288a1"
+url = "https://github.com/upx/upx/releases/download/v5.2.0/upx-5.2.0-amd64_linux.tar.xz"
 
 [tools.upx."platforms.linux-x64-musl"]
-checksum = "sha256:1ff660454227861e00772f743f66b900072116b9dc24f6ee28b97cce88a7828a"
-url = "https://github.com/upx/upx/releases/download/v5.1.1/upx-5.1.1-amd64_linux.tar.xz"
+checksum = "sha256:3db5d3294707439db97866feab8d75d800f028f48481a40547411824da4288a1"
+url = "https://github.com/upx/upx/releases/download/v5.2.0/upx-5.2.0-amd64_linux.tar.xz"
 
 [tools.upx."platforms.windows-x64"]
-checksum = "sha256:fa5380bca4c2718547aaa0134bc0d8a7fa27e102f0ac6371573d60d1c21d64de"
-url = "https://github.com/upx/upx/releases/download/v5.1.1/upx-5.1.1-win64.zip"
+checksum = "sha256:b471ebf1b7f20f4a89150264ed9a008a2a5bfd247f3c6d1184a75bb59ca08f5d"
+url = "https://github.com/upx/upx/releases/download/v5.2.0/upx-5.2.0-win64.zip"
 
 [[tools.uv]]
 version = "0.11.19"
