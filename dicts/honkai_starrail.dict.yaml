@@ -5,7 +5,7 @@
 # 建议自定义短语或者词语追加在这里
 ---
 name: honkai_starrail
-version: "2026.05.22"
+version: "2026.06.24"
 sort: by_weight
 ...
 
@@ -138,6 +138,7 @@ Aedes Elysiae	āi lì mì xiè
 苍穹战线格拉默	cāng qióng zhàn xiàn gé lā mò
 仓鼠球骑士	cāng shǔ qiú qí shì
 苍天航路绒绒号	cāng tiān háng lù róng róng hào
+苍翼	cāng yì
 苍猿之钉	cāng yuán zhī dīng
 藏珍之蕾	cáng zhēn zhī lěi
 操行满分	cāo xíng mǎn fēn
@@ -190,6 +191,7 @@ Aedes Elysiae	āi lì mì xiè
 持续伤害	chí xù shāng hài
 持续时间	chí xù shí jiān
 持续状态	chí xù zhuàng tài
+赤焰	chì yàn
 斥逐	chì zhú
 虫巢	chóng cháo
 重返群星之旅	chóng fǎn qún xīng zhī lǚ
@@ -465,6 +467,7 @@ Aedes Elysiae	āi lì mì xiè
 归墟的迳庭	guī xū de jìng tíng
 诡弈砂金	guǐ yì shā jīn
 规则	guī zé
+轨之珠泪	guǐ zhī zhū lèi
 贵重战利品	guì zhòng zhàn lì pǐn
 果腹粮食	guǒ fù liáng shí
 国际服	guó jì fú
@@ -493,6 +496,7 @@ Aedes Elysiae	āi lì mì xiè
 好看的垃圾	hǎo kàn de lā jī
 好戏开演	hǎo xì kāi yǎn
 合成机	hé chéng jī
+合金机铠	hé jīn jī kǎi
 何物藏于镜中	hé wù cáng yú jìng zhōng
 何物朝向死亡	hé wù cháo xiàng sǐ wáng
 何物为真	hé wù wéi zhēn
@@ -553,6 +557,8 @@ Aedes Elysiae	āi lì mì xiè
 寰宇热寂特征数	huán yǔ rè jì tè zhēng shù
 欢愉主	huān yú zhǔ
 幻月秘庭	huàn yuè mì tíng
+幻造	huàn zào
+幻造种	huàn zào zhǒng
 黄昏战争	huáng hūn zhàn zhēng
 黄金大地	huáng jīn dà dì
 黄金短矛	huáng jīn duǎn máo
@@ -575,6 +581,7 @@ Aedes Elysiae	āi lì mì xiè
 回合数	huí hé shù
 辉痕圣林	huī hén shèng lín
 「辉痕圣林」神悟树庭	huī hén shèng lín shén wù shù tíng
+灰烬	huī jìn
 毁烬焚骨的大公	huǐ jìn fén gǔ de dà gōng
 回馈庇护	huí kuì bì hù
 毁灭的开端	huǐ miè de kāi duān
@@ -869,6 +876,7 @@ Aedes Elysiae	āi lì mì xiè
 流吧你的眼泪	liú ba nǐ de yǎn lèi
 流光定影	liú guāng dìng yǐng
 流光忆庭	liú guāng yì tíng
+六合，王手飞车	liù hé wáng shǒu fēi chē
 流岚追孽物	liú lán zhuī niè wù
 流浪者	liú làng zhě
 流星棱晶	liú xīng léng jīng
@@ -1041,6 +1049,7 @@ Aedes Elysiae	āi lì mì xiè
 欧洛尼斯神龛	ōu luò ní sī shén kān
 帕姆	pà mǔ
 帕姆帮帮	pà mǔ bāng bāng
+帕姆王	pà mǔ wáng
 帕姆衣帽间	pà mǔ yī mào jiān
 派对车厢	pài duì chē xiāng
 派系	pài xì
@@ -1267,6 +1276,7 @@ Aedes Elysiae	āi lì mì xiè
 手术刀与螺丝刀	shǒu shù dāo yǔ luó sī dāo
 狩星巡日	shòu xīng xún rì
 首演盛况	shǒu yǎn shèng kuàng
+曙光	shǔ guāng
 书库管理员	shū kù guǎn lǐ yuán
 疏离的煎熬	shū lí de jiān áo
 树苗长高舞	shù miáo zhǎng gāo wǔ
@@ -1290,6 +1300,7 @@ Aedes Elysiae	āi lì mì xiè
 死水深潜的先驱	sǐ shuǐ shēn qián de xiān qū
 斯缇科西亚	sī tí kē xī yà
 死亡之泰坦	sǐ wáng zhī tài tǎn
+四相，过河照君	sì xiāng guò hé zhào jūn
 思绪末屑	sī xù mò xiè
 颂言石板	sòng yán shí bǎn
 苏打豆汁儿	sū dá dòu zhī ér
@@ -1363,6 +1374,7 @@ Aedes Elysiae	āi lì mì xiè
 天人遗垢	tiān rén yí gòu
 天人之形	tiān rén zhī xíng
 天使型谢债发行机	tiān shǐ xíng xiè zhài fā xíng jī
+天体模型	tiān tǐ mó xíng
 天外合唱班	tiān wài hé chàng bān
 天外乐章	tiān wài yuè zhāng
 天外重声大碟	tiān wài zhòng shēng dà dié
@@ -1595,6 +1607,7 @@ Aedes Elysiae	āi lì mì xiè
 星神	xīng shén
 星体差分机	xīng tǐ chā fēn jī
 星天演武仪典	xīng tiān yǎn wǔ yí diǎn
+星系框架	xīng xì kuàng jià
 星星是冰冷的玩具	xīng xīng shì bīng lěng de wán jù
 星宿之声	xīng xiù zhī shēng
 星域界种指要	xīng yù jiè zhǒng zhǐ yào
