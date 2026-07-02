@@ -5,7 +5,7 @@
 # 建议自定义短语或者词语追加在这里
 ---
 name: honkai_starrail
-version: "2026.06.24"
+version: "2026.07.02"
 sort: by_weight
 ...
 
@@ -1191,6 +1191,7 @@ Aedes Elysiae	āi lì mì xiè
 桑弧蓬矢	sāng hú péng shǐ
 瑟希斯	sè xī sī
 砂金	shā jīn
+砂金·戏浪	shā jīn xì làng
 砂时镜下的幼园	shā shí jìng xià de yòu yuán
 赡养人类	shàn yǎng rén lèi
 闪耀的偏方三八面骰	shǎn yào de piān fāng sān bā miàn tóu
@@ -1947,6 +1948,7 @@ Aedes Elysiae	āi lì mì xiè
 至福舞会	zhì fú wǔ huì
 至高，至阳，天空的化身	zhì gāo zhì yáng tiān kōng de huà shēn
 知更鸟	zhī gèng niǎo
+知更鸟·晴歌	zhī gèng niǎo qíng gē
 致幻人鱼	zhì huàn rén yú
 知觉迷墙	zhī jué mí qiáng
 智库	zhì kù
