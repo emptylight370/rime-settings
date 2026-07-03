@@ -5,7 +5,7 @@
 # 建议自定义短语或者词语追加在这里
 ---
 name: honkai_starrail
-version: "2026.07.02"
+version: "2026.07.03"
 sort: by_weight
 ...
 
@@ -265,6 +265,7 @@ Aedes Elysiae	āi lì mì xiè
 当前攻击力	dāng qián gōng jī lì
 当前生命值	dāng qián shēng mìng zhí
 当她决定看见	dāng tā jué dìng kàn jiàn
+当一颗星照亮夜空	dāng yì kē xīng zhào liàng yè kōng
 到不了的彼岸	dào bù liǎo de bǐ àn
 盗匪荒漠的废土客	dào fěi huāng mò de fèi tǔ kè
 稻花	dào huā
@@ -555,9 +556,11 @@ Aedes Elysiae	āi lì mì xiè
 欢迎来到银河城	huān yíng lái dào yín hé chéng
 寰宇蝗灾	huán yǔ huáng zāi
 寰宇热寂特征数	huán yǔ rè jì tè zhēng shù
+寰宇生研院	huán yǔ shēng yán yuàn
 欢愉主	huān yú zhǔ
 幻月秘庭	huàn yuè mì tíng
 幻造	huàn zào
+幻造：圣杯战争	huàn zào shèng bēi zhàn zhēng
 幻造种	huàn zào zhǒng
 黄昏战争	huáng hūn zhàn zhēng
 黄金大地	huáng jīn dà dì
@@ -627,6 +630,7 @@ Aedes Elysiae	āi lì mì xiè
 极端氦闪	jí duān hài shǎn
 极端体验	jí duān tǐ yàn
 吉尔伽美什	jí ěr jiā měi shí
+吉尔伽美什	jí ěr jiā měi shí
 集会所的留言板	jí huì suǒ de liú yán bǎn
 寂静领主	jì jìng lǐng zhǔ
 机铠种	jī kǎi zhǒng
@@ -634,6 +638,7 @@ Aedes Elysiae	āi lì mì xiè
 机狼之形	jī láng zhī xíng
 极乐颠倒	jí lè diān dǎo
 极乐颠倒·邪愿莲华主	jí lè diān dǎo xié yuàn lián huá zhǔ
+寂灭空飨妖都	jì miè kōng xiǎng yāo dōu
 吉姆罗杰面包味汽水	jí mǔ luó jié miàn bāo wèi qì shuǐ
 纪念手办	jì niàn shǒu bàn
 击破敌方目标弱点	jī pò dí fāng mù biāo ruò diǎn
@@ -1319,6 +1324,7 @@ Aedes Elysiae	āi lì mì xiè
 「岁月彼岸」一页永恒	suì yuè bǐ àn yí yè yǒng héng
 岁月的界域	suì yuè de jiè yù
 岁月之泰坦	suì yuè zhī tài tǎn
+所见即我	suǒ jiàn jí wǒ
 她等待刀尖已经太久	tā děng dài dāo jiān yǐ jīng tài jiǔ
 塔兰顿	tǎ lán dùn
 祂们	tā men
@@ -1362,6 +1368,7 @@ Aedes Elysiae	āi lì mì xiè
 天国@直播间	tiān guó zhí bō jiān
 天剑如雨	tiān jiàn rú yǔ
 天空之泰坦	tiān kōng zhī tài tǎn
+甜梦电波	tián mèng diàn bō
 天谴斗士	tiān qiǎn dòu shì
 天谴歌队	tiān qiǎn gē duì
 天谴猎手	tiān qiǎn liè shǒu
@@ -1396,6 +1403,7 @@ Aedes Elysiae	āi lì mì xiè
 停云	tíng yún
 停转的萨尔索图	tíng zhuǎn de sà ěr suǒ tú
 彤弓素赠	tóng gōng sù zèng
+同人古士	tóng rén gǔ shì
 通往群星的轨道	tōng wǎng qún xīng de guǐ dào
 同谐	tóng xié
 同谐黏液	tóng xié nián yè
@@ -1429,6 +1437,7 @@ Aedes Elysiae	āi lì mì xiè
 万籁齐响的指挥家	wàn lài qí xiǎng de zhǐ huī jiā
 完美体验	wán měi tǐ yàn
 万能合成机	wàn néng hé chéng jī
+万色返空主，归寂	wàn sè fǎn kōng zhǔ guī jì
 万色，愚者自将	wàn sè yú zhě zì jiāng
 万识囊	wàn shí náng
 万寿无情丹	wàn shòu wú qíng dān
@@ -1445,6 +1454,7 @@ Aedes Elysiae	āi lì mì xiè
 微光原核	wēi guāng yuán hé
 危害性余光	wēi hài xìng yú guāng
 为何一切尚未消失	wèi hé yí qiè shàng wèi xiāo shī
+伪觉者的期许	wěi jué zhě de qī xǔ
 为了明日的旅途	wèi le míng rì de lǚ tú
 位面分裂	wèi miàn fēn liè
 位面饰品	wèi miàn shì pǐn
@@ -1495,6 +1505,7 @@ Aedes Elysiae	āi lì mì xiè
 物穰	wù ráng
 无生残刃	wú shēng cán rèn
 勿忘她的火焰	wù wàng tā de huǒ yàn
+五味伊磨吉	wǔ wèi yī mó jí
 呜呜伯	wū wū bó
 呜呜伯行为考	wū wū bó xíng wéi kǎo
 舞舞舞	wǔ wǔ wǔ
@@ -1506,6 +1517,7 @@ Aedes Elysiae	āi lì mì xiè
 无中生友指南	wú zhōng shēng yǒu zhǐ nán
 稀薄以太	xī bó yǐ tài
 希儿	xī ér
+喜剧学家	xǐ jù xué jiā
 希拉的人物剧本	xī lā de rén wù jù běn
 昔涟	xī lián
 希露瓦	xī lù wǎ
@@ -1583,6 +1595,7 @@ Aedes Elysiae	āi lì mì xiè
 星核猎手卡芙卡	xīng hé liè shǒu kǎ fú kǎ
 星回赐礼	xīng huí cì lǐ
 星魂	xīng hún
+星火悄然闪耀	xīng huǒ qiǎo rán shǎn yào
 星火游园	xīng huǒ yóu yuán
 星火之精	xīng huǒ zhī jīng
 星级	xīng jí
@@ -1842,6 +1855,7 @@ Aedes Elysiae	āi lì mì xiè
 宇宙家装指南	yǔ zhòu jiā zhuāng zhǐ nán
 宇宙市场趋势	yǔ zhòu shì chǎng qū shì
 远坂凛	yuǎn bǎn lǐn
+远坂凛	yuǎn bǎn lǐn
 原初的苦衷	yuán chū de kǔ zhōng
 愿此行	yuàn cǐ xíng
 愿此行，终抵群星	yuàn cǐ xíng zhōng dǐ qún xīng
@@ -2023,6 +2037,8 @@ Aedes Elysiae	āi lì mì xiè
 坠锋的楼台	zhuì fēng de lóu tái
 追击伤害加成	zhuī jī shāng hài jiā chéng
 追加攻击	zhuī jiā gōng jī
+坠星的摇篮	zhuì xīng de yáo lán
+坠星启航地	zhuì xīng qǐ háng dì
 追忆残像	zhuī yì cán xiàng
 追逐风的时候	zhuī zhú fēng de shí hou
 灼尽炼狱的新骸	zhuó jìn liàn yù de xīn hái
