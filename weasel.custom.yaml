@@ -76,3 +76,5 @@ patch:
       inline_preedit: false
     ProcessLasso.exe:
       ascii_mode: true
+    IObitUninstaler.exe:
+      ascii_mode: true
