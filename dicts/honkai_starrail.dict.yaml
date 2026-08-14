@@ -5,7 +5,7 @@
 # 建议自定义短语或者词语追加在这里
 ---
 name: honkai_starrail
-version: "2026.07.03"
+version: "2026.08.14"
 sort: by_weight
 ...
 
@@ -86,6 +86,7 @@ Aedes Elysiae	āi lì mì xiè
 变量骰子	biàn liàng tóu zi
 辨音调律	biàn yīn diào lǜ
 边缘通路	biān yuán tōng lù
+别看我，看它	bié kàn wǒ kàn tā
 别让世界静下来	bié ràng shì jiè jìng xià lái
 濒死梦泡	bīn sǐ mèng pào
 冰风暴成因	bīng fēng bào chéng yīn
@@ -792,6 +793,7 @@ Aedes Elysiae	āi lì mì xiè
 空间站黑塔	kōng jiān zhàn hēi tǎ
 恐惧踏碎血肉	kǒng jù tà suì xuè ròu
 恐惧萦绕	kǒng jù yíng rào
+空声院	kōng shēng yuàn
 空无烛剪	kōng wú zhú jiǎn
 叩问天工的名冶	kòu wèn tiān gōng de míng yě
 苦寒晶壳	kǔ hán jīng ké
@@ -1037,6 +1039,7 @@ Aedes Elysiae	āi lì mì xiè
 能量饮料	néng liàng yǐn liào
 能量饮料无糖	néng liàng yǐn liào wú táng
 拟合等级	nǐ hé děng jí
+你将起身歌唱	nǐ jiāng qǐ shēn gē chàng
 尼卡多利	ní kǎ duō lì
 逆时一击	nì shí yì jī
 匿影	nì yǐng
@@ -1105,7 +1108,9 @@ Aedes Elysiae	āi lì mì xiè
 千门之城	qiān mén zhī chéng
 「千门之城」雅努萨波利斯	qiān mén zhī chéng yǎ nǔ sà bō lì sī
 千面变相	qiān miàn biàn xiàng
+千星城	qiān xīng chéng
 千星荟萃之城	qiān xīng huì cuì zhī chéng
+千星戍卫	qiān xīng shù wèi
 千冶·刃	qiān yě rèn
 强化祷言	qiáng huà dǎo yán
 强化膏	qiáng huà gāo
@@ -1544,6 +1549,7 @@ Aedes Elysiae	āi lì mì xiè
 相关事宜	xiāng guān shì yí
 相关意见	xiāng guān yì jiàn
 相抗	xiāng kàng
+向浪花掷下盛夏	xiàng làng huā zhì xià shèng xià
 相邻目标	xiāng lín mù biāo
 橡木鸣蛀之梦	xiàng mù míng zhù zhī mèng
 相位灵火	xiàng wèi líng huǒ
@@ -1961,8 +1967,8 @@ Aedes Elysiae	āi lì mì xiè
 直到明天的明天	zhí dào míng tiān de míng tiān
 至福舞会	zhì fú wǔ huì
 至高，至阳，天空的化身	zhì gāo zhì yáng tiān kōng de huà shēn
-知更鸟	zhī gèng niǎo
-知更鸟·晴歌	zhī gèng niǎo qíng gē
+知更鸟	zhī gēng niǎo
+知更鸟·晴歌	zhī gēng niǎo qíng gē
 致幻人鱼	zhì huàn rén yú
 知觉迷墙	zhī jué mí qiáng
 智库	zhì kù
@@ -1991,6 +1997,7 @@ Aedes Elysiae	āi lì mì xiè
 支援舱段	zhī yuán cāng duàn
 执愿的囚室	zhí yuàn de qiú shì
 织造命运之线	zhī zào mìng yùn zhī xiàn
+指针塔	zhǐ zhēn tǎ
 蜘蛛	zhī zhū
 制作手调咖啡	zhì zuò shǒu diào kā fēi
 钟表把戏	zhōng biǎo bǎ xì
