@@ -5,7 +5,7 @@
 # 建议自定义短语或者词语追加在这里
 ---
 name: honkai_starrail
-version: "2026.08.14"
+version: "2026.09.21"
 sort: by_weight
 ...
 
@@ -27,6 +27,7 @@ sort: by_weight
 艾格勒	ài gé lè
 哀丽秘榭	āi lì mì xiè
 Aedes Elysiae	āi lì mì xiè
+艾莲	ài lián
 哀悯长臂	āi mǐn cháng bì
 哀荣泣石	āi róng qì shí
 爱如此刻永恒	ài rú cǐ kè yǒng héng
@@ -50,6 +51,7 @@ Aedes Elysiae	āi lì mì xiè
 白昼	bái zhòu
 白昼时空	bái zhòu shí kōng
 伴你入眠	bàn nǐ rù mián
+饱饱龙	bǎo bǎo lóng
 豹豹碰碰大赛场	bào bào pèng pèng dà sài chǎng
 豹豹碰碰大作战	bào bào pèng pèng dà zuò zhàn
 宝饵堂	bǎo ěr táng
@@ -80,6 +82,7 @@ Aedes Elysiae	āi lì mì xiè
 崩坏：星穹铁道	bēng huài xīng qióng tiě dào
 迸裂晶格	bèng liè jīng gé
 彼岸业火	bǐ àn yè huǒ
+比格椰	bǐ gé yē
 比阳光更明亮	bǐ yáng guāng gèng míng liàng
 壁羽	bì yǔ
 变更通知	biàn gēng tōng zhī
@@ -93,6 +96,7 @@ Aedes Elysiae	āi lì mì xiè
 冰棱之形	bīng léng zhī xíng
 冰酿之形	bīng niàng zhī xíng
 冰伤球	bīng shāng qiú
+冰糖相机	bīng táng xiàng jī
 冰套	bīng tào
 病痛的折磨	bìng tòng de zhé mó
 冰之芯	bīng zhī xīn
@@ -162,8 +166,10 @@ Aedes Elysiae	āi lì mì xiè
 超击破伤害	chāo jī pò shāng hài
 超静定场	chāo jìng dìng chǎng
 潮流品牌郊外	cháo liú pǐn pái jiāo wài
+潮玩礼券	cháo wán lǐ quàn
 潮汐的馈赠	cháo xī de kuì zèng
 超验之镜	chāo yàn zhī jìng
+车厘比斯	chē lí bǐ sī
 沉欢醉饮的海隅	chén huān zuì yǐn de hǎi yú
 晨昏的回眸	chén hūn de huí móu
 晨昏交界的翔鹰	chén hūn jiāo jiè de xiáng yīng
@@ -246,6 +252,7 @@ Aedes Elysiae	āi lì mì xiè
 大黑塔	dà hēi tǎ
 大矿区	dà kuàng qū
 大丽花	dà lì huā
+大魔导师	dà mó dǎo shī
 搭桥动作	dā qiáo dòng zuò
 大生命	dà shēng mìng
 大守护者	dà shǒu hù zhě
@@ -315,6 +322,7 @@ Aedes Elysiae	āi lì mì xiè
 多愁善感	duō chóu shàn gǎn
 躲得过初一	duǒ de guò chū yī
 多流汗，少流泪	duō liú hàn shǎo liú lèi
+堕神之血·亚婆离	duò shén zhī xuè yà pó lí
 恶海逐波的船长	è hǎi zhú bō de chuán zhǎng
 额外回复	é wài huí fù
 额外回合	é wài huí hé
@@ -399,6 +407,7 @@ Aedes Elysiae	āi lì mì xiè
 风之旋	fēng zhī xuán
 复归音阶	fù guī yīn jiē
 附加伤害	fù jiā shāng hài
+芙拉卡农	fú lā kǎ nóng
 浮黎	fú lí
 福灵胶	fú líng jiāo
 负面伤害加成	fù miàn shāng hài jiā chéng
@@ -804,6 +813,7 @@ Aedes Elysiae	āi lì mì xiè
 矿队的通牒	kuàng duì de tōng dié
 狂雷扫弦	kuáng léi sǎo xián
 狂怒褪去之壳	kuáng nù tuì qù zhī ké
+狂兽的胚芽	kuáng shòu de pēi yá
 旷野的呼告	kuàng yě de hū gào
 窥梦电话	kuī mèng diàn huà
 奎木	kuí mù
@@ -815,6 +825,7 @@ Aedes Elysiae	āi lì mì xiè
 朗道的选择	lǎng dào de xuǎn zé
 狼毒锯牙	láng dú jù yá
 浪花侍女	làng huā shì nǚ
+浪浪仙	làng làng xiān
 浪漫之泰坦	làng màn zhī tài tǎn
 老奥帝	lǎo ào dì
 老矿头的宝贝	lǎo kuàng tóu de bǎo bèi
@@ -883,6 +894,7 @@ Aedes Elysiae	āi lì mì xiè
 流吧你的眼泪	liú ba nǐ de yǎn lèi
 流光定影	liú guāng dìng yǐng
 流光忆庭	liú guāng yì tíng
+流光萤萤	liú guāng yíng yíng
 六合，王手飞车	liù hé wáng shǒu fēi chē
 流岚追孽物	liú lán zhuī niè wù
 流浪者	liú làng zhě
@@ -971,9 +983,11 @@ Aedes Elysiae	āi lì mì xiè
 秘技	mì jì
 秘技点	mì jì diǎn
 密林卧雪的猎人	mì lín wò xuě de liè rén
+密伶之径	mì líng zhī jìng
 迷迷	mí mí
 密密麻麻的日程	mì mì má má de rì chéng
 秘密誓心	mì mì shì xīn
+咪奈花	mī nài huā
 谧宁拾骨地	mì níng shí gǔ dì
 米沙	mǐ shā
 迷识之径	mí shí zhī jìng
@@ -982,6 +996,7 @@ Aedes Elysiae	āi lì mì xiè
 秘所思	mì suǒ sī
 宓堂传语	mì táng chuán yǔ
 宓堂空境	mì táng kōng jìng
+迷途兽	mí tú shòu
 迷惘	mí wǎng
 谜语人	mí yǔ rén
 喵伴新程	miāo bàn xīn chéng
@@ -1124,6 +1139,7 @@ Aedes Elysiae	āi lì mì xiè
 清唱剧排练时间	qīng chàng jù pái liàn shí jiān
 青年近卫军	qīng nián jìn wèi jūn
 青雀	qīng què
+晴天鸟鸟	qíng tiān niǎo niǎo
 青铜的执着	qīng tóng de zhí zhuó
 情绪舍锅	qíng xù shě guō
 轻雨浥尘	qīng yǔ yì chén
@@ -1131,6 +1147,7 @@ Aedes Elysiae	āi lì mì xiè
 「穹顶关塞」晨昏之眼	qióng dǐng guān sài chén hūn zhī yǎn
 穷观阵	qióng guān zhèn
 琼实鸟串	qióng shí niǎo chuàn
+球棒狸	qiú bàng lí
 求药使	qiú yào shǐ
 全面回忆	quán miàn huí yì
 全世矩阵	quán shì jǔ zhèn
@@ -1249,6 +1266,7 @@ Aedes Elysiae	āi lì mì xiè
 生命之芽	shēng mìng zhī yá
 生命值总量	shēng mìng zhí zǒng liàng
 圣颂之径	shèng sòng zhī jìng
+生研院	shēng yán yuàn
 圣烛	shèng zhú
 士兵们默默无言	shì bīng men mò mò wú yán
 市场开拓部	shì chǎng kāi tuò bù
@@ -1343,6 +1361,7 @@ Aedes Elysiae	āi lì mì xiè
 太阳灯纹	tài yáng dēng wén
 太一之梦	tài yī zhī mèng
 弹簧荷官	tán huáng hé guān
+贪噬禁果的异端	tān shì jìn guǒ de yì duān
 探索模式	tàn suǒ mó shì
 躺在铁锈中	tǎng zài tiě xiù zhōng
 陶德雷奥登	táo dé léi ào dēng
@@ -1526,6 +1545,8 @@ Aedes Elysiae	āi lì mì xiè
 希拉的人物剧本	xī lā de rén wù jù běn
 昔涟	xī lián
 希露瓦	xī lù wǎ
+戏梦点星的伶人	xì mèng diǎn xīng de líng rén
+昔米露	xī mǐ lù
 熄灭原核	xī miè yuán hé
 希佩	xī pèi
 昔在	xī zài
@@ -1533,6 +1554,7 @@ Aedes Elysiae	āi lì mì xiè
 下次行动	xià cì xíng dòng
 遐蝶	xiá dié
 弦歌之径	xián gē zhī jìng
+献给明日的色彩	xiàn gěi míng rì de sè cǎi
 仙女木	xiān nǚ mù
 陷入无法战斗状态	xiàn rù wú fǎ zhàn dòu zhuàng tài
 衔药龙女	xián yào lóng nǚ
@@ -1555,6 +1577,7 @@ Aedes Elysiae	āi lì mì xiè
 相位灵火	xiàng wèi líng huǒ
 香涎干酪	xiāng xián gān lào
 向着不可追问处	xiàng zhe bù kě zhuī wèn chù
+向着地平线的终点	xiàng zhe dì píng xiàn de zhōng diǎn
 小吃摊	xiǎo chī tān
 效果抵抗	xiào guǒ dǐ kàng
 效果命中	xiào guǒ mìng zhòng
@@ -1610,6 +1633,7 @@ Aedes Elysiae	āi lì mì xiè
 星际和平公司	xīng jì hé píng gōng sī
 星际和平工作证	xīng jì hé píng gōng zuò zhèng
 星际和平指南	xīng jì hé píng zhǐ nán
+星际幻宠	xīng jì huàn chǒng
 星间构筑	xīng jiān gòu zhù
 星间流浪	xīng jiān liú làng
 星间旅行	xīng jiān lǚ xíng
@@ -1718,6 +1742,7 @@ Aedes Elysiae	āi lì mì xiè
 爻光	yáo guāng
 摇滚	yáo gǔn
 摇滚狂徒	yáo gǔn kuáng tú
+耀嘉音	yào jiā yīn
 妖精织梦的乐园	yāo jīng zhī mèng de lè yuán
 遥控机巧鸟	yáo kòng jī qiǎo niǎo
 曜青	yào qīng
@@ -1802,6 +1827,7 @@ Aedes Elysiae	āi lì mì xiè
 银鬃铁卫宣誓词	yín zōng tiě wèi xuān shì cí
 银鬃尉官	yín zōng wèi guān
 应天涉远的卜者	yìng tiān shè yuǎn de bo zhě
+嘤嘤子	yīng yīng zǐ
 永不停嘴的羊皮卷	yǒng bù tíng zuǐ de yáng pí juǎn
 永动	yǒng dòng
 永冬碑石	yǒng dōng bēi shí
@@ -1871,6 +1897,7 @@ Aedes Elysiae	āi lì mì xiè
 源究森林	yuán jiū sēn lín
 源究院	yuán jiū yuàn
 愿旅途永远坦然	yuàn lǚ tú yǒng yuǎn tǎn rán
+圆目将军	yuán mù jiāng jūn
 圆幕先生	yuán mù xiān shēng
 原能量上限	yuán néng liàng shàng xiàn
 原伤害	yuán shāng hài
@@ -1879,6 +1906,7 @@ Aedes Elysiae	āi lì mì xiè
 渊思寂虑的巨树	yuān sī jì lǜ de jù shù
 愿印	yuàn yìn
 远征记	yuǎn zhēng jì
+月待花时	yuè dài huā shí
 阅读物	yuè dú wù
 月狂	yuè kuáng
 月狂獠牙	yuè kuáng liáo yá
@@ -1888,6 +1916,7 @@ Aedes Elysiae	āi lì mì xiè
 约特伍德水晶体	yuē tè wǔ dé shuǐ jīng tǐ
 约特伍德体是石头	yuē tè wǔ dé tǐ shì shí tou
 月夜天马	yuè yè tiān mǎ
+云边拾暖	yún biān shí nuǎn
 云镝逐步离	yún dī zhú bù lí
 云端遗堡	yún duān yí bǎo
 「云端遗堡」晨昏之眼	yún duān yí bǎo chén hūn zhī yǎn
@@ -1959,6 +1988,7 @@ Aedes Elysiae	āi lì mì xiè
 镇灵敕符	zhèn líng chì fú
 镇球塑像	zhèn qiú sù xiàng
 真蛰虫	zhēn zhé chóng
+真珠	zhēn zhū
 征服或被征服	zhēng fú huò bèi zhēng fú
 正阳狮鹫	zhèng yáng shī jiù
 征友启事	zhēng yǒu qǐ shì
