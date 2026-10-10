@@ -3,7 +3,6 @@ python.uv_venv_auto = "create|source"
 
 [tools]
 "pypi:isort" = "latest"
-"pypi:yapf" = "latest"
 python = "3.14"
 upx = "latest"
 uv = "latest"
