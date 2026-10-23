@@ -78,7 +78,7 @@
 
 本地使用 Python 3.13，未特别安装依赖库。感谢通义。目前的扩展词库使用此方式排序，如崩坏系列、明日方舟、脑叶系列等词库。
 
-# Quicker 动作
+### Quicker 动作
 
 目前也写了一个 Quicker 动作，可以对选中的行进行排序，并且将排序结果写回编辑器中。脚本地址为[rime 词库排序 - by Emptylight - 动作信息 - Quicker](https://getquicker.net/Sharedaction?code=17042fb9-5292-4bdf-0172-08dd6c0ac9c8)，目前测试中，可以正常对 VSCode 中打开的词库进行排序。
 
