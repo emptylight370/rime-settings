@@ -5,7 +5,7 @@
 # 建议自定义短语或者词语追加在这里
 ---
 name: honkai_starrail
-version: "2026.09.21"
+version: "2026.10.30"
 sort: by_weight
 ...
 
@@ -270,6 +270,7 @@ Aedes Elysiae	āi lì mì xiè
 但战斗还未结束	dàn zhàn dòu hái wèi jié shù
 弹珠机	dàn zhū jī
 荡除蟲灾的铁骑	dàng chú chóng zāi de tiě jì
+当第一声「阿哈」响起	dāng dì yī shēng ā hā xiǎng qǐ
 当前攻击力	dāng qián gōng jī lì
 当前生命值	dāng qián shēng mìng zhí
 当她决定看见	dāng tā jué dìng kàn jiàn
@@ -303,6 +304,7 @@ Aedes Elysiae	āi lì mì xiè
 点个关注吧!	diǎn gè guān zhù ba
 电射牛斗	diàn shè niú dòu
 电视购物频道	diàn shì gòu wù pín dào
+点星船	diǎn xīng chuán
 迭代机甲	dié dài jī jiǎ
 蝶立锋锷	dié lì fēng è
 叠影	dié yǐng
@@ -472,6 +474,7 @@ Aedes Elysiae	āi lì mì xiè
 光锥呈现	guāng zhuī chéng xiàn
 光锥碎忆	guāng zhuī suì yì
 轨道红移	guǐ dào hóng yí
+归寂的馈赠	guī jì de kuì zèng
 诡计之泰坦	guǐ jì zhī tài tǎn
 桂乃芬	guì nǎi fēn
 归途助力	guī tú zhù lì
@@ -639,6 +642,7 @@ Aedes Elysiae	āi lì mì xiè
 激冻人心的大冒险	jī dòng rén xīn de dà mào xiǎn
 极端氦闪	jí duān hài shǎn
 极端体验	jí duān tǐ yàn
+饥饿的乳牙	jī è de rǔ yá
 吉尔伽美什	jí ěr jiā měi shí
 吉尔伽美什	jí ěr jiā měi shí
 集会所的留言板	jí huì suǒ de liú yán bǎn
@@ -1119,6 +1123,7 @@ Aedes Elysiae	āi lì mì xiè
 奇想师班	qí xiǎng shī bān
 其渊渺渺	qí yuān miǎo miǎo
 器元士	qì yuán shì
+奇缘星魂	qí yuán xīng hún
 潜爆机兵	qián bào jī bīng
 千门之城	qiān mén zhī chéng
 「千门之城」雅努萨波利斯	qiān mén zhī chéng yǎ nǔ sà bō lì sī
@@ -1229,6 +1234,7 @@ Aedes Elysiae	āi lì mì xiè
 哨戒卫星	shào jiè wèi xīng
 射不主皮	shè bù zhǔ pí
 社会性梦境	shè huì xìng mèng jìng
+神的瞬息欢愉	shén de shùn xī huān yú
 深度沉浸器	shēn dù chén jìn qì
 深寒徘徊者	shēn hán pái huái zhě
 神话的罅隙	shén huà de xià xì
@@ -1360,6 +1366,7 @@ Aedes Elysiae	āi lì mì xiè
 泰坦颂诗	tài tǎn sòng shī
 太阳灯纹	tài yáng dēng wén
 太一之梦	tài yī zhī mèng
+贪欢的神颅	tān huān de shén lú
 弹簧荷官	tán huáng hé guān
 贪噬禁果的异端	tān shì jìn guǒ de yì duān
 探索模式	tàn suǒ mó shì
@@ -1541,6 +1548,7 @@ Aedes Elysiae	āi lì mì xiè
 无中生友指南	wú zhōng shēng yǒu zhǐ nán
 稀薄以太	xī bó yǐ tài
 希儿	xī ér
+喜剧的残渣	xǐ jù de cán zhā
 喜剧学家	xǐ jù xué jiā
 希拉的人物剧本	xī lā de rén wù jù běn
 昔涟	xī lián
@@ -1649,6 +1657,7 @@ Aedes Elysiae	āi lì mì xiè
 星穹铁道	xīng qióng tiě dào
 星如我见的领航员	xīng rú wǒ jiàn de lǐng háng yuán
 星神	xīng shén
+星神★阿哈	xīng shén ā hā
 星体差分机	xīng tǐ chā fēn jī
 星天演武仪典	xīng tiān yǎn wǔ yí diǎn
 星系框架	xīng xì kuàng jià
@@ -1712,6 +1721,7 @@ Aedes Elysiae	āi lì mì xiè
 寻药溯源	xún yào sù yuán
 亚服	yà fú
 亚共晶体	yà gòng jīng tǐ
+亚空异容所	yà kōng yì róng suǒ
 雅利洛	yǎ lì luò
 雅利洛六号	yǎ lì luò liù hào
 雅努萨波利斯	yǎ nǔ sà bō lì sī
@@ -1903,6 +1913,7 @@ Aedes Elysiae	āi lì mì xiè
 原伤害	yuán shāng hài
 原生黑洞	yuán shēng hēi dòng
 原始博士	yuán shǐ bó shì
+渊兽原体	yuān shòu yuán tǐ
 渊思寂虑的巨树	yuān sī jì lǜ de jù shù
 愿印	yuàn yìn
 远征记	yuǎn zhēng jì
@@ -1939,6 +1950,7 @@ Aedes Elysiae	āi lì mì xiè
 灾梦余温	zāi mèng yú wēn
 「灾梦余温」无名泰坦大墓	zāi mèng yú wēn wú míng tài tǎn dà mù
 灾难性共振	zāi nàn xìng gòng zhèn
+在世界尽头相会吧！	zài shì jiè jìn tóu xiāng huì ba
 在屋外的黑暗中洗涤	zài wū wài de hēi àn zhōng xǐ dí
 赞达尔	zàn dá ěr
 葬忆彼岸	zàng yì bǐ àn
@@ -1977,6 +1989,7 @@ Aedes Elysiae	āi lì mì xiè
 柘弓危矢	zhè gōng wēi shǐ
 这就是我啦!	zhè jiù shì wǒ la
 这里的黎明	zhè lǐ de lí míng
+这样就能把你捧在手心啦	zhè yàng jiù néng bǎ nǐ pěng zài shǒu xīn la
 折纸大学	zhé zhǐ dà xué
 折纸小鸟	zhé zhǐ xiǎo niǎo
 折纸小鸟对对碰	zhé zhǐ xiǎo niǎo duì duì pèng
