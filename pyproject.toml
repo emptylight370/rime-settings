@@ -8,6 +8,6 @@ dependencies = [
   "auto-py-to-exe>=2.50.0",
 ]
 
-[[tool.uv.index]]
-url = "https://mirrors.cernet.edu.cn/pypi/web/simple"
-default = true
+# [[tool.uv.index]]
+# url = "https://mirrors.cernet.edu.cn/pypi/web/simple"
+# default = true
